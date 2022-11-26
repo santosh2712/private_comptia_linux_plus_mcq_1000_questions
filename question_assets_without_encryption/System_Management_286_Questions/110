@@ -1,0 +1,7 @@
+Which partition type is used to indicate a software RAID array, such as an array builtwith mdadm?
+A)  0xmd
+B)  - x-
+C)  0xRD
+D)  0xFD
+D
+D. A partition type of 0xFD is used for software RAID arrays. This can be set or viewedusing a tool such as fdisk. The other options shown are not valid partition types.

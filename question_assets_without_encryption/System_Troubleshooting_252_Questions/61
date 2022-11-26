@@ -1,0 +1,7 @@
+Which option to tcpdump sets the snapshot length of packets to capture?
+A)  - s
+B)  - l
+C)  - d
+D)  - c
+A
+A. The - s option sets the snapshot length, or snaplen, of the capture instead of its defaultof 65,535 bytes. The - l option provides line buffering, - c stops after the indicated countof packets are received, and - d dumps compiled packet- matching code into a format thatis readable.

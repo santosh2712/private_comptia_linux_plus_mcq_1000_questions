@@ -1,0 +1,7 @@
+Which option to the ioping command sets the number of requests to send?
+A)  - r
+B)  - c
+C)  - n
+D)  - a
+B
+B. The - c option sets the number of requests to send with ioping. The other optionsgiven are not valid for use with ioping.

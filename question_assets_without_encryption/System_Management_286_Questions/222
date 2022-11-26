@@ -1,0 +1,7 @@
+When using ls - la to obtain a directory listing, you see an object with permissions oflrwxrwxrwx. What type of object is this?
+A)  It is a directory.
+B)  It is a symlink.
+C)  It is a temporary file.
+D)  It is a local file.
+B
+B. The l within the listing indicates a symlink. There is no way to tell if a file or directoryis temporary. A directory will display a d instead of an l.

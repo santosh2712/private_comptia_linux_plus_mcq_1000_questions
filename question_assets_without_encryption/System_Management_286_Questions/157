@@ -1,0 +1,7 @@
+What command is used to bring a command to foreground processing after it has beenbackgrounded with an &?
+A)  bg
+B)  fore
+C)  4g
+D)  fg
+D
+D. The fg command will bring a command to the foreground if it has been backgroundedwith either & or the bg command.

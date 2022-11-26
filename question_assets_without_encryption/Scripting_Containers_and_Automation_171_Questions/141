@@ -1,0 +1,7 @@
+Which of the following docker commands shows the current running containers?
+A)  container show
+B)  container ls
+C)  list - containers
+D)  show container
+B
+B. The container ls command to docker displays the current list of containers. Noneof the other commands are valid.

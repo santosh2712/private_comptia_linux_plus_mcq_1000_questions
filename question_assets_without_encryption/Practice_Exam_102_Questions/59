@@ -1,0 +1,7 @@
+Which rpm option can be used to verify that no files have been altered since installation?
+A)  - V
+B)  - v
+C)  - - verbose
+D)  - - filesum
+A
+A. The - V or - - verify option will check the files in a given package against versions (or check-sums) in the package database. If no files have been altered, then no output is produced. Notethat output may be produced for files that are changed during installation or for other reasons.Note also the use of an uppercase V for this option as opposed to the lowercase v for verbose.

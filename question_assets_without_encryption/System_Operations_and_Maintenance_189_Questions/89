@@ -1,0 +1,7 @@
+When running useradd, which option needs to be specified in order for the users homedirectory to be created?
+A)  - h
+B)  - m
+C)  - x
+D)  - a
+B
+B. The - m option causes the users home directory to be created. By default, if this optionisnt specified and CREATE_HOME has not been set, the home directory wont be created. The- h option displays help text, and the other options shown are not valid.

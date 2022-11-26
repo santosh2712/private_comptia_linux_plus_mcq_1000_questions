@@ -1,0 +1,7 @@
+Linkerd, Consul Connect, and Istio are examples of software to provide which type ofabstraction when working with Kubernetes?
+A)  Service mesh
+B)  Virus scanning
+C)  Multifactor authentication
+D)  Mapping
+A
+A. Linkerd, Consul Connect, and Istio are examples of service mesh frameworks ormanagement systems for Kubernetes. A service mesh is used to provide abstraction andmanagement of microservices and networking.

@@ -1,0 +1,7 @@
+Which of the following files is used to define the filesystems shared by NFS?
+A)  /etc/nfs.cfg
+B)  /etc/nfs.conf
+C)  /etc/export.nfs
+D)  /etc/exports
+D
+D. The file /etc/exports contains definitions of filesystems to be shared using NFS. Theother files are not valid for use with NFS.Chapter 5: Practice Exam245

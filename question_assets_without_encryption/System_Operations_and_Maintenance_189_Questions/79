@@ -1,0 +1,7 @@
+Assume that passwords must be changed every 60 days. Which command will changethe date of the users last password change without the user actually changing theaccount password?
+A)  chage - f
+B)  chage - W
+C)  chage - l
+D)  chage - d
+D
+D. The chage command is used for this purpose. The - d option sets the days since the lastpassword change and is measured in days since January 1, 1970. The - W option is the daysof warning for changing a password, and the - l option displays a list of the various settingsrelated to the account. There is no - f option.4.

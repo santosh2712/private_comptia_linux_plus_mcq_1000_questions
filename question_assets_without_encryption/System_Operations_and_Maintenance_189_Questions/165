@@ -1,0 +1,7 @@
+Which format should the certificate and key be in for a Postfix TLS configuration?
+A)  PKCS
+B)  PEM
+C)  TLS
+D)  SSL
+B
+B. PEM format is used for public and private keys with a Postfix TLS configuration. Theother methods listed are valid cryptographic algorithms or systems but not for the scenariodescribed. As with Sendmail, system administrators should take steps to secure mail serversso that the servers are not used for sending unsolicited email. For many scenarios, a full mailserver like Postfix or Sendmail is not required in order to simply relay mail from a server.

@@ -1,0 +1,7 @@
+Which option to modprobe will remove a module and attempt to remove any unused mod-ules on which it depends?
+A)  - v
+B)  - r
+C)  - d
+D)  - f
+B
+B. The - r option removes the named kernel modules and attempts to remove any moduleson which the named module depends, where possible. The - d option sets the root directoryfor modules, while - v is verbose and - f forces the module to load.

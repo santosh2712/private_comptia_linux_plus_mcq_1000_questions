@@ -1,0 +1,7 @@
+Which of the following files should be used to display a message to users prior to loggingin locally?
+A)  /etc/loginmesg
+B)  /etc/logmessage.txt
+C)  /etc/issue
+D)  /etc/banner
+C
+C. The /etc/issue file is used to provide a message to users, such as a login banner,prior to local login. The other files shown are not valid for the purpose described.

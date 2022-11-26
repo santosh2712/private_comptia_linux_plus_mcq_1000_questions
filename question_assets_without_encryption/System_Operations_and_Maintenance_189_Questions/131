@@ -1,0 +1,7 @@
+Digital signatures can be provided in Linux through which of the following commands?
+A)  gds
+B)  gpg
+C)  dmc
+D)  gds2
+B
+B. GnuPG can be used to provide digital signatures through its gpg command. The otheranswers shown are not valid.

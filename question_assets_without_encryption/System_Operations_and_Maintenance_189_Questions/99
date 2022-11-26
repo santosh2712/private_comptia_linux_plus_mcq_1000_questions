@@ -1,0 +1,7 @@
+Which of the following commands enables forwarding such as would be used for NAT?
+A)  echo "1" > /proc/sys/net/ipv4/nat
+B)  echo "1" > /proc/sys/net/ipv4/ip_forward
+C)  iptables - - enable- forwarding
+D)  ip- forward - - enable
+B
+B. Echoing a 1 to the /proc/sys/net/ipv4/ip_forward file enables forwarding ofIP packets. This is necessary in order to utilize NAT and for other uses. There is a similarfile for IPv6 at /proc/sys/net/ipv6/ip_forward. There is no /proc/sys/net/ipv4/nat file.

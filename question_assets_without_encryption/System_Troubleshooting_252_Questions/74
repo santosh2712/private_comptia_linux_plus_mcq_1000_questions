@@ -1,0 +1,7 @@
+While troubleshooting network congestion, which option to the ss command shows theoverall number of network connections?
+A)  - s
+B)  - c
+C)  - w
+D)  - h
+A
+A. The - s option displays summary numbers of connections. The - h option displays helpand - w displays raw sockets. There is no - c option.240Appendix  Answers to the Review Questions

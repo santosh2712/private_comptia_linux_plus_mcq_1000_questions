@@ -1,0 +1,7 @@
+Which timer expression configures a systemd timer unit file to execute once a week?
+A)  OnCalendar=*/7
+B)  Time=Week
+C)  OnCalendar=weekly
+D)  TimedEvent=Sunday
+C
+C. The OnCalendar=weekly expression will cause the event to run weekly. The otheroptions shown are not valid for this scenario. It is notable that Option A containsOnCalendar, and asterisks or wildcards are valid when configuring event timing withsystemd timers. However, that option is not correct because the syntax of the wild-card is wrong.Chapter 4: Troubleshooting (Domain 4.0)237

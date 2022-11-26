@@ -1,0 +1,7 @@
+What is the command to display the default target on a computer running systemd?
+A)  systemctl defaults
+B)  update- rc.d defaults
+C)  systemctl runlevel
+D)  systemctl get- default
+D
+D. The systemctl get- default command will show the default target. The other com-mands and options are not valid.4.

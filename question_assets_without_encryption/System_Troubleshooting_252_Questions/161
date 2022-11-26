@@ -1,0 +1,7 @@
+Which type of module interface for PAM is used to set a policy such as the time of day thata user can log in?
+A)  auth
+B)  account
+C)  password
+D)  policy
+B
+B. The account module interface is where access verification occurs. Among the otheroptions, the auth and password interfaces are used for different purposes, and there is nopolicy interface.

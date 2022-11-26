@@ -1,0 +1,7 @@
+Which file contains a message that is displayed after successful login?
+A)  /etc/loginbanner
+B)  /etc/issue
+C)  /etc/motd
+D)  /etc/message
+C
+C. The contents of the file motd, an abbreviation for Message of the Day, are displayedwhen a user logs in successfully. Among the other options, the contents of /etc/issueare displayed prior to local login. The other filenames are not valid for this purpose.

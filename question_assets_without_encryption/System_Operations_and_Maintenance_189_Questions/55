@@ -1,0 +1,7 @@
+Which of the following commands changes a group called DomainAdmins to DomainUsers?
+A)  groupmod - n DomainUsers DomainAdmins
+B)  groupchg DomainAdmins DomainUsers
+C)  chgroup DomainAdmins DomainUsers
+D)  group - N DomainAdmins DomainUsers
+A
+A. The groupmod command is used for this purpose, and the - n option is used to changethe group name. The other commands listed do not exist.

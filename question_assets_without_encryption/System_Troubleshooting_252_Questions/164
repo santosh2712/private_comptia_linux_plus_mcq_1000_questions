@@ -1,0 +1,7 @@
+Which option to tune2fs enables the specification of various journal options such as speci-fying the location of the journal itself?
+A)  - a
+B)  - J
+C)  - x
+D)  - A
+B
+B. The - J option enables specification of various settings for the journal such as its location.The other options shown are not valid.

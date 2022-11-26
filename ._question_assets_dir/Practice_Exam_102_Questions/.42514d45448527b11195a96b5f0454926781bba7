@@ -1,0 +1,7 @@
+Which of the following commands is necessary for making a variable defined in your currentshell available to child processes?
+A)  export
+B)  source
+C)  let
+D)  def
+A
+A. The export command is necessary so that any variables that are manually defined inyour current session become available to child processes. The source command executes thefile and can be used for the purpose described but requires an additional argument. The letand def commands are not valid.

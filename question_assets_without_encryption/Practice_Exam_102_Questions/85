@@ -1,0 +1,7 @@
+Which command displays a list of jobs currently scheduled with at?
+A)  atlist
+B)  atq
+C)  atl
+D)  at - - jobs
+B
+B. The atq command shows a list of jobs that have been scheduled with the at command.The other commands dont exist, with the exception of option D, which shows the atcommand but with an invalid option (- - jobs).

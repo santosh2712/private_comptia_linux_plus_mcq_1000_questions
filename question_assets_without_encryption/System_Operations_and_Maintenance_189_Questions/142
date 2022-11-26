@@ -1,0 +1,7 @@
+Which option to the su command will execute a single command with a non-interactive session?
+A)  - s
+B)  - u
+C)  - c
+D)  - e
+C
+C. The - c option executes a single command but does so without an interactive session. The- s option specifies the shell to be used. There is no - u or - e option for the su command.

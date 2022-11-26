@@ -1,0 +1,7 @@
+Which command can be used to help diagnose latency issues with a disk?
+A)  diskstat
+B)  statd
+C)  fdisk
+D)  ioping
+D
+D. The ioping command sends requests to a given disk and records the time taken forthe request. Of the other commands, fdisk is valid but would not be used to determineperformance- related issues. The other commands are not valid.

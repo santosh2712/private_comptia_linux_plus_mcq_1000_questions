@@ -1,0 +1,7 @@
+Which of the following commands will set the environment variable JAVA_PATH equal to/home/user/java2 when using the Bash shell?
+A)  invoke JAVA_PATH=/home/user/java2
+B)  export JAVA_PATH=/home/user/java2
+C)  envvar JAVA_PATH=/home/user/java2
+D)  echo JAVA_PATH=/home/user/java2
+B
+B. The export command is used for this purpose and accepts a name=value pair, asshown in the answer. The other commands are not valid, with the exception of the echocommand, which will simply echo the argument to the console.

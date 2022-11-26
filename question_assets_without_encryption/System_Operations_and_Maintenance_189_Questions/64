@@ -1,0 +1,7 @@
+You need to provide SSL certificates for several hosts within your organization, some ofwhich are public- facing. Which type of certificate should be used for this purpose?
+A)  Wildcard certificate
+B)  Self- signed certificate
+C)  Certificate- in- escrow
+D)  Unchained certificate
+A
+A. A wildcard certificate is appropriate for this use case. The wildcard certificate is thenvalid for all hosts in the same domain. While a self- signed certificate could be used, thescenario specified public- facing hosts, which means that a trusted certificate authority willneed to be used in order for public end users to automatically trust the certificate. Theother two options are not valid.

@@ -1,0 +1,7 @@
+You are receiving reports of timeouts from users attempting to SSH between servers. Whichcommand should be used to help troubleshoot these reports?
+A)  tcptraceroute
+B)  ping
+C)  telnet
+D)  ps
+A
+A. The tcptraceroute command should be used for this purpose. This commandattempts to connect to the destination on the TCP port specified. This method is preferredover a simple ping because ICMP may be filtered, thus giving an inaccurate diagnosis. Theother commands would not be used for this purpose.

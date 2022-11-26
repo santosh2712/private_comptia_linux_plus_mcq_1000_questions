@@ -1,0 +1,7 @@
+When viewing the results of a traceroute, you see !H. To what does !H refer?
+A)  Network unreachable
+B)  Host available
+C)  Host unreachable
+D)  High length
+C
+C. The !H sequence indicates host unreachable. Network unreachable is !N.

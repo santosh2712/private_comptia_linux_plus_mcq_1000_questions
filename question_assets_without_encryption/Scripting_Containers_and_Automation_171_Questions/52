@@ -1,0 +1,7 @@
+Which of the following best describes an overlay network when used with technology suchas Kubernetes?
+A)  An overlay network is a newly deployed network that uses real- world IP addresses ontop of existing private IP addresses.
+B)  An overlay network is a virtual network used for communication between containers.
+C)  An overlay network is used for IPv6 communication on top of IPv4 infrastructure.
+D)  An overlay network is used for communication between wifi- enabled hosts and con-
+B
+B. An overlay network describes virtual networking typically created for and used withinthe context of virtualization or containerized applications. With Kubernetes, an overlay net-work facilitates communication within a pod.

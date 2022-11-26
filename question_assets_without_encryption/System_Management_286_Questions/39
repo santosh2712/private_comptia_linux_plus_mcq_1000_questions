@@ -1,0 +1,7 @@
+You are troubleshooting a DNS problem using the dig command and receive a status:NXDOMAIN message. Which of the following best describes what NXDOMAIN means?
+A)  NXDOMAIN means you have received a non- authoritative answer for the query.
+B)  NXDOMAIN means the domain or host is not found.
+C)  NXDOMAIN indicates a successful query.
+D)  NXDOMAIN signifies that a new domain record has been added.
+B
+B. NXDOMAIN is the status for a nonexistent domain or host: basically, the host forwhich the query was sent does not exist. A normal status when there has not been an erroris NOERROR.

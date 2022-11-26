@@ -1,0 +1,7 @@
+Which option to the git config command shows all of the configuration parametersthat have been set?
+A)  - - list
+B)  - - show
+C)  - u
+D)  - - display
+A
+A. The - - list option shows the current configuration parameters for git. The otheroptions do not exist as options for the git config command.

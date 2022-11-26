@@ -1,0 +1,7 @@
+Which of the following is the name for the firewall control software associated withNetfilter?
+A)  iptables
+B)  ipt
+C)  netfw
+D)  netfilterfw
+A
+A. The software used to create firewalls found on most systems is iptables. Notably, laterversions are called nftables, but iptables is still found on many systems in use today.

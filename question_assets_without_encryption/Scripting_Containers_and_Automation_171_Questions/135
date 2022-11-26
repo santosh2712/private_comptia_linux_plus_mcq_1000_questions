@@ -1,0 +1,7 @@
+Which option to the echo command suppresses the ending newline character that is nor-mally included?
+A)  - a
+B)  - n
+C)  - d
+D)  - y
+B
+B. The - n option suppresses the trailing newline character from the echo command and isquite useful in scripting scenarios. The other options are not valid for the command.

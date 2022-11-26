@@ -1,0 +1,7 @@
+Which of the following commands searches a server for files with the setgid bit enabled?
+A)  find / - perm 4000
+B)  find ./ - perm setgid
+C)  grep setgid all_output chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt mcq.bash passfile_23-Sep-22_13_27.txt passfile_23-Sep-22_14_11.txt passfile_23-Sep-22_14_20.txt passfile_23-Sep-22_14_33.txt passfile_23-Sep-22_15_02.txt run_linux_test.bash Temp test.bash
+D)  find / - perm 2000
+D
+D. The find command will be used for this purpose, and the - perm option is needed, spe-cifically as the 2000 permission to indicate setgid. Note the use of / to indicate that theentire server will be searched. The grep command shown cannot be used for this purposebecause it looks for the presence of the string setgid within files located in the currentdirectory only.

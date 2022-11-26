@@ -1,0 +1,7 @@
+While troubleshooting a file access issue, you find that the permissions allow theaccounting group but that the user is not a member of the group. Which option to theusermod command adds a user to a group?
+A)  - ag
+B)  - groupadd
+C)  - a - G
+D)  - addgr
+C
+C. Using - a - G appends the group onto the users list of groups. The other options are notvalid to accomplish the necessary task.

@@ -1,0 +1,7 @@
+Which of the following options to the ls command displays ownership and permissioninformation?
+A)  - m
+B)  - l
+C)  - b
+D)  - f
+B
+B. The - l option provides a long or detailed listing of files and directories, includingownership and permissions. The - m, - b, and - f options are not related to the scenariodescribed.

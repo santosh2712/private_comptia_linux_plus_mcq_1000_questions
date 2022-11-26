@@ -1,0 +1,7 @@
+Which option to umount will cause the command to attempt to remount the filesystem inread- only mode if the unmounting process fails?
+A)  - o
+B)  - r
+C)  - f
+D)  - v
+B
+B. The - r option causes umount to attempt to remount in read- only mode. The - v option isverbose mode, and the - f option forces the operation. The - o option does not exist.

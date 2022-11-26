@@ -1,0 +1,7 @@
+When creating a file, a user is receiving an error. The file is very large. What command canthe user execute in order to determine the file size limitation?
+A)  limit
+B)  ulimit
+C)  filelimit
+D)  flimit
+B
+B. The ulimit command shows the various limits that apply to a given user, including filesize limitations. The other options are not valid.

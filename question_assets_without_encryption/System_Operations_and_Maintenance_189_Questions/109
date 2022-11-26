@@ -1,0 +1,7 @@
+Which of the following software packages can be used to scan a host for rootkits?
+A)  rkfind
+B)  wxps
+C)  tmroot
+D)  Chkrootkit
+D
+D. The Chkrootkit software package can be used for security scanning such as examining ahost for signs of tampering often associated with a rootkit. The other commands shown asoptions do not exist.

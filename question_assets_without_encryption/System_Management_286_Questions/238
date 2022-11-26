@@ -1,0 +1,7 @@
+Which of the following configuration lines in /etc/resolv.conf enables debugging?
+A)  debug
+B)  options debug
+C)  option debug
+D)  enable- debug
+B
+B. Options within /etc/resolv.conf are preceded with the options keyword fol-lowed by one or more options such as debug.

@@ -1,0 +1,7 @@
+Which of the following commands sets the hardware or BIOS clock to UTC based on thecurrent system time?
+A)  hwclock - - systohc - - utc
+B)  hwclock - - systohc - - localtime
+C)  hwclock - - systohc
+D)  hwclock - - systoutc
+A
+A. - - systohc will set the hardware clock according to the current system time. The useof - - utc is required in order to ensure that the time is set to UTC. If - - utc is omitted, thetime will default to whatever was used last time the command was run, which could be UTCbut might be local time instead. Therefore, the best option is A.

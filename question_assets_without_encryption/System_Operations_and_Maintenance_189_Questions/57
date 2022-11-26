@@ -1,0 +1,7 @@
+You need to delete a user from the system, including their home directory. Which of the fol-lowing utility commands accomplishes this task?
+A)  userdel
+B)  userdel - r
+C)  userdel - R
+D)  deluser
+B
+B. The userdel command is used for this purpose, and the - r option (lowercase) deletesboth the home directory and mail spool files. The - R (uppercase) option informs theuserdel command to use a chroot directory.

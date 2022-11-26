@@ -1,0 +1,7 @@
+What is one reason a device driver does not appear in the output of lsmod, even though thedevice is loaded and working properly?
+A)  The use of systemd means drivers are not required for most devices.
+B)  The use of an initrd.img means support is enabled by default.
+C)  The system does not need a driver for the device.
+D)  Support for the device has been compiled directly into the kernel.
+D
+D. If a working device does not appear in lsmod, it typically means the kernel has a driveralready loaded by virtue of being compiled into the kernel itself rather than loaded througha module. The use of systemd (option A) or an initrd.img (option B) would haveno effect.9.

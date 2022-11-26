@@ -1,0 +1,7 @@
+Which command can be used to list all of the detected hardware within a system?
+A)  lshw
+B)  showhw
+C)  lspic
+D)  slist
+A
+A. The lshw command shows all hardware within a system, giving detailed informationabout many aspects of that hardware. The other commands shown are not valid.

@@ -1,0 +1,7 @@
+Which of the following commands will execute a script and then exit the shell?
+A)  run
+B)  source
+C)  ./
+D)  exec
+D
+D. The exec command executes the command given as its argument and will then exit theshell. The source command does not exit the shell.

@@ -1,0 +1,7 @@
+When working with disk partitions through a tool like fdisk, you see the type 0x82. Whichtype of partition is this?
+A)  Linux
+B)  Linux swap
+C)  NTFS
+D)  FAT
+B
+B. 0x82 is Linux swap, while 0x83 is Linux. NTFS is 0x07, and FAT is 0.0c.Chapter 1: System Management (Domain 1.0)177

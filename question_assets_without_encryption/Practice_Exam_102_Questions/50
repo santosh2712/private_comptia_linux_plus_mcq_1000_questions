@@ -1,0 +1,7 @@
+When testing an exclude pattern for a .gitignore file, which git command and option can beused to see the results of what will be ignored?
+A)  git ls- files - i - - exclude- standard
+B)  git ls- files - - ignored
+C)  git show- ignored
+D)  git - ls ignored
+A
+A. The ls- files command will be used for this purpose, and - i or - - ignored will beused, along with a required exclusion pattern, thus making option A correct. Option B ismissing the required exclusion pattern.

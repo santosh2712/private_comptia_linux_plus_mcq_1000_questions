@@ -1,0 +1,7 @@
+You are working with a legacy CentOS 5 system and need to re- create the initial RAM disk.Which of the following commands is used for this purpose?
+A)  mkinitrd
+B)  mkramdisk
+C)  mkdisk - - init
+D)  mkfs.init
+A
+A. The mkinitrd command is used on older systems to create the initial RAM disk. Theinitial RAM disk is used to load, some might say preload, essential modules for things likedisks and other vital components needed for booting.

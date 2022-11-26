@@ -1,0 +1,7 @@
+Which command is used to change details of a logical volume?
+A)  lvmcreate
+B)  pvcreate
+C)  lvchange
+D)  lvmscan
+C
+C. The lvchange command configures details about a logical volume, including whetherthat volume appears to be available.

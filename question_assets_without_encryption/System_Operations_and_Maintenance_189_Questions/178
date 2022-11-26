@@ -1,0 +1,7 @@
+Which of the following commands will correctly change the group ownership of the filecalled a.out to users?
+A)  chgrp users a.out
+B)  chgrp a.out users
+C)  groupchg a.out users
+D)  grpchg users a.out
+A
+A. The chgrp command can be used to change group ownership of a file. The order ischgrp <groupname> <target>.

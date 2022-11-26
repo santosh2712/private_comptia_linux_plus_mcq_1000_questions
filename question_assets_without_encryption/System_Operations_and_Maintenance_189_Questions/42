@@ -1,0 +1,7 @@
+Which of the following best describes the difference between the DROP and REJECT targetsin iptables?
+A)  Both DROP and REJECT do the same thing.
+B)  DROP silently discards packets, while REJECT sends back an ICMP acknowledgment.
+C)  REJECT silently discards packets, while DROP sends back an ICMP acknowledgment.
+D)  DROP sends back a direct message, and REJECT sends a redirect.
+B
+B. The DROP target silently discards packets that match the rule. An ICMP unreachable mes-sage is sent back for REJECT. In general, DROP is preferred in order to reduce the chances ofdenial of service (DoS) or other information- gathering issues.

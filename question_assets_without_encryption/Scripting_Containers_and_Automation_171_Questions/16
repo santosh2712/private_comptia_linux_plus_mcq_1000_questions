@@ -1,0 +1,7 @@
+You are creating a configuration file in JSON format for use with Terraform. Which of thefollowing is the expected file extension for this configuration file?
+A)  .tf
+B)  .txt
+C)  .tf.json
+D)  .tfjs
+C
+C. Normal Terraform syntax files use a .tf extension, while those that use JSON shouldhave a .tf.json extension.

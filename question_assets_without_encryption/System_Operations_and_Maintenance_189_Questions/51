@@ -1,0 +1,7 @@
+Which subcommand of openssl is used to create a Certificate Signing Request (CSR) forSecure Sockets Layer (SSL)/Transport Layer Security (TLS)?
+A)  req
+B)  csr
+C)  gencsr
+D)  newcsr
+A
+A. The req option begins the CSR generation process, typically also requiring - new as anadditional option. The other subcommands are not valid.

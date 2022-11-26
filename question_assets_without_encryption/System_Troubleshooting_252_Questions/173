@@ -1,0 +1,7 @@
+Which of the following represents a correct configuration line for /etc/hosts?
+A)  168.1.4 cwa.braingia.org cwa
+B)  cwa.braingia.org cwa 168.1.4
+C)  cwa.braingia.org 168.1.8 alias cwa
+D)  alias cwa.braingia.org cwa 168.1.4
+A
+A. The correct format is IP address followed by canonical hostname and any aliases for thehost. You can use entries in /etc/hosts to override DNS lookups, which can be useful toprevent those names from resolving or to provide a different resolution.

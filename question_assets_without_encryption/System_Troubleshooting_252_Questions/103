@@ -1,0 +1,7 @@
+Users are reporting that various programs are crashing on the server. Examining logs, you seethat certain processes are reporting out- of- memory conditions. Which command can you useto see the overall memory usage, including available swap space?
+A)  tree
+B)  pgrep
+C)  uptime
+D)  free
+D
+D. The free command displays overall memory usage for both RAM and swap and can beused to determine when additional memory might be needed.

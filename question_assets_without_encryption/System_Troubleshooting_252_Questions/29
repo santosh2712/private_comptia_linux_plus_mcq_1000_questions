@@ -1,0 +1,7 @@
+Which option to iftop sets the interface on which iftop will listen?
+A)  - m
+B)  - i
+C)  - l
+D)  - a
+B
+B. The - i option sets the interface for iftop. The other options shown are not valid forthe required task.

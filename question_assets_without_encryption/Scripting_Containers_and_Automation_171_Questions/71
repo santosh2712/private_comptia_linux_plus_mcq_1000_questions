@@ -1,0 +1,7 @@
+Which of the following commands can be used to execute a command with a customizedenvironment?
+A)  set
+B)  env
+C)  run
+D)  crun
+B
+B. The env command executes a command and enables a custom environment for thatcommand execution. The set command changes environment variables but does not changevariables for the single command execution, as specified in the scenario. The other optionsare not valid commands.4.

@@ -1,0 +1,7 @@
+Which option to quotacheck is used to create the files for the first time?
+A)  - f
+B)  - u
+C)  - m
+D)  - c
+D
+D. The - c option creates the files for the first time. The - f option is used for force checking,- u is used for user quotas, and - m is used to not attempt remounting read- only.

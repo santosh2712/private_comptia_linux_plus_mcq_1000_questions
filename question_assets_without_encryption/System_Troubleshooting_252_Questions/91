@@ -1,0 +1,7 @@
+You suspect saturation is affecting network performance with your Linux server. Whichcommand can be used to help determine the amount of traffic being passed through a giveninterface?
+A)  netp
+B)  sat
+C)  iptraf
+D)  ipsat
+C
+C. The iptraf command shows cumulative network usage in real time for a given inter-face. The other options shown are not valid.

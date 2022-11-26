@@ -1,0 +1,7 @@
+Which option to the date command can be used to set the date and time?
+A)  date - f
+B)  date - t
+C)  date - - change
+D)  date - s
+D
+D. The - s option sets the date and time as specified within the command. If there is anothermeans to automatically set the date, it may override the change. For example, if ntpd orchrony is running, one of those processes may alter the date even after it has been setwith date - s.

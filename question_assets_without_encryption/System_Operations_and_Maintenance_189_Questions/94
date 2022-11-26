@@ -1,0 +1,7 @@
+Assuming that the output from the sestatus command indicates that SELinux is inPermissive mode, which of the following commands is used to change the mode toEnforcing?
+A)  setenforce en
+B)  setenforce 1
+C)  setenforce on
+D)  setenforce - - enable
+B
+B. The setenforce command is used for this purpose and can be given an argument ofthe number 1 or the word Enforcing to enable Enforcing mode. This can be verifiedwith the sestatus command.

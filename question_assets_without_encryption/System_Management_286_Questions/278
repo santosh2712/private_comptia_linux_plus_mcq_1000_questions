@@ -1,0 +1,7 @@
+Which option to sysctl displays all values and their current settings?
+A)  - a
+B)  - b
+C)  - d
+D)  - c
+A
+A. The - a option displays all values and their current settings for sysctl. The - b optionis binary and displays values without any newlines. The - d option is an alias for - h, whichis help display. There is no - c option. The sysctl options can also be found in /etc/sysctl.conf.

@@ -1,0 +1,7 @@
+Which command option for rpm can be used to show the version of the kernel?
+A)  rpm kernel
+B)  rpm - q kernel
+C)  rpm search kernel
+D)  rpm list kern
+B
+B. The rpm - q kernel command will show the kernel version. You can also use uname- r for the same purpose.

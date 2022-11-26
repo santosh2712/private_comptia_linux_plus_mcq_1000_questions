@@ -1,0 +1,7 @@
+You are creating a Bash script of user information. Which of the following commands printsthe username and real name of all users in /etc/passwd in a tab- separated format?
+A)  cut - d: - f 1,6 /etc/passwd
+B)  sed 's/://' /etc/passwd
+C)  awk - F: '{print $1,$5}' OFS="\t" /etc/passwd
+D)  cat - o "\t" /etc/passwd
+C
+C. The awk command shown can be used for this purpose. The - F option sets the field sepa-rator, and the OFS option sets the output field separator.

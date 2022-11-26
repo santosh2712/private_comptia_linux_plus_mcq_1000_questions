@@ -1,0 +1,7 @@
+When working with System Security Services Daemon (sssd), which command is usedto discover and join an Active Directory domain for a single sign- on (SSO) authentica-tion scenario?
+A)  joinad
+B)  adjoin
+C)  realm
+D)  realm- ad
+C
+C. The realm command is used to join a computer to an Active Directory domain. Theother commands shown do not exist.

@@ -1,0 +1,7 @@
+Which command deletes an at job with an ID of 3?
+A)  atq
+B)  at - l
+C)  atrm 3
+D)  rmat 3
+C
+C. The atrm command removes jobs given their ID. The ID can be obtained with the atqcommand. The atq and at - l commands shown will list jobs but not delete them. Thermat command is not valid.

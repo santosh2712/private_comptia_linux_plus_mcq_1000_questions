@@ -1,0 +1,7 @@
+When viewing information in /dev/disk/by- path using the command ls - l, which ofthe following filenames represents a LUN from Fibre Channel?
+A)  /dev/fc0
+B)  pci- 0000:1a:0- fc- 0x500601653ee0025f:0x0000000000000000
+C)  pci- 0000:1a:0- scsi- 0x500601653ee0025f:0x0000000000000000
+D)  /dev/fibre0
+B
+B. Logical unit numbers (LUNs) that contain the characters fc are those found throughFibre Channel. Therein lies the difference between options B and C, where option C con-tains the letters scsi, which would usually represent a local disk. The other options arenot valid.

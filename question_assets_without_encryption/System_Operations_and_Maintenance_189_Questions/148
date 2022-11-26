@@ -1,0 +1,7 @@
+Within a jail configuration for fail2ban, which configuration option sets the name andlocation of the log file to monitor for failures?
+A)  logpath
+B)  monitor
+C)  logfile_mon
+D)  monitor_log
+A
+A. The logpath directive determines the log file that will be monitored for failures byfail2ban. This file is used as part of a larger configuration for a given jail. The other direc-tives are not valid for fail2ban.

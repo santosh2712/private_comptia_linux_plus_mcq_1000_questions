@@ -1,0 +1,7 @@
+Which of the following commands displays information about a given physical volume inan LVM setup?
+A)  pvdisp
+B)  pvlist
+C)  pvdisplay
+D)  pvl
+C
+C. The pvdisplay command shows information about a given physical volume. You canuse pvdisplay to view the device on which the PV is built along with the extent size ofthe PV. The other commands shown are not valid.Chapter 1: System Management (Domain 1.0)185

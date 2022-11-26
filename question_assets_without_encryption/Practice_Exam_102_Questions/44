@@ -1,0 +1,7 @@
+Which option to the mount command can be used to simulate the mount process withoutactually mounting the filesystem?
+A)  - q
+B)  - v
+C)  - l
+D)  - f
+D
+D. The - f option, also known as fake, is helpful for situations where you need to debug themount process or when you need to add an entry to /etc/mtab for a previously mountedfilesystem. The - l option shows labels, and - v is verbose. There is no - q option.

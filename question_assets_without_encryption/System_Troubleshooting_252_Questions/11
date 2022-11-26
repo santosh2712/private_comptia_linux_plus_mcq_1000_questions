@@ -1,0 +1,7 @@
+Which option to xfs_check is used to verify a filesystem that is stored in a file?
+A)  - v
+B)  - a
+C)  - f
+D)  - d
+C
+C. The - f option specifies that xfs_check should check the contents of the named file forconsistency. The - v option sets verbosity, and there are no - d and - a options.

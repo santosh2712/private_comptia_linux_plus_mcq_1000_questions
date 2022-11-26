@@ -1,0 +1,7 @@
+Which command can be used to determine the current time- zone setting while trouble-shooting a time- zone configuration issue?
+A)  timedatectl status
+B)  timedate - - gettz
+C)  tzdata - - list
+D)  timezone - - show
+A
+A. The command timedatectl status shows the current time zone along with otherinformation about time and date on the device. The other commands shown are not valid forthis purpose.

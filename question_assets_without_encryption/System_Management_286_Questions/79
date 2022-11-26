@@ -1,0 +1,7 @@
+When using tune2fs to set an extended option such as stripe_width, whichcommand- line option is needed to signify that an extended option follows?
+A)  - extend
+B)  - E
+C)  - e
+D)  - f
+B
+B. The - E option signals that an extended option follows, such as stripe_width. The - foption forces an operation but should not be necessary for this solution, and the - e optionsets the behavior on error. There is no - extend option.

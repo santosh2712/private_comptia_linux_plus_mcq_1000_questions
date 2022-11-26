@@ -1,0 +1,7 @@
+Which systemd target stops the system but does not power it down?
+A)  poweroff.target
+B)  stop.target
+C)  offline.target
+D)  halt.target
+D
+D. Using halt.target stops the system but does not power it down. Of the otheroptions, poweroff.target exists and stops the system and also powers it down. Theother options are not valid targets.

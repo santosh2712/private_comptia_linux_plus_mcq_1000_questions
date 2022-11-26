@@ -1,0 +1,7 @@
+Within which file should you place public keys for servers from which you will accept key-based SSH authentication?
+A)  ~/.ssh/authorized_keys
+B)  ~/.ssh/keys
+C)  ~/.ssh/keyauth
+D)  ~/.sshd/authkeys
+A
+A. The file authorized_keys, stored in the .ssh directory in your home directory,contains public keys that are authorized to log in to the server using their correspondingprivate key.

@@ -1,0 +1,7 @@
+What are the minimum permissions for a Bash script so that it is executable by everyonewithout needing to prefix the command with the word bash?
+A)  755
+B)  644
+C)  777
+D)  222
+A
+A. The permissions should be 755 in order for a user to execute the script. The otheroptions wont work for the purpose described or are too permissive.

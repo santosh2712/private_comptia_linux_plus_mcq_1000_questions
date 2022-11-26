@@ -1,0 +1,7 @@
+Which option to the dig command follows the DNS lookup recursively starting at the root?
+A)  +trace
+B)  +fol
+C)  +x
+D)  +all
+A
+A. Using +trace causes dig to follow recursively through the lookup process. The otheroptions shown are not valid for this purpose.

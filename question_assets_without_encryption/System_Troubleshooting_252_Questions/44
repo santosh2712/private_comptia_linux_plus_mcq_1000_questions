@@ -1,0 +1,7 @@
+You have added a swap disk to a Linux server and have executed mkswap. However, onexamination of the output from the free command, you see that the swap space is notbeing used. Which command do you need to execute?
+A)  swapon
+B)  swap- en
+C)  actswap
+D)  swpact
+A
+A. The swapon command activates the swap space for use. The other commands arenot valid.

@@ -1,0 +1,7 @@
+Which options for the rpm command will display verbose output for an installation alongwith progress of the installation?
+A)  - ivh
+B)  - wvh
+C)  avh
+D)  ins- verbose
+A
+A. The - ivh options will install a file using rpm, displaying both verbose output and hashmarks for progress. The other options presented do not exist or do not accomplish thespecified task.

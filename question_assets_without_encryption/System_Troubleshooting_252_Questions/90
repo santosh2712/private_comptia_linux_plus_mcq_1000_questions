@@ -1,0 +1,7 @@
+You would like to find all of the process IDs associated with the sshd process on anUbuntu system. Which of the following commands accomplishes this task?
+A)  ps - sshd
+B)  pidof sshd
+C)  pids sshd
+D)  ps - - a=sshd
+B
+B. The pidof command shows all of the processes associated with the given argument. Inthis case, option B shows the correct syntax. The ps command shown in other options is avalid command but not with the syntax shown.

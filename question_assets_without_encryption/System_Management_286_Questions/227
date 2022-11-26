@@ -1,0 +1,7 @@
+Which command will list the cron entries for a given user as denoted by <username>?
+A)  crontab - l - u <username>
+B)  crontab - u <username>
+C)  cron - u <username>
+D)  cronent - u <username>
+A
+A. The crontab command can be used for this purpose, and the - l option is used to listthe crontab entries. The - u option is needed to specify a user other than the current user.

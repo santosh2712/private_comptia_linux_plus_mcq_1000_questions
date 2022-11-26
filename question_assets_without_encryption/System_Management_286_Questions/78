@@ -1,0 +1,7 @@
+A hard drive is reported as hd(0,0) by the GRUB Legacy configuration file. To which of thefollowing disks and partitions does this correspond?
+A)  /dev/hdb2
+B)  /dev/hda0
+C)  /dev/disk1
+D)  /dev/sda1
+D
+D. GRUB Legacy begins counting at 0 and separates the disk letter and partition with acomma, therefore making 0,0 the first partition on the first disk. Options A and C are notthe first disk on the system, and option B contains a nonexistent partition.

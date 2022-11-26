@@ -1,0 +1,7 @@
+Which option to iftop prevents hostname lookups from occurring?
+A)  - d
+B)  - a
+C)  - t
+D)  - n
+D
+D. The - n option prevents hostname lookups from occurring with iftop. This is helpfulfor reducing the amount of noise or unnecessary information displayed within the iftopoutput. The other options do not accomplish the task required.

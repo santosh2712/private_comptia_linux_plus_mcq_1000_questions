@@ -1,0 +1,7 @@
+Which option to Vim enables editing of binary or executable files?
+A)  - a
+B)  - b
+C)  - c
+D)  - d
+B
+B. The - b option enables binary and executable editing with Vim. The - c option is relatedto commands, while the - d option starts Vim in diff mode. There is no - a option.

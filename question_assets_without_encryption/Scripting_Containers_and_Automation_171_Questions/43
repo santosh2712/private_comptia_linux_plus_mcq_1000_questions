@@ -1,0 +1,7 @@
+Which character combination sets the body of the message to STDIN when using themail command?
+A)  <
+B)  >
+C)  <<<
+D)  |
+C
+C. The <<< character combination reads input from STDIN, or Standard Input, and uses itas the body of the message for the mail command.

@@ -1,0 +1,7 @@
+Which of the following is a valid variable declaration in a Bash script, setting the variableNUM equal to 1?
+A)  NUM = 1
+B)  $NUM = 1
+C)  NUM= 1
+D)  NUM=1
+D
+D. It is important to note that there cannot be any spaces between the variable name and theequal sign. Likewise, there cannot be any spaces between the equal sign and the contents ofthe variable. This makes option D the only correct answer.

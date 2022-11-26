@@ -1,0 +1,7 @@
+Which of the following commands installs GRUB into the master boot record (MBR) of thefirst SATA drive?
+A)  grub- install /dev/hda
+B)  grub- install /dev/sda
+C)  grub- install /dev/hd0,0
+D)  grub - i /dev/hda
+B
+B. The command to install GRUB is grub- install, and the first SATA drive is /dev/sda.A device listed as hda is typically a PATA drive, thereby making those options incorrect.

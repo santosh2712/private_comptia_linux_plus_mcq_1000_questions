@@ -1,0 +1,7 @@
+When expiring a user account with usermod - e, which of the following represents thecorrect date format?
+A)  YYYY- MM- DD
+B)  MM/DD/YYYY
+C)  DD/MM/YY
+D)  MM/DD/YY HH:MM:SS
+A
+A. The correct format is YYYY- MM- DD for the usermod command.

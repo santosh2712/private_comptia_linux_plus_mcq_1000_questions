@@ -1,0 +1,7 @@
+Which option to the declare command will create a variable that is read- only?
+A)  - r
+B)  - ro
+C)  - p
+D)  - x
+A
+A. The - r option to declare will create or mark the variable as read- only. The - p optionprints output in a format that can be reused. The - x option declares the variable for export.

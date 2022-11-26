@@ -1,0 +1,7 @@
+Within which directory does git store a local copy of the repository metadata?
+A)  .gitmeta
+B)  gitlocalmeta
+C)  .git
+D)  git
+C
+C. The .git directory is used for storage of metadata for the repository.

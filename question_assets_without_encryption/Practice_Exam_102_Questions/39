@@ -1,0 +1,7 @@
+Which command option can be used to remove all cron jobs for a given user using thecrontab command?
+A)  - d
+B)  - e
+C)  - r
+D)  - l
+C
+C. The - r option to the crontab command removes all cron entries for a given user.The - l option lists cron jobs, while the - e option edits the crontab. There is no - d option.246Appendix  Answers to the Review Questions

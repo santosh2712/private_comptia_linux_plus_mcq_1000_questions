@@ -1,0 +1,7 @@
+Which command can be used to convert lowercase letters to uppercase letters across anentire file?
+A)  du
+B)  touc
+C)  conv
+D)  tr
+D
+D. The tr command can be used for the purpose described. The tr command is quitepowerful for text conversion and search and replace scenarios. The other commands showndo not exist.

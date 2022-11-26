@@ -1,0 +1,7 @@
+When using a shim for booting a UEFI- based system, which of the following files is loadedafter shim.efi?
+A)  grubxcfg
+B)  grub.conf
+C)  grubxefi
+D)  efi.boot
+C
+C. The shim.efi bootloader loads another bootloader, which is grubx64.efi bydefault. The other options are not valid filenames for the purpose described.

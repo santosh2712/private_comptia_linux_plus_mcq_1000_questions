@@ -1,0 +1,7 @@
+Which command displays Desktop Management Interface information?
+A)  dmidump
+B)  dlad
+C)  dmid
+D)  dmidecode
+D
+D. The dmidecode command displays information related to the DMI, or DesktopManagement Interface.

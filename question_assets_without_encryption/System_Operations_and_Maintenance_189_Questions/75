@@ -1,0 +1,7 @@
+You need to make a change to the global behavior of AppArmor. To avoid editing the pro-files directly, which directory contains common settings that can be changed instead?
+A)  /etc/apparmor.d/configs
+B)  /etc/apparmor/globals
+C)  /etc/apparmor/edits
+D)  /etc/apparmor.d/tunables
+D
+D. The directory /etc/apparmor.d/tunables contains parameters and configurationsthat are commonly changed.

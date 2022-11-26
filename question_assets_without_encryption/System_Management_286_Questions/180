@@ -1,0 +1,7 @@
+Which option to the curl command sets the local filename to which the outputwill be saved?
+A)  - f
+B)  - o
+C)  - O
+D)  - l
+B
+B. The - o option sets the local filename. The - O option preserves the remote filename. The- f option causes curl to fail silently, and the - l option is used with FTP to cause a name-only listing.

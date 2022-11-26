@@ -1,0 +1,7 @@
+To which file can you echo - - - in order to cause a scan of a SCSI host adapter fornew disks?
+A)  /sys/bus/scsi/hostscan
+B)  /sys/class/scsi_host/hostN/scan
+C)  /sys/class/<host>/scan
+D)  /etc/scsiadm
+B
+B. The file /sys/class/scsi_host/hostN/scan is used for this purpose, whereN is the adapter number. The other paths are not valid for the purpose described inthis scenario.

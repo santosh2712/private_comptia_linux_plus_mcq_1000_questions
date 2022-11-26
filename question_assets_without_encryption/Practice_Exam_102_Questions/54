@@ -1,0 +1,7 @@
+Which command can be used to view the kernel ring buffer in order to troubleshoot theboot process?
+A)  lsboot
+B)  boot- log
+C)  krblog
+D)  dmesg
+D
+D. The dmesg command displays the contents of the kernel ring buffer. On many Linuxdistributions, this log is also saved to /var/log/dmesg. The other options shown for thisquestion are not valid commands.6.

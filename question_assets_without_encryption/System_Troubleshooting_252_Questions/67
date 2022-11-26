@@ -1,0 +1,7 @@
+You are using a storage area network (SAN) that keeps causing errors on your Linux systemdue to an improper kernel module created by the SAN vendor. When the SAN sends updates,it causes the filesystem to be mounted as read- only. Which command and option can you useto change the behavior of the filesystem to account for the SAN bug?
+A)  mount - - continue
+B)  tune2fs - e continue
+C)  mkfs - - no- remount
+D)  mount - o remount
+B
+B. The tune2fs command can be used for this purpose but should be used with carebecause it can result in data corruption.Chapter 4: Troubleshooting (Domain 4.0)227

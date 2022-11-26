@@ -1,0 +1,7 @@
+Which of the following commands searches each users .bash_history file to determineif the user has invoked the sudo command?
+A)  find /home - name "bash_history" | grep sudo
+B)  find /home - name ".bash_history" | xargs grep sudo
+C)  find /home/.bash_history | xargs grep sudo
+D)  find /home - type history | xargs grep sudo
+B
+B. The find command beginning with the path and then the - name argument will locateall files called .bash_history. The output from the find command should be pipedto xargs, which can then build further commands from standard input. Note that thisquestion and solution assume that all users use the Bash shell and are keeping history.

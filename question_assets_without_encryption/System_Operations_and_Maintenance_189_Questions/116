@@ -1,0 +1,7 @@
+Which command and option are used to view the SELinux security context of a given file?
+A)  ls - context
+B)  file - Z
+C)  ls - Z
+D)  sel - context
+C
+C. The - Z option to ls is used to view the SELinux security context. The file commandis a valid command but does not have a - Z option.

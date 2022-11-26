@@ -1,0 +1,7 @@
+Which of the following characters is used to redirect STDIN, sending the contents of a filecalled file.txt into a script called script.sh?
+A)  script.sh < file.txt
+B)  script.sh | file.txt
+C)  file.txt | script.sh
+D)  ./script.sh > file.txt
+A
+A. Redirecting input from a file uses the less- than sign. Option B takes the output fromscript.sh and sends it to file.txt. Option C tries to use file.txt as input butwithout any way to send the contents to STDOUT. Option D executes script.sh and sendsthe contents to file.txt, which is opposite of the scenario.

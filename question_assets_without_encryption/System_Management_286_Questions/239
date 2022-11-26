@@ -1,0 +1,7 @@
+When youre viewing the available routes using the route command, one route contains flagsUG while the others contain U. What does the letter G signify in the route table?
+A)  The G signifies that the route is good.
+B)  The G signifies that the route is unavailable.
+C)  The G signifies that this is a gateway.
+D)  The G signifies that the route is an aggregate.
+C
+C. The G signifies a gateway within the route table.

@@ -1,0 +1,7 @@
+Which command- line option modifies the behavior of depmod such that only newer mod-ules are added when comparing modules.dep?
+A)  - A
+B)  - B
+C)  - C
+D)  - D
+A
+A. The - A option examines modules.dep for newer modules rather than regeneratingthe file automatically if there are no changes. The - C option changes the configuration filelocation. The other options are not valid for depmod.

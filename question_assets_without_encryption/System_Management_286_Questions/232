@@ -1,0 +1,7 @@
+Which of the following commands searches the entire filesystem for files with thesetuid bit set?
+A)  find ./ - perm suid
+B)  find / - perm 4000
+C)  find / - type suid
+D)  find / - type f - perm setuid
+B
+B. The find command will be used for this purpose, and the permission can be describedas 4000 to indicate the presence of the setuid bit. The - type option can be used forchanging the type of object to be returned but is not relevant for the scenario described.

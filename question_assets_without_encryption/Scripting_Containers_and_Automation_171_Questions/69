@@ -1,0 +1,7 @@
+When working in a virtual server environment, which column within iostat outputshows the amount (percentage) of time spent in an involuntary wait scenario due to thehypervisor?
+A)  proc
+B)  wait
+C)  user
+D)  steal
+D
+D. The steal column shows the percentage of time that was spent waiting due to thehypervisor stealing cycles for another virtual processor and can be used with infrastructureautomation to indicate that additional CPU resources need to be deployed.

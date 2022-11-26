@@ -1,0 +1,7 @@
+You need to change the SELinux security context of a file. Which of the following com-mands should be used for this purpose?
+A)  setcontext
+B)  sesecon
+C)  chcon
+D)  setcon
+C
+C. The chcon command is used to change the security context.

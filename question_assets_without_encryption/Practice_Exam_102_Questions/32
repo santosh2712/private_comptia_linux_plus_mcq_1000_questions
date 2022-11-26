@@ -1,0 +1,7 @@
+If you suspect there is an active memory leak on the system, which option to the freecommand displays the output every N seconds apart?
+A)  - b
+B)  - v
+C)  - d
+D)  - s
+D
+D. The - s option displays the output of free every N seconds in order to track memoryusage over time while troubleshooting. The other options are not relevant for this scenario.

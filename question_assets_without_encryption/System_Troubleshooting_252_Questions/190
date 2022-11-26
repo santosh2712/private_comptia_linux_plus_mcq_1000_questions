@@ -1,0 +1,7 @@
+Of the following, which is a required section within a systemd service unit file?
+A)  [Service]
+B)  [Sys]
+C)  [RunTimeConfig]
+D)  [Svc]
+A
+A. The [Service] section is required within a systemd service unit file. The other optionsshown are not valid for use in a systemd service unit file.

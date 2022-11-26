@@ -1,0 +1,7 @@
+Which option to netstat displays interface information in a table- like format that might besuitable for use with scripting?
+A)  - i
+B)  - r
+C)  - t
+D)  - l
+A
+A. The - i option shows interface information in a table- like format. This option is used tosee information such as transmit and receive bytes as well as the MTU for the interface andother information. The - r option shows routes, while - l shows listening sockets. There is no- t option.

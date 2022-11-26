@@ -1,0 +1,7 @@
+Which of the following is true of Linux swap space?
+A)  Swap is used to hold temporary database tables.
+B)  Swap is used as additional memory when there is insufficient RAM.
+C)  Swap is used by the mail server for security.
+D)  Swap is used to scrub data from the network temporarily.
+B
+B. Swap space is used when there is insufficient RAM memory on a system.

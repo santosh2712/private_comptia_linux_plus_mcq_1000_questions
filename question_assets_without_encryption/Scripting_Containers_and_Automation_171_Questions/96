@@ -1,0 +1,7 @@
+Which environment variable can be set if you wish to automatically log users out of theirshell after a certain period of inactivity?
+A)  TIMEOUT
+B)  TMOUT
+C)  TO
+D)  IDLETIME
+B
+B. The TMOUT variable can be set in a given users shell, and they will be logged out after thevalue given (in seconds) of inactivity. The other environment variables listed here do not exist.

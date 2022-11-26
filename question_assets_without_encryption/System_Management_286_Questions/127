@@ -1,0 +1,7 @@
+When working with UEFI, which of the following commands changes the boot order forthe next boot?
+A)  efibootmgr - c
+B)  efibootmgr - b - B
+C)  efibootmgr - o
+D)  efibootmgr - n
+D
+D. The - n option changes the boot order for the next boot only and boots from the spec-ified partition. The - b along with - B modifies and then deletes the option. The - o optionsets the boot order. The - c option creates a boot number.

@@ -1,0 +1,7 @@
+You are debugging a Bash script and notice a line that contains echo $NUM #sending $NUM tooutput. What will be the result of this line when executed?
+A)  It will not output anything because it is commented out.
+B)  It will cause a syntax error because it is invalid syntax.
+C)  It will output the contents of the NUM variable.
+D)  It will output the sequence "$NUM".
+C
+C. The line will output the contents of the NUM variable. The comment occurs after thecommand on the line, and only code after the # appears is ignored.

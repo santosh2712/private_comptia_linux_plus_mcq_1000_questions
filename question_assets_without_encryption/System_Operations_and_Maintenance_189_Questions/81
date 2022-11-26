@@ -1,0 +1,7 @@
+Which group can be used to restrict access to execute the su command?
+A)  super
+B)  admins
+C)  wheel
+D)  runsu
+C
+C. The wheel group can be used to restrict access to the su command to those accountsthat are members of the group. The other groups do not exist by default.

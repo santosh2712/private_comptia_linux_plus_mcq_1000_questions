@@ -1,0 +1,7 @@
+Which of the following commands can be used to display historical performance dataacross several different parameters?
+A)  sar
+B)  kernperf
+C)  pkern
+D)  perfshow
+A
+A. The sar command can be used to display a wide variety of performance- relatedinformation, including that captured over time. The other commands are not valid.

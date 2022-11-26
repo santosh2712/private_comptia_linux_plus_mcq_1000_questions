@@ -1,0 +1,7 @@
+Which of the following commands creates a logical volume with LVM?
+A)  lvc
+B)  lvcreate
+C)  lvlist
+D)  lvmake
+B
+B. The lvcreate command is used to create a logical volume from previously createdphysical devices and volume groups. Using lvcreate is the final of three steps in the pro-cess for using LVM prior to actually using the logical volume.

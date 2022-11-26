@@ -1,0 +1,7 @@
+Which of the following files provides information on memory utilization, including freememory, buffers, cache usage, and several additional items?
+A)  /proc/cpuinfo
+B)  /proc/memtime
+C)  /proc/memuse
+D)  /proc/meminfo
+D
+D. The file /proc/meminfo provides a wealth of information about memory usage andutilization. Much of this information is displayed by various commands, but the canonicalsource for those commands is usually found in this file. Of the other options, only /proc/cpuinfo is valid, and that file provides information on the CPU(s) for the computer.

@@ -1,0 +1,7 @@
+You need to redirect output for a long- running process but do not need to see or capturethe output. To which location can you redirect output so that it does not consumedisk space?
+A)  A regular file
+B)  /dev/null
+C)  /dev/random
+D)  A network interface
+B
+B. The /dev/null location will accept input and not consume additional disk space whenoutput is redirected to it. The /dev/random device exists but is not valid for this scenario. Like-wise, redirecting to a network interface or regular file does not meet the criteria for this scenario.

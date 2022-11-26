@@ -1,0 +1,7 @@
+Which configuration option is used within /etc/fstab as the equivalent of theRequires= option in a systemd mount file?
+A)  x- systemd.requires
+B)  requires
+C)  systemd- requires
+D)  require- sys
+A
+A. The x- systemd.requires option is used within /etc/fstab and parsed intosystemd as Requires=. The other options are not valid.

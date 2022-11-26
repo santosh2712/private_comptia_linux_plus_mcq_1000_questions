@@ -1,0 +1,7 @@
+When formatting the Type= option in a systemd mount file, you need to examine the manpage referred to as mount(8). Which of the following commands ensures that youre view-ing the 8th level man page for mount?
+A)  man mount 8
+B)  man mount_8
+C)  man 8 mount
+D)  man - n 8 mount
+C
+C. Using man 8 mount ensures that the 8th level man page is viewed. The other optionsare not valid for this purpose.

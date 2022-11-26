@@ -1,0 +1,7 @@
+Which command and option can be used to determine whether a given service is cur-rently loaded?
+A)  systemctl ls
+B)  telinit
+C)  systemctl status
+D)  sysctl - a
+C
+C. Out of the options given, the systemctl status command and option are the mostappropriate. The telinit and sysctl commands are not used for this purpose. Likewise,the - - ls option is not valid for systemctl.

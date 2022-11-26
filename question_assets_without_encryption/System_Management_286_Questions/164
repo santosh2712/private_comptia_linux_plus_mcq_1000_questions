@@ -1,0 +1,7 @@
+When scripting for build automation, you need to run a configure script prior to runningthe make command. Which of the following will execute the configure script, assuming thatits in the same directory as the script invoking it?
+A)  configure
+B)  ./configure
+C)  ../configure
+D)  /configure
+B
+B. The ./configure pattern is typically used to invoke a configure script. Option Amight work, but the build directory is typically not in the path.196Appendix  Answers to the Review Questions

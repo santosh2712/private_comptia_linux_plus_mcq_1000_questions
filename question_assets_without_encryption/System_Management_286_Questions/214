@@ -1,0 +1,7 @@
+Which command can be used to change the partitioning scheme for a disk, such as to changethe size of existing partitions without deleting them?
+A)  resize2fs
+B)  parted
+C)  mkfs
+D)  rfdisk
+B
+B. The parted command can be used to resize partitions in such a way. The mkfscommand is not used for this purpose, and the other two options do not exist.

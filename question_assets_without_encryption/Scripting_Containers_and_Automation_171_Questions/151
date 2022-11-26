@@ -1,0 +1,7 @@
+You would like to examine the entries for a single file through the git commit history. Whichcommand should be used for this purpose, assuming a filename of nhl_scores.php?
+A)  git log - - history nhl_scores.php
+B)  git log - - follow nhl_scores.php
+C)  git history nhl_scores.php
+D)  git commit- history nhl_scores.php
+B
+B. The git log command will be used for this purpose, with an option of - - follow andthe filename/path to follow through history.

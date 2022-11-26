@@ -1,0 +1,7 @@
+As part of troubleshooting services not starting on time, you need to add a service to bestarted before another to an already- existing systemd unit file. What delimiter is used to sepa-rate services with the Before= and After= configuration options in a systemd unit file?
+A)  Comma
+B)  Semicolon
+C)  Colon
+D)  Space
+D
+D. A space is used to separate services within a systemd unit file on the Before= andAfter= configuration lines. The other delimiters shown as options are not valid forthis purpose.

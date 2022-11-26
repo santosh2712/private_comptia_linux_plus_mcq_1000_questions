@@ -1,0 +1,7 @@
+Which function of the hwclock command will set the hardware or BIOS clock to the currentsystem time?
+A)  - w
+B)  - s
+C)  - a
+D)  - m
+A
+A. The - w option sets the hardware clock to the current system time. The - s option doesthe opposite, setting the system time to the hardware clock. There is no - a or - m functionfor hwclock.

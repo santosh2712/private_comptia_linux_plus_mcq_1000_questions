@@ -1,0 +1,7 @@
+What is the name of the default branch in a git repository?
+A)  source
+B)  main
+C)  primary
+D)  first
+B
+B. The main branch is the branch created by default within a git repository. The other namesshown can be used but are not the default.

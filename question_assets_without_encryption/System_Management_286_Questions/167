@@ -1,0 +1,7 @@
+Which of the following best describes the /dev/ filesystem?
+A)  The /dev/ filesystem is used for storing device information for connected devices.
+B)  The /dev/ filesystem is used for configuration files.
+C)  The /dev/ filesystem is used for development.
+D)  The /dev/ filesystem is used to list devices for compilation into the kernel.
+A
+A. The /dev/ filesystem is used to store information about connected devices, includingblock and character devices. The /dev/ filesystem also contains special character devicessuch as /dev/null, /dev/zero, and /dev/urandom. The /etc/ filesystem is usedfor configuration files, and there are no proscribed directories for development or kerneldevice lists.

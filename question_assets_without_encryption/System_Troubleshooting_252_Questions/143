@@ -1,0 +1,7 @@
+Which of the following swapon options displays information on the size of swap space alongwith its used space?
+A)  - - list
+B)  - a
+C)  - - show
+D)  - h
+C
+C. The - - show option displays information about the swap spaces on the computer,including how much swap is currently being used. The - a option activates all swap spaces.There is no - - list option, and - h displays help.

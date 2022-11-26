@@ -1,0 +1,7 @@
+Which command can be used to determine how much time a Linux command takes?
+A)  time
+B)  cmdtime
+C)  timeproc
+D)  proctime
+A
+A. The time command includes timing information such as sys time, user time, and realtime. The other commands are not valid.

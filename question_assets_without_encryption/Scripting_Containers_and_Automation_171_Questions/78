@@ -1,0 +1,7 @@
+You have been asked to create a template for virtualization. The template will be in JSONformat. Which of the following is the correct name for JSON?
+A)  Just Simple Object Nodes
+B)  JavaScript Object Notation
+C)  Java Standard Object Notation
+D)  JavaScript Standard Object Notation
+B
+B. JSON- formatted files are JavaScript Object Notation. These files, along with YAMLfiles, are frequently used to provide templates and configuration information because bothformats are lightweight and descriptive. When working with a VM template or automation,you may encounter these formats.224Appendix  Answers to the Review Questions

@@ -1,0 +1,7 @@
+Which command is used to change the state of the interface eth0 to UP?
+A)  ip link set eth0 up
+B)  bringup eth0
+C)  ip up eth0
+D)  ip ifup eth0
+A
+A. The ip link set <device> up command attempts to bring an interface online.The other commands shown are not valid.

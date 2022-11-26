@@ -1,0 +1,7 @@
+You have purchased new SSD hardware that uses the NVMe protocol, but you cannot findthe disks in the normal /dev/sda /dev/sda1 /dev/sda2 /dev/sdb /dev/sdb1 /dev/sdc /dev/sdd /dev/sdd1 location where you have traditionally found such storage. Inwhich location should you look for these drives?
+A)  /dev/nd*
+B)  /dev/nvme*
+C)  /dev/nvram
+D)  /dev/nvme/*
+B
+B. NVMe- capable drives are named as /dev/nvme*. No special drivers are needed otherthan those found in the native kernel on a modern system. The other answers do not exist aspaths by default.

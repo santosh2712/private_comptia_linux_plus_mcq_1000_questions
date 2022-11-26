@@ -1,0 +1,7 @@
+Which of the following commands initializes a physical disk partition for use with LVM?
+A)  lvmcreate
+B)  pvcreate
+C)  vgextend
+D)  pvs
+B
+B. The pvcreate command initializes a physical partition for future use as a logical volumewith LVM. The pvs command displays information about physical volumes but is not usedto initialize the physical disk partition. The vgextend command is valid but not for thescenario provided. The lvmcreate command does not exist.

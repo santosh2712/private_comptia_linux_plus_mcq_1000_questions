@@ -1,0 +1,7 @@
+Systemd is not recognizing that a service is starting correctly even though it is running.Attempts to stop the service through systemd have failed. Which configuration option in theservice unit file can be used to set the command to run for this situation?
+A)  ExecStopPost=
+B)  ExecKill=
+C)  ExecStopReally=
+D)  ExecReallyStop=
+A
+A. The ExecStopPost= configuration option is recommended for these situations. Theother options are not valid.

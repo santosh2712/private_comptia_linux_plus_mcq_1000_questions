@@ -1,0 +1,7 @@
+Which of the following best describes the result of the command cat /etc/passwd |cut - d: - f1 > users.txt?
+A)  The first field will be extracted from the passwd file and placed into a file calledusers.txt.
+B)  The second field will be extracted from the passwd file and placed into a file calledusers.txt.
+C)  The passwd file will be separated based on a colon and output placed into users.txt.
+D)  The passwd file will be sent to the terminal where only fields beginning with a colon
+A
+A. The passwd file will be sent to STDOUT, where it will be captured and sent into the cutcommand. The cut command will separate the contents of the file line- by- line using a colonas a delimiter. The first field will be sent to STDOUT and placed into a file called users.txt.

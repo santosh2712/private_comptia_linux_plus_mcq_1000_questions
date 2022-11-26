@@ -1,0 +1,7 @@
+Which command is used to search for physical volumes for use with LVM?
+A)  lvmcreate
+B)  pvcreate
+C)  lvmdiskscan
+D)  lvmscan
+C
+C. The lvmdiskscan command looks for physical volumes that have been initialized foruse with LVM.

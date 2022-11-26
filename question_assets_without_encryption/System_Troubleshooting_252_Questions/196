@@ -1,0 +1,7 @@
+You need to examine the hardware to determine the amount of memory on the system andthe block size. Which command can be used for this purpose?
+A)  free
+B)  memstat
+C)  lsmem
+D)  memx
+C
+C. The lsmem command shows statistics about the memory in the system, including blocksize. Among the other options, free shows in- use memory information but not block size.The other options are not valid commands.

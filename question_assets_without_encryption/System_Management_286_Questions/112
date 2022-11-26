@@ -1,0 +1,7 @@
+Which of the following best describes the /proc filesystem?
+A)  /proc contains information about files to be processed.
+B)  /proc contains configuration files for processes.
+C)  /proc contains information on currently running processes, including the kernel.
+D)  /proc contains variable data such as mail and web files.
+C
+C. The /proc filesystem contains information about currently running processes andadditional information about the kernel and current boot of the system.

@@ -1,0 +1,7 @@
+Which characters are used to denote the beginning and end of the test portion of a while loopin a shell script?
+A)  Parentheses ( )
+B)  Curly braces { }
+C)  Square brackets [ ]
+D)  Double quotes " "
+C
+C. Square brackets are used to denote the beginning and end of the test portion of a whileloop in a shell script. Other languages generally use parentheses for this purpose.

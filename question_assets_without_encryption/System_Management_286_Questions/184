@@ -1,0 +1,7 @@
+Which options to fsck can be used to check all filesystems listed in /etc/fstab while excludingthe root partition?
+A)  - NR
+B)  - AR
+C)  - X
+D)  - C
+B
+B. The - A option checks all filesystems in /etc/fstab, while the - R option excludes theroot filesystem.

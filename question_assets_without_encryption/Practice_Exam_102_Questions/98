@@ -1,0 +1,7 @@
+You are troubleshooting network issues and notice a potential attack originating from asingle IP address. Which command can be used to determine the owner of that IP address?
+A)  whoip
+B)  ip- owner
+C)  ip info
+D)  whois
+D
+D. The whois command shows information about domains and IP block ownership andwould be appropriate in this scenario. Of the other options, there is an ip command butno info subcommand. The other options are not real commands.

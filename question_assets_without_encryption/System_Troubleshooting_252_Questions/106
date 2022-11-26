@@ -1,0 +1,7 @@
+Which scan mode for nmap provides an Xmas scan?
+A)  - sT
+B)  - sS
+C)  - sP
+D)  - sX
+D
+D. An Xmas scan is available using the - sX mode of nmap. The - sT mode is a TCPconnect, and - sS is TCP SYN. There is no - sP option.

@@ -1,0 +1,7 @@
+Assuming that a USB disk contains a single partition and is made available on /dev/sdb,which command mounts the disk in /media/usb?
+A)  mount /dev/sdb1 /media/usb
+B)  usbconnect /dev/sdb0 /media/usb
+C)  mount /dev/sdb0 /media/usb
+D)  usbmount /dev/sdb1 /media/usb
+A
+A. The mount command is used to mount drives in Linux. The source and destinationmount point are expected as arguments. Drive partitions begin at number 1, making the firstpartition number 1.8.

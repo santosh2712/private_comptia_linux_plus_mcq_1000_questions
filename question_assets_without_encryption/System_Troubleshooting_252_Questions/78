@@ -1,0 +1,7 @@
+When youre rebooting a system for diagnosis of an issue, the system appears to hang.Which option can be sent to the reboot command in order to bypass some of the normalshutdown process?
+A)  - b
+B)  - now
+C)  - f
+D)  - f0
+C
+C. Using - f forces the reboot, although the shutdown process is still noted as clean. Theother options shown are not valid for this purpose.

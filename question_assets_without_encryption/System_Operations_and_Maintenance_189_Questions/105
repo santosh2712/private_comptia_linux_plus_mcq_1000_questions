@@ -1,0 +1,7 @@
+Within the following entry in /etc/shadow, to what does the number 15853 refer?mail:*:15853:0:99999:7:::
+A)  The UID of the mail user
+B)  The number of files owned by mail
+C)  The date of the last password change (since 1/1/1970)
+D)  The number of days until the account expires
+C
+C. The date of the last password change, as measured in days since January 1, 1970, iscontained in the third field of a shadow entry. The expiration date would be the eighth field,as separated by colons.

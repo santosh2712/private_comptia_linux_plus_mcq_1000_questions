@@ -1,0 +1,7 @@
+Which option in .bashrc sets the number of commands to keep in the .bash_history file?
+A)  HISTLIMIT
+B)  HISTORYFILE
+C)  HISTFILESIZE
+D)  HISTNUM
+C
+C. The HISTFILESIZE option configures the number of commands to keep in the historyfile. The other variables are not valid within Bash.

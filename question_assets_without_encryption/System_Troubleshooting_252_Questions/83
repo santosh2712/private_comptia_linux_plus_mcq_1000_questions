@@ -1,0 +1,7 @@
+Which of the following commands retrieves the current group membership list for a user?
+A)  groupmem
+B)  groups
+C)  lsgr
+D)  getgr
+B
+B. The groups command is used to retrieve a list of groups. The other commands arenot valid.

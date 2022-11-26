@@ -1,0 +1,7 @@
+What option is used to change the number of lines of output for the head andtail commands?
+A)  - l
+B)  - f
+C)  - g
+D)  - n
+D
+D. The - n option changes the number of lines of output for both head and tail to thenumber specified. The other options listed in this question are not valid for head, and the- f option follows a file with tail as the file grows.

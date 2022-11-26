@@ -1,0 +1,7 @@
+When using journalctl to investigate an issue, which option shows the messages relatedto the specified unit?
+A)  - k
+B)  - u
+C)  - p
+D)  - S
+B
+B. Using the - u option shows entries related to the unit file specified. The - k option dis-plays kernel messages. The - p option is used to specify priority and the - S option displaysmessages since the specified time.

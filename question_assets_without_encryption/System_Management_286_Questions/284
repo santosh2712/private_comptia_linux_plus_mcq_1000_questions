@@ -1,0 +1,7 @@
+Which of the following directory hierarchies contains information such as the WWN forFibre Channel?
+A)  /sys/class/wwn
+B)  /sys/class/fc_host
+C)  /sys/class/fclist
+D)  /sys/class/fc/wwn
+B
+B. The directory /sys/class/fc_host contains other directories based on the FibreChannel connections available. Within those host directories will be found the WWN(World Wide Name) in a file called port_name. The fcstat command can be used toobtain statistics related to a given device. The other directory hierarchies are not valid.

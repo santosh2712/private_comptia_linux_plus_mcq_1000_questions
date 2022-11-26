@@ -1,0 +1,7 @@
+Which option to the zip command causes the command to traverse directories?
+A)  - g
+B)  - m
+C)  - r
+D)  - a
+C
+C. The - r option tells the zip command to traverse directories when creating the archive.The other options are not valid for this purpose.

@@ -1,0 +1,7 @@
+When using the free command to determine memory usage, which column shows thememory used by the kernel for things like kernel buffers?
+A)  used
+B)  shared
+C)  buffers
+D)  cache
+C
+C. The buffers column shows the amount of RAM allocated to kernel buffers. Cacheindicates page cache usage, and shared usually indicates tmpfs usage.

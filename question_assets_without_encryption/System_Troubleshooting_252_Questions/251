@@ -1,0 +1,7 @@
+Which option to mke2fs is used to check for bad blocks during filesystem creation?
+A)  - a
+B)  - b
+C)  - c
+D)  - d
+C
+C. The - c option checks for bad blocks. The - b option sets the block size. There is no - aor - d option.

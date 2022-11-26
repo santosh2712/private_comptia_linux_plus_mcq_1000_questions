@@ -1,0 +1,7 @@
+The system is running out of disk space within the home directory partition, and quotas havenot been enabled. Which command can you use to determine the directories that might con-tain large files?
+A)  du
+B)  df
+C)  ls
+D)  locate
+A
+A. The du command will report on disk usage in a recursive manner, unlike the other com-mands shown here.

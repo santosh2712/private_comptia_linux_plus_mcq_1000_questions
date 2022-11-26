@@ -1,0 +1,7 @@
+Which of the following options within an OpenSSH server configuration is used to determinewhether the root user can log in directly with an SSH client?
+A)  PermitRootLogin
+B)  AllowRoot
+C)  RootLogin
+D)  PermitDirectRootLogin
+A
+A. The PermitRootLogin directive, set to yes or no, determines whether the root usercan log in directly. This option is set within the server configuration file at /etc/ssh/sshd_config. In general, server- wide configuration files for SSH are stored in /etc/sshwhile user- specific configuration files are stored in each users home directory. The otheroptions shown are not valid.

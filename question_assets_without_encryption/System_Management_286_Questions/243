@@ -1,0 +1,7 @@
+Which command can be used to determine a file type?
+A)  file
+B)  xz
+C)  lsof
+D)  prep
+A
+A. The file command examines and reports the type of file based on its contents. The xzcommand is used for file compression. The lsof command lists open files but not types.The pgrep command is related to processes.

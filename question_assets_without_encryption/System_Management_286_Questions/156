@@ -1,0 +1,7 @@
+Which command is used to create a logical volume with LVM?
+A)  pvcreate
+B)  lvmcreate
+C)  lvcreate
+D)  volcreate
+C
+C. The lvcreate command is used to create logical volumes with LVM. The pvcreatecommand initializes physical volumes prior to creating logical volumes. The commands in theother two options for this question do not exist.

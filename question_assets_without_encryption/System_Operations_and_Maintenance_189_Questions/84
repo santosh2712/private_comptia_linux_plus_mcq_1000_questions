@@ -1,0 +1,7 @@
+Which range of UIDs is typically used by service accounts?
+A)  1 to 999
+B)  1 to 100
+C)  32,768 to 65,535
+D)  1,000 to 1,999
+A
+A. UIDs less than 1,000, not including 0, are typically used by service accounts. This is notrequired but is done by convention.

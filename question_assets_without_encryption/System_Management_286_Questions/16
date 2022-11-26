@@ -1,0 +1,7 @@
+Which option given at boot time within the GRUB2 boot entry configuration will boot thesystem into single- user mode?
+A)  single- user
+B)  su
+C)  single
+D)  root
+C
+C. The keyword single given on the Linux kernel command line will boot the system intosingle- user mode. The other options are not valid.

@@ -1,0 +1,7 @@
+Which of the following commands shows the usage of inodes across all filesystems?
+A)  df - i
+B)  ls - i
+C)  du - i
+D)  dm - i
+A
+A. The - i option to df produces information on inodes across all filesystems. Thels - i option will produce inode listings but only for the current directory. The - i optionis invalid for du, and dm does not exist as a command.

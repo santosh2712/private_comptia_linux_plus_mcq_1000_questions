@@ -1,0 +1,7 @@
+Which of the following directories contains configuration files related to networking?
+A)  /etc/netdevices/
+B)  /etc/netcfg/
+C)  /etc/config/network/
+D)  /etc/sysconfig/network- scripts/
+D
+D. The directory /etc/sysconfig/network- scripts contains files related to net-work configuration. It is not preferable to edit these files directly any longer but rather touse commands such as nmcli and nmtui through the Network Manager. The other pathsdo not exist by default.Chapter 1: System Management (Domain 1.0)187

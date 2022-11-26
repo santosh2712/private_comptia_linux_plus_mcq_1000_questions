@@ -1,0 +1,7 @@
+Which file contains information on currently mounted filesystems, including theirmount options?
+A)  /etc/mtab
+B)  /etc/fstab
+C)  /tmp/files
+D)  /etc/filesystems
+A
+A. The /etc/mtab file contains currently mounted filesystems. Note that /etc/fstabcontains filesystem information but not about which filesystems are currently mounted.

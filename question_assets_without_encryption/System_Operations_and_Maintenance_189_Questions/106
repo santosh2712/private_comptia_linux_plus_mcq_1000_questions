@@ -1,0 +1,7 @@
+You are deploying an Exim server and need to work with the firewall to ensure that theproper incoming ports are open. Which protocol and port should you allow inbound fornormal SMTP traffic?
+A)  TCP/23
+B)  TCP/25
+C)  TCP/110
+D)  TCP/143
+B
+B. SMTP operates on TCP port 25, and if other servers are contacting your SMTP server,youll need to listen on this port and allow traffic to it as well. Port 23 is used for Telnet, port110 is POP3, and port 143 is IMAP, none of which are necessary for SMTP traffic.

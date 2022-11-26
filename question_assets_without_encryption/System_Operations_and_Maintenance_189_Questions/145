@@ -1,0 +1,7 @@
+Using a system such as Google Authenticator to provide multifactor authentication is anexample of which type of token?
+A)  Hardware
+B)  Software
+C)  Virtual- based
+D)  Usage- based
+B
+B. Although a hardware token may be available, the default option is software based. Notealso that OTP solutions to generate a one- time passcode are similar in functionality to pro-vide multifactor authentication.

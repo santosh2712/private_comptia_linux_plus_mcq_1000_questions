@@ -1,0 +1,7 @@
+You are troubleshooting an issue reported by a user and suspect it may be related to theirenvironment variables. What command should the user run in order to view the current set-tings for their environment when using Bash?
+A)  environment
+B)  env
+C)  listenv
+D)  echoenv
+B
+B. The env command will print the current environment variables from Bash. Theprintenv command will also perform the same operation. The other commands listed inthis question do not exist.

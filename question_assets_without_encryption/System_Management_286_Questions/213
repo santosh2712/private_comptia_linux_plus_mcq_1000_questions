@@ -1,0 +1,7 @@
+Which command is used to install a kernel into the /boot directory, using the files from/usr/lib/kernel?
+A)  kernel- ins
+B)  ins- kernel
+C)  install- kernel
+D)  kernel- install
+D
+D. The kernel- install command uses the files found in the /usr/lib/kerneldirectory to install a kernel and related files into /boot. The other commands listed hereare not valid.

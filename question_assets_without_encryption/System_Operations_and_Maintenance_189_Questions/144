@@ -1,0 +1,7 @@
+Within which file are values related to password aging defined on a system that uses/etc/shadow?
+A)  /etc/shadow.defaults
+B)  /etc/shad.defs
+C)  /etc/login.defs
+D)  /etc/shadow.conf
+C
+C. The file /etc/login.defs is where options related to shadow- based authenticationare set. The other options shown are not valid.

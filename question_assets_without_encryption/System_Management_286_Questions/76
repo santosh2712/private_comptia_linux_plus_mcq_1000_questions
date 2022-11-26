@@ -1,0 +1,7 @@
+Which of the following commands will create a btrfs filesystem on the first SATA drive?
+A)  mkfs /dev/sda1
+B)  mkfs.btrfs /dev/sda
+C)  mkfs.btr2fs /dev/sda1
+D)  mkfs b /dev/sda
+B
+B. The mkfs.btrfs command is used to create btrfs filesystems on block storage anddoes not require the drive to be partitioned.

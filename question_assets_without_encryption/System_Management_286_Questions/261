@@ -1,0 +1,7 @@
+Which option in /etc/fstab sets the order in which the device is checked at boot time?
+A)  options
+B)  dump
+C)  fsck
+D)  checkorder
+C
+C. The fsck option, which is represented as a number in the /etc/fstab file, sets theorder in which the device is checked at boot time.

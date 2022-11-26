@@ -1,0 +1,7 @@
+When working with World Wide Identifiers (WWIDs), within which directory on a RedHat server will you find symlinks to the current /dev/sd device names?
+A)  /dev/disk/wwid
+B)  /dev/wwid
+C)  /dev/disk/by- id
+D)  /dev/sd.wwid
+C
+C. The /dev/disk/by- id directory contains symbolic links to /dev/sd, such as /dev/sda. Because WWIDs can be used to identify a device across systems, they are often usedwithin the context of SANs. The other directories listed as options do not exist.

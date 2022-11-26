@@ -1,0 +1,7 @@
+Which of the following options in the SSH configuration file needs to be enabled so that Xsessions can be sent over an SSH connection?
+A)  X11Connect yes
+B)  X11Forwarding yes
+C)  ForwardX yes
+D)  XForward yes
+B
+B. The X11Forwarding option must be enabled in order for X connections or windowsgenerated from the X server to be sent over an SSH connection.10. C. The /etc/passwd file contains various information about users on a system such as

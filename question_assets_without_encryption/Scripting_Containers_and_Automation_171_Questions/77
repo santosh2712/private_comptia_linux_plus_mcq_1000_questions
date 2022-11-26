@@ -1,0 +1,7 @@
+Compiling software when a developer commits code to a certain branch in a repository is anexample of which type of automation?
+A)  Infrastructure
+B)  Build
+C)  Complex
+D)  DevOps
+B
+B. Build automation is the most appropriate name for kicking off the compilation of soft-ware on commit and is frequently found in organizations that use continuous integration/continuous deployment (CI/CD).

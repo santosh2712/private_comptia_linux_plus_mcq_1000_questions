@@ -1,0 +1,7 @@
+Which of the following commands displays CPU- related performance information a total of10 times gathered every 2 seconds?
+A)  sar - u 2 10
+B)  sar - u 10 2
+C)  sar - u 2
+D)  uptime - t
+A
+A. The sar command can be used for this purpose and, when provided with numbers in theformat displayed, will update every X seconds for Y executions.

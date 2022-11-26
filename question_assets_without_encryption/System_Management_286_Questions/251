@@ -1,0 +1,7 @@
+Within which directory would you find a list of files corresponding to the users who havecurrent cron jobs on the system?
+A)  /var/spool/cron/crontabs
+B)  /var/spool/jobs
+C)  /etc/cron
+D)  /etc/cron.users
+A
+A. The /var/spool/cron/crontabs directory contains a file for each user that cur-rently has one or more cron jobs or entries. Note that the other files listed here are notvalid for this purpose.

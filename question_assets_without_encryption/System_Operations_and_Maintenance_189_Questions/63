@@ -1,0 +1,7 @@
+You have found that the owner of the Apache process is www- data. Assuming that the filedoes not have read privileges, what command will change the ownership of a file, given as<filename>, such that www- data can write to the file?
+A)  chown www- data <filename>
+B)  chown apache- www- data <filename>
+C)  chmod www- data +w <filename>
+D)  chmod www- data.apache <filename>
+A
+A. The chown command changes ownership of a file or directory, and the www- datauser was specified in the question, thus making option A the only correct option forthis scenario.

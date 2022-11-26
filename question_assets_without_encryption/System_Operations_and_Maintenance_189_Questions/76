@@ -1,0 +1,7 @@
+Which command is used to create a public/private key pair for use with SSH?
+A)  ssh - k
+B)  ssh- keygen
+C)  ssh- genkey
+D)  ssh - key
+B
+B. The ssh- keygen command is used to create a key pair for use with SSH instead of apassword. Of the other options, the ssh command does exist, but the - k option is used todisable GSSAPI credential forwarding and not for the purpose described.202Appendix  Answers to the Review Questions

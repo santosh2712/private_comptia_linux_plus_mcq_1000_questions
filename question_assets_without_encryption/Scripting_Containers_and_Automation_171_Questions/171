@@ -1,0 +1,7 @@
+Which of the following commands removes a currently defined aliased command?
+A)  remove
+B)  rm
+C)  unalias
+D)  delete
+C
+C. The unalias command is used to remove a previously defined alias. The rm commandwill remove regular files but not aliases. The other commands do not exist.

@@ -1,0 +1,7 @@
+Which environment variable can be used to change the default path for a new git repositorycreated with git init?
+A)  GIT_DIR
+B)  GIT_HOME
+C)  GIT_DEST
+D)  GIT_LOC
+A
+A. The GIT_DIR environment variable can be used to change the default location awayfrom the ./.git directory in which a new repository would normally be created. Theother options are not used by git as environment variables.

@@ -1,0 +1,7 @@
+Which of the following commands displays the currently open ports and the process that isusing the port?
+A)  netstat - a
+B)  lsof - i
+C)  ps auwx
+D)  netlist
+Thelsofcommandcanbeusedforthispurpose;withthe-ioption,itwilldisplaythe
+The lsof command can be used for this purpose; with the - i option, it will display thenetwork ports along with their process. The netstat command will display network portsbut not the process with the - a option. The ps command is used for processes but not net-work ports. Finally, there is no netlist command.

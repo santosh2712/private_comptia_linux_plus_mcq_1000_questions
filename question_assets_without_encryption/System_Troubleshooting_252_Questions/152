@@ -1,0 +1,7 @@
+Which process state indicates that the process is currently running?
+A)  C
+B)  R
+C)  T
+D)  V
+B
+B. The R state indicates a process is running. The other options do not indicate arunning state.

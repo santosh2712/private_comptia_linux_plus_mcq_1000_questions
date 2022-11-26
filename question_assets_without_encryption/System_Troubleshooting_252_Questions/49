@@ -1,0 +1,7 @@
+Which command and option are used to display the number of times a filesystem hasbeen mounted?
+A)  tune2fs
+B)  cat /etc/fstab
+C)  mount - a
+D)  less /etc/fsmnt
+A
+A. The tune2fs command displays a lot of information about filesystems, including thenumber of times the filesystem has been mounted. The number of mounts is not shown in/etc/fstab and mount - a simply mounts all filesystems shown in /etc/fstab. Thereis no /etc/fsmnt file.

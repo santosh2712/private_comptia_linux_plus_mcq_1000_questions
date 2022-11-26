@@ -1,0 +1,7 @@
+Which of the following best describes a valid use of the groupdel command?
+A)  You may force group deletion with the - f option.
+B)  If a users primary group is to be deleted, that user must be deleted first or have theirprimary group changed.
+C)  Groupdel can be run at any time, regardless of group membership.
+D)  The - r option for groupdel will recursively change users GIDs after group deletion.
+B
+B. The groupdel command cannot delete groups unless there are no users who have thegiven group as their primary GID. Therefore, option B best fits the scenario. There is no - for - r option, making options A and D incorrect.

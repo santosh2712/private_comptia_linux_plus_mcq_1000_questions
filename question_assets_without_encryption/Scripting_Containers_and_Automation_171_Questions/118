@@ -1,0 +1,7 @@
+What is the default number of lines printed by the head and tail commands,respectively?
+A)  10 for head, 5 for tail
+B)  5 for head, 10 for tail
+C)  10 for both head and tail
+D)  3 for both head and tail
+C
+C. Both head and tail print 10 lines of output by default.

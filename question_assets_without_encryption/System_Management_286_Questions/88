@@ -1,0 +1,7 @@
+Which command and option are used to update a Debian system to the latest software?
+A)  apt- update
+B)  apt- get upgrade
+C)  dpkg - U
+D)  apt- cache clean
+B
+B. The upgrade option for apt- get will upgrade the system to the latest version of soft-ware for packages already installed. The apt- update command does not exist, nor doesthe - U option to dpkg. The apt- cache command is used to work with the package cache.

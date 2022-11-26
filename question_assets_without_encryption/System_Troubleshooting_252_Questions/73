@@ -1,0 +1,7 @@
+Which of the following commands looks for LVM physical volumes and volume groupsinvolved in an LVM configuration?
+A)  vgscan
+B)  lvmscan
+C)  lvlist
+D)  pvlist
+A
+A. The vgscan command looks for both physical volumes and volume groups related toan LVM configuration. The vgscan command is run at system startup but can also be runmanually. The other commands are not valid.

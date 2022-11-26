@@ -1,0 +1,7 @@
+Which command searches for and provides information on a given package on a Debiansystem, including whether the package is currently installed?
+A)  dpkg - i
+B)  dpkg - s
+C)  apt- cache
+D)  apt- info
+B
+B. The - s option to dpkg searches for the given package and provides information aboutits current status on the system. The apt- cache command is not used for this purpose,and the - i option for dpkg installs a package. The apt- info command does not exist.

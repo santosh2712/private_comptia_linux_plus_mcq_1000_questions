@@ -1,0 +1,7 @@
+When using Bash, how would you execute the last command starting with a certain string,even if that command was not the last one that you typed?
+A)  Precede the command with ! and then the string to search for.
+B)  Search for the command in history.
+C)  Precede the command with a ? and then the string to search for.
+D)  This is not possible with Bash.
+A
+A. Preceding the command with a ! will search history and execute the specified command.For example, !vi will start your last Vi session.

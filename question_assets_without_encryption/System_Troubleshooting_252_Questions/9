@@ -1,0 +1,7 @@
+You are running a Linux instance on a cloud provider and notice slow performance. WhichCPU time metric helps to determine if cycles are being used by other instances on the samehypervisor?
+A)  HyperV
+B)  CircleTime
+C)  Steal
+D)  CrossProc
+C
+C. Steal is the metric used to measure the number of cycles being used by other virtualinstances in either a cloud or virtualization scenario. The steal metric is abbreviated as st inthe output of top. The other options are not valid for this scenario.

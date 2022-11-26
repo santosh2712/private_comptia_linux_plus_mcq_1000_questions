@@ -1,0 +1,7 @@
+While troubleshooting interface errors, you need to examine the protocol family supportedby an interface. When youre using the ip command, which protocol family is used as thedefault if not otherwise specified?
+A)  tcpip
+B)  ip
+C)  inet
+D)  arp
+C
+C. The ip command defaults to the inet family if not otherwise specified with the - foption. The command will attempt to guess the correct family and fall back to inet.The other families listed as options for this command are not valid for use with theip command.

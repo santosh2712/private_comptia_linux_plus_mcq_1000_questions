@@ -1,0 +1,7 @@
+Which of the following commands changes a file called script.sh, which is located in yourhome directory, such that it can be executed by the owner of the file and no one else?
+A)  chmod 700 ~/script.sh
+B)  chown +x /script.sh
+C)  chmod ~/script.sh +x
+D)  chmod 777 /home/script.sh
+A
+A. The chmod command will be used for this solution. The option granting 700 enables exe-cute privileges for the owner. The other options have incorrect syntax, an incorrect path, orinappropriate permissions for the scenario described. It is important to differentiate betweenrelative and absolute paths, noting that ~/ is an alias for your home directory.7.

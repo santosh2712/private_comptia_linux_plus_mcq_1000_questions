@@ -1,0 +1,7 @@
+Which character sequence is used to execute a command within a subshell in a Bash script?
+A)  $()
+B)  subs()
+C)  $%
+D)  $(~
+A
+A. The $() sequence executes a command within a subshell, which is helpful for ensuringthat global variables in a Bash script cannot be modified. The other sequences shown are notvalid for the scenario described.

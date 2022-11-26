@@ -1,0 +1,7 @@
+Which command is used to obtain a pre- built docker image from a known repository?
+A)  install
+B)  inst
+C)  build
+D)  pull
+D
+D. Performing a docker pull will download and prepare an image for use. From the otheroptions, build is a valid docker command but is used to create an image from a Dockerfileand other related context files. The other options shown are not valid with Docker.Chapter 3: Scripting, Containers, and Automation (Domain 3.0)223

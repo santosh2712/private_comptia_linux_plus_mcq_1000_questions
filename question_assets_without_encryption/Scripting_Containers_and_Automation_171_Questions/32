@@ -1,0 +1,7 @@
+Which of the following commands creates a new branch called project1 and points theHEAD toward that branch?
+A)  git branch project1
+B)  git checkout project1
+C)  git checkout - b project1
+D)  git create project1 - H
+C
+C. The git checkout command switches the location to which HEAD is pointing. Byadding the - b option, the branch is also created.

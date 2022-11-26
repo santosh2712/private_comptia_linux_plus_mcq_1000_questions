@@ -1,0 +1,7 @@
+When creating a local package repository, which option within the .repo file in /etc/yum.repos.d/ is used to set the URL for the repository?
+A)  url
+B)  repourl
+C)  httpurl
+D)  baseurl
+D
+D. The baseurl option is used to set the URL and must be fully qualified, meaning itmust include the protocol, such as http:// or file://.

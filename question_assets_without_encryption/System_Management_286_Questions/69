@@ -1,0 +1,7 @@
+Which command on a systemd- controlled system would place the system intosingle- user mode?
+A)  systemctl stop
+B)  systemctl isolate rescue.target
+C)  systemctl single- user
+D)  systemctl runlevel one
+B
+B. The isolate option is used to move the system into the target specified, thereby makingoption B the correct one. The stop option stops a service. The other options do not exist.

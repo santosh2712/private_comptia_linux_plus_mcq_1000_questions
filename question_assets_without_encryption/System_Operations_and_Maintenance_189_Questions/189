@@ -1,0 +1,7 @@
+Which PAM module provides a mechanism for checking and enforcing the strength of pass-words in order to enforce a password policy?
+A)  pam_passwdstr.so
+B)  pam_cracklib.so
+C)  pam_libpasswd.so
+D)  pam_strpass.so
+B
+B. The pam_cracklib.so module enforces password strength options. The other fileslisted are not valid PAM modules.

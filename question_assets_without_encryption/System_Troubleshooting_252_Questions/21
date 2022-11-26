@@ -1,0 +1,7 @@
+When working with a virtual machine on a hypervisor that handles I/O scheduling, whichscheduling mechanism is suggested for virtual machines?
+A)  cfq
+B)  noop
+C)  timed
+D)  vm- opt
+B
+B. The noop scheduling algorithm is recommended for virtual machines on a hypervisorhost that performs the I/O scheduling. Of the other options shown, cfq is the defaultscheduling algorithm. The other two options are not valid.

@@ -1,0 +1,7 @@
+What is the UID of the root account?
+A)  1000
+B)  0
+C)  100
+D)  65535
+B
+B. The root account has UID 0 on a Linux system. Typically, service accounts have UIDsbelow 1000, many times below 100. Normal user accounts usually begin at UID 1000.

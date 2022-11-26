@@ -1,0 +1,7 @@
+Which of the following commands helps you to determine information about a givenwindow within an X session, including information on the window size and its position?
+A)  xkbinfo
+B)  xdspy
+C)  xwininfo
+D)  xver
+C
+C. The xwininfo command displays information about a given window within an Xsession. The other commands listed are not valid.

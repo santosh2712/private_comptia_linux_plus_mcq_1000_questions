@@ -1,0 +1,7 @@
+Within which directory will you find scripts that are scheduled to run through cronevery 24 hours?
+A)  /etc/cron.daily
+B)  /etc/cron.weekly
+C)  /etc/cron.hourly24
+D)  /etc/crontab
+A
+A. The /etc/cron.daily directory contains files such as scripts that are executed daily.There are corresponding cron.hourly, cron.weekly, and cron.monthly directoriesthat run on their respective schedules as indicated by the name of each directory.

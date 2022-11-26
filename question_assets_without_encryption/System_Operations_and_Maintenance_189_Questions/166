@@ -1,0 +1,7 @@
+Which option to ssh specifies the private key to use for authentication?
+A)  - m
+B)  - i
+C)  - k
+D)  - a
+B
+B. The - i option is used to specify a private key to use for authentication with SSH. Ofthe other options, - a is used to disable forwarding of the authentication agent, - k disablesGSSAPI credentials, and - m specifies message authentication code (MAC) algorithms.

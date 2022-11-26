@@ -1,0 +1,7 @@
+Which docker command removes an image from a host node?
+A)  del
+B)  rem
+C)  rmf
+D)  rmi
+D
+D. The rmi command removes an image from a host but notably does not remove theimage from the registry. The other commands shown are not valid for use with docker.

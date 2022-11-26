@@ -1,0 +1,7 @@
+Which of the following commands displays the current target runlevel on a systemd system?
+A)  ls - l /etc/systemd/system/default.target
+B)  systemctl default- target
+C)  systemd default- target
+D)  ls - l /etc/systemd/system- default.target
+A
+A. The command ls - l /etc/systemd/system/default.target shows thecurrent target to which the system will boot. The other commands are not valid.Chapter 4: Troubleshooting (Domain 4.0)233

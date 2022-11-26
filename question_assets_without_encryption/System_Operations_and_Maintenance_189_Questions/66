@@ -1,0 +1,7 @@
+When working with ufw, you need to allow SSH traffic. Which of the following commandsfacilitates this scenario?
+A)  ufw allow tcp/22
+B)  ufw enable ssh
+C)  ufw allow ssh
+D)  ufw enable tcp/21- 22
+A
+A. The ufw allow command is used to add rules, and SSH operates on TCP port 22.

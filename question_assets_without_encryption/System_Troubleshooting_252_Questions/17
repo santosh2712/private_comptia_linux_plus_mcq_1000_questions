@@ -1,0 +1,7 @@
+You need to create a restrictive access control list (ACL) on a server. Which policy should bethe default for the INPUT chain within the firewall?
+A)  deny
+B)  permit
+C)  accept
+D)  discard
+A
+A. The default policy should be deny. A deny- by- default policy discards packets. Itsnotable that a reject policy might also be used, which would send a reject back to thesender. The other options are not appropriate for the task described.

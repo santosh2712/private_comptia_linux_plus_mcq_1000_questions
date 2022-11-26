@@ -1,0 +1,7 @@
+Which option to df displays the output in human- readable format?
+A)  - h
+B)  - m
+C)  - j
+D)  - s
+A
+A. The - h option displays output in human- readable format, meaning that the output willbe displayed as megabytes, gigabytes, terabytes, and so on. The other options are not valid.

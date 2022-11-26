@@ -1,0 +1,7 @@
+Assume you need to add a kernel module with a custom command, such as to specifyoptions at load time. Within which file could you add this configuration?
+A)  /etc/modprobe- cfg
+B)  /etc/modprobe.conf
+C)  /etc/modprobe.cf
+D)  /etc/modprobe.cfg
+B
+B. The file /etc/modprobe.conf, which is a legacy file and may be removed in a laterversion of Linux, contains information on the configuration of modules on the system. Theother files do not exist.

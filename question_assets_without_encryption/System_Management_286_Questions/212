@@ -1,0 +1,7 @@
+Which of the following commands displays the Start of Authority information for thedomain example.com?
+A)  dig example.com soa
+B)  dig example.com authority
+C)  dig example.com - auth
+D)  dig - t auth example.com
+A
+A. The soa type is used to query for Start of Authority records for a domain. Note thatin many cases, dig will attempt to look up the domain within a given command and maynot appear to have had an error. For example, when running option D (dig - t authexample.com), you will receive information about example.com, and there will be a linein the output saying that dig has ignored the invalid type of auth.

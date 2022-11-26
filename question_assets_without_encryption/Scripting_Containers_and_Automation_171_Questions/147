@@ -1,0 +1,7 @@
+When troubleshooting a file that is not found, you notice that the file location is linked as../file.txt. Which type of path has been used for this file?
+A)  Virtual
+B)  Symbolic
+C)  Relative
+D)  Absolute
+C
+C. A relative path begins with something other than a / whereas an absolute path alwaysbegins with a /, indicating the root of the filesystem. The other options, virtual andsymbolic, are not valid names used to describe paths.

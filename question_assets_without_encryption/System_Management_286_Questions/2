@@ -1,0 +1,7 @@
+You have attempted to stop a process using its service command and also using thekill command. Which signal can be sent to the process using the kill command in orderto force the process to end?
+A)  - 15
+B)  - f
+C)  - 9
+D)  - stop
+C
+C. The - 9 option invokes SIGKILL, which will force the process to end. The 15 signal isthe default. The - f and - stop options do not exist.

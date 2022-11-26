@@ -1,0 +1,7 @@
+Which command can be used to listen for netlink messages on a network?
+A)  ip monitor
+B)  netlink - a
+C)  ip netlink
+D)  route
+A
+A. The ip command with the monitor option/subcommand will display netlink messagesas they arrive. There is no netlink subcommand for ip, and the route command will notwork for this purpose.

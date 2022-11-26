@@ -1,0 +1,7 @@
+Which configuration option with a Docker configuration shows the ports that will beopened when the image is started?
+A)  PORT
+B)  EXPOSE
+C)  OPEN
+D)  LISTEN
+B
+B. The EXPOSE configuration option indicates ports and protocols to be opened. Theseoptions can also be given on the command line at runtime by using the - p option. Theports to be exposed can also be found when running the inspect command and are listedas ExposedPorts within the output.

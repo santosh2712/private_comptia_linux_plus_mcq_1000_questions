@@ -1,0 +1,7 @@
+Which of the following commands shows network sockets and their allocated memory?
+A)  ss - m
+B)  mpas
+C)  mem
+D)  free
+A
+A. The ss command provides many of the same functions as netstat but can show someextended information, such as memory allocation for a given socket. The free commandshows memory usage but not by socket, and the other two commands do not exist.

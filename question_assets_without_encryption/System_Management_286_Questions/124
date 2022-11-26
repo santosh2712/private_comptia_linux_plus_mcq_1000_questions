@@ -1,0 +1,7 @@
+The xfs_info command is functionally equivalent to which command and option?
+A)  xfs_test - n
+B)  xfs_list
+C)  tunexfs - i
+D)  xfs_growfs - n
+D
+D. The xfs_info command is equivalent to xfs_growfs - n.

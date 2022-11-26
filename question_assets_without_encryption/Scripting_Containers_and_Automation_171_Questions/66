@@ -1,0 +1,7 @@
+You are collaborating on a coding project using git as the source code management tool.Teammates are saying that they cannot see your code, although you have been committingcode regularly. Which of the following is most likely the problem?
+A)  You have not added commit messages.
+B)  You need to send the commit IDs to the teammates.
+C)  You have not executed git push to send the code to the server.
+D)  You are committing using the - h flag.
+C
+C. More than likely you have not executed git push to send the code to the server. Ofthe other options, you do not need to send commit IDs to teammates and there is nothing toindicate that you have been having problems committing the code itself.

@@ -1,0 +1,7 @@
+Which option within gdisk will change the partition name?
+A)  n
+B)  b
+C)  v
+D)  c
+D
+D. The c option in gdisk is used to change the partition name. The n option creates a newpartition, the v option verifies the disk, and the b option creates a backup of GUID PartitionTable (GPT) data to a file.

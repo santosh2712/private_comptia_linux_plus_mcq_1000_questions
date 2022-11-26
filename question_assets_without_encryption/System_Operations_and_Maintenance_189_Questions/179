@@ -1,0 +1,7 @@
+You need to enable the web server (running as the www- data user and group) to write into adirectory called /home/webfiles. Which commands will accomplish this task in the mostsecure manner?
+A)  chgrp www- data /home/webfiles ; chmod 775 /home/webfiles
+B)  chmod 777 /home/webfiles
+C)  chgrp www- data /home/webfiles ; chmod 711 /home/webfiles
+D)  chmod 707 /home/webfiles
+A
+A. The best option among these choices is to change the group to www- data and change thepermissions such that the group can write into the directory. Option B should never be usedbecause it enables world- writing to the directory. The other options will not allow the webserver group to write into the directory.

@@ -1,0 +1,7 @@
+Which of the following commands can be used to generate a private and public key pair forauthentication with SSH?
+A)  ssh- createkey
+B)  sshkey
+C)  ssh- key
+D)  ssh- keygen
+D
+D. The ssh- keygen command generates a public and private key pair that can be used foruser authentication between a client and server. The other commands shown are not valid.

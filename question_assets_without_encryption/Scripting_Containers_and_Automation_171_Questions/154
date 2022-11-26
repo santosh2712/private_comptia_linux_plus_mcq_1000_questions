@@ -1,0 +1,7 @@
+Which escape sequence is used to denote the alert or bell?
+A)  \a
+B)  \b
+C)  \c
+D)  \d
+A
+A. The \a escape sequence, when used with the echo command, sounds an alert or bell. The\b option is a backspace. The \c option indicates that echo should not produce any addi-tional output. There is no \d option for echo.

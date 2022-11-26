@@ -1,0 +1,7 @@
+Which of the following protocols is typically used for agentless infrastructureorchestration?
+A)  SMTP
+B)  ICMP
+C)  SSH
+D)  FTP
+C
+C. SSH is typically used for communication between nodes in an agentless orchestration.Less common would be a protocol such as HTTPS. The other protocols shown as optionswould not be used for agentless orchestration.

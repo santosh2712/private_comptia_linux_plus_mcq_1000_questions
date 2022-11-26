@@ -1,0 +1,7 @@
+Which file is used to store a list of encrypted devices that are to be mounted at boot?
+A)  /etc/cryptdev
+B)  /etc/crypttab
+C)  /etc/encrtab
+D)  /etc/fsencrypt
+B
+B. The /etc/crypttab file contains the filesystems and devices that are encrypted suchas those with Linux Unified Key Setup (LUKS). The other file locations do not exist bydefault and are not related to this question.

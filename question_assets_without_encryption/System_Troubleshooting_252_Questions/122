@@ -1,0 +1,7 @@
+You are using top to investigate a report of the system processing being slow. A developerreports that that the id column within %Cpu(s) output of top is reporting as 98.3 andthey would like to know which PID is associated with that much CPU. What should youtell them?
+A)  The id column represents the average delay for a process.
+B)  The id column is CPU time related to user processes.
+C)  The process ID will need to be found with the ps command to determine which PID cor-responds to the id output.
+D)  The number that corresponds to id represents idle time of the CPU and not the time used
+D
+D. The id output represents CPU idle time and therefore is telling for this scenario insofaras further investigation will be needed to determine the cause of reported slowdowns on thesystem. The id output is not associated with a process or user ID, and user processes are rep-resented by us in the output of top.

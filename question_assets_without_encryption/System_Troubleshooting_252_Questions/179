@@ -1,0 +1,7 @@
+When using the du command to diagnose which directories are large, you would like to sum-marize the output in a more human- friendly format. Which option(s) should be used?
+A)  - - summarize
+B)  - uh
+C)  - h
+D)  - sh
+D
+D. The - s option summarizes the output by directory, while the - h option presents theoutput in a more human- friendly manner.

@@ -1,0 +1,7 @@
+Which of the following commands will emulate the ping command in Microsoft Windows,where the ping is sent for four packets and then the command exits?
+A)  ping - n 4
+B)  ping - t 4
+C)  ping - p 4
+D)  ping - c 4
+D
+D. The - c option provides the count of the number of pings to send. The - n option specifiesnumeric output only, while - p specifies the pattern to use for the packet content. Finally, the- t option sets the TTL.182Appendix  Answers to the Review Questions

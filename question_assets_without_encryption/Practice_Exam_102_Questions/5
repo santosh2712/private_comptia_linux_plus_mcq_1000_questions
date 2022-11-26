@@ -1,0 +1,7 @@
+Which of the following dd commands reads and writes bytes one megabyte at a time?
+A)  dd bsl=1024M
+B)  dd size=1M
+C)  dd bs=1M
+D)  dd rw=1M
+C
+C. The bs option is used to specify block size. Various suffixes are possible, such as M, whichis equivalent to megabytes, and K, which is equivalent to kilobytes.

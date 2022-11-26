@@ -1,0 +1,7 @@
+While troubleshooting a script that runs via cron, you find that the script needs elevatedprivileges through sudo but there will not be a way to enter a password through thescript. Which option within /etc/sudoers enables the command to be executed withoutprompting for a password?
+A)  PASS=NO
+B)  SKIPPASS
+C)  NOPASSWD
+D)  NOPASS
+C
+C. Using the NOPASSWD option causes sudo to not prompt for the password. The otheroptions shown are not valid with sudo.

@@ -1,0 +1,7 @@
+Which command can be used to set file attributes such as making a file immutable?
+A)  chr
+B)  fattr
+C)  chattr
+D)  fop
+C
+C. The chattr command is used to change file attributes, including making them immu-table. The other commands are not valid.

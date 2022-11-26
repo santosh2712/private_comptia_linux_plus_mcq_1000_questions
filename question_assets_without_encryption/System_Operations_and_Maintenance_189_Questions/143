@@ -1,0 +1,7 @@
+Which of the following partial iptables rules sets up a configuration that limits log entries tothree per minute?
+A)  - m limit 3 - j LOG
+B)  - m limit - - limit 3/minute - - limit- burst 3 - j LOG
+C)  - m limit - - limit 3
+D)  - m limit - - limit- minute 3 - - burst 3 - j LOG
+B
+B. The - m match limit, along with the configuration options shown including the LOG target,creates the scenario described. There will be three log entries per minute. This can be usefulto prevent denial of service caused by filling up log files or overwhelming the server I/O whileanother attack is under way.

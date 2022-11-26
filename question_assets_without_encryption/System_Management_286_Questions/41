@@ -1,0 +1,7 @@
+Which option to grub- install will place the GRUB images into an alternate directory?
+A)  - - boot- dir
+B)  - b
+C)  - boot
+D)  - - boot- directory
+D
+D. The - - boot- directory option enables you to specify an alternate location forGRUB images rather than the default /boot. The other options shown for this questionare not valid.

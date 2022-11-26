@@ -1,0 +1,7 @@
+You need to kill a process using its name rather than its process id. Which command can beused for this purpose?
+A)  pkill
+B)  pend
+C)  pterminate
+D)  kp
+A
+A. The pkill command is used to terminate a process by name. The other commandsshown are not valid.

@@ -1,0 +1,7 @@
+If you need to temporarily reconfigure all locale variables and settings for a given session,which environment variable can be used?
+A)  LC_LIST
+B)  LC_GLOBAL
+C)  LC_ALL
+D)  ALL_LOCALE
+C
+C. The LC_ALL variable can be used to set environment variables for the locale and willoverride others. This can be used when there is a need for a temporary change. The othervariables listed here are not used for this purpose and are not created by default.

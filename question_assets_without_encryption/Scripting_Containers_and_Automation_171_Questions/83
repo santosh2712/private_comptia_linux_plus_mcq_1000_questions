@@ -1,0 +1,7 @@
+When using Docker compose to create a single- node multi- container application, whichformat is required for the configuration file?
+A)  JSON
+B)  YAML
+C)  PDF
+D)  XML
+B
+B. YAML is the format used for creating an application with compose. The other formatsare valid but not for the purpose described.

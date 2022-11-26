@@ -1,0 +1,7 @@
+Which command is used to change a users home directory to /srv/data/username and movethe contents at the same time?
+A)  usermod - d /srv/data/username - m
+B)  homedir - m /srv/data/username
+C)  userex - m /srv/data/username
+D)  userchg /m /srv/data/username - d
+A
+A. The usermod command is used for this purpose. The - d option changes the homedirectory from its normal location at /home. The - m option moves the contents. The othercommands shown for this question are not valid.

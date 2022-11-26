@@ -1,0 +1,7 @@
+Which command is used for setting parameters such as the essid, channel, and other relatedoptions for a wireless device?
+A)  ifconfig
+B)  iwconfig
+C)  wlancfg
+D)  ifcfg
+B
+B. The iwconfig command, which is similar to the ifconfig command, works withan individual wireless interface to set and display parameters. Of the other commands,the ifconfig command is valid but not used for wireless, and ifcfg is intended as areplacement for ifconfig. The other commands are not valid.

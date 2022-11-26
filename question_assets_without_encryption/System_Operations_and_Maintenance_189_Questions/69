@@ -1,0 +1,7 @@
+Which of the following is the correct syntax to enable port forwarding so that connectionsto local port 5150 will be sent to www.example.com on port 80?
+A)  - L www.example.com:80- >5150
+B)  - L 5150:www.example.com:80
+C)  - L 5150- >www.example.com:80
+D)  - F 5150- >www.example.com:80
+B
+B. Local forwarding is accomplished with - L. The first port is the local port, which is thenfollowed by the destination hostname and port. The other answers do not use the correctsyntax for this scenario.

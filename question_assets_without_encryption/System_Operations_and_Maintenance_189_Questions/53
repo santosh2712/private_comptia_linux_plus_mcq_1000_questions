@@ -1,0 +1,7 @@
+When configuring Apache for a web server role, which of the following directives tells theserver the location of the SSL private key?
+A)  SSLKeyFile
+B)  SSLCertificatePrivateKey
+C)  SSLCertificateKeyFile
+D)  SSLPrivateKey
+C
+C. The SSLCertificateKeyFile directive points to the location of the private key for anSSL configuration. The other options shown are not valid directives.

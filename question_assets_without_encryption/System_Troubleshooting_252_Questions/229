@@ -1,0 +1,7 @@
+You are troubleshooting a disk space issue and notice that the journal files are consumingtoo much space. Which option within journald.conf sets a limit on how much disk spacecan be used?
+A)  MaxDisk=
+B)  SystemMaxUse=
+C)  MaxSpace=
+D)  SpaceLimit=
+B
+B. The SystemMaxUse= option controls the amount of space that the journal can use. Theother options shown are not valid.

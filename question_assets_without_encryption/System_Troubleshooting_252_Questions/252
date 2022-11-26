@@ -1,0 +1,7 @@
+You have replaced a device on the network but used the IP address from another activedevice. Which command can be run to remove the MAC address entry from your computerso that it performs the address resolution again?
+A)  arp - d
+B)  netstat - rn
+C)  hostname
+D)  dig
+A
+A. Because youre working with MAC addresses, the arp command will be used. The - doption removes or deletes an ARP entry, which would be appropriate here so that theMAC address resolution occurs again. The netstat command will not be used for thispurpose. The hostname and dig commands work with name resolution but not for MACaddresses or the ARP table.

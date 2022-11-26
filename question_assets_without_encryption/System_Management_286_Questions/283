@@ -1,0 +1,7 @@
+When troubleshooting an issue where SSH connections are timing out, you think the fire-wall is blocking SSH connections. Which of the following ports is used for Secure Shellcommunication?
+A)  TCP/23
+B)  TCP/25
+C)  TCP/22
+D)  TCP/2200
+C
+C. Secure Shell, or SSH, operates on TCP port 22 by default. TCP/23 is used for Telnet,TCP/25 is SMTP, and TCP/2200 is not associated with a well- known service.

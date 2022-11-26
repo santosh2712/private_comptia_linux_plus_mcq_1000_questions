@@ -1,0 +1,7 @@
+Which option is set on a filesystem in order to enable user- level quotas?
+A)  quotaon
+B)  enquota=user
+C)  usrquota
+D)  userquota
+C
+C. The usrquota option will enable user- level quotas on the given mount point. This is typ-ically set within /etc/fstab.

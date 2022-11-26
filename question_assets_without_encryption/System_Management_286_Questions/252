@@ -1,0 +1,7 @@
+Which of the following commands adds a default gateway of 192.168.1.1 for interface eth0?
+A)  route add default gateway 168.1.1 eth0
+B)  eth0 - - dg 168.1.1
+C)  route add default gw 168.1.1 eth0
+D)  route define eth0 168.1.1
+C
+C. The route command is used for this purpose, and adding a route is done with the addoption. The default gateway is added using the default gw keywords followed by the IPaddress of the gateway and the adapter.

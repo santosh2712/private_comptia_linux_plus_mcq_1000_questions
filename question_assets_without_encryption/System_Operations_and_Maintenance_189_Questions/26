@@ -1,0 +1,7 @@
+Which PAM module is responsible for normal or standard password authentication?
+A)  pam_auth.so
+B)  pam_login.so
+C)  pam_unix.so
+D)  pam_standardlogin.so
+C
+C. The pam_unix.so module is used for standard login. The manpage for pam_unix.soindicates that it is for traditional password authentication. The other modules listed arenot standard PAM modules, although there is a similar pam_auth or squid_pam_authmodule for Squid.

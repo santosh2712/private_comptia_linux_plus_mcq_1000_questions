@@ -1,0 +1,7 @@
+Which of the following best describes attributes of an inventory within an automated contin-uous integration/continuous deployment (CI/CD) infrastructure?
+A)  Parameters such as the client IP address and software versions
+B)  The number of client nodes
+C)  The software used on the server for the orchestration
+D)  The architectural pattern for deployment
+A
+A. Parameters and other facts about the clients are also called attributes in an orchestration.

@@ -1,0 +1,7 @@
+When working with access control lists (ACLs), which of the following commands is usedto display information about the access control list for a given file?
+A)  getfacl
+B)  getacl
+C)  acldisp
+D)  showacl
+A
+A. The getfacl command is used to display access control list information for a file. Thesetfacl command is used to set this information. The other commands shown are notvalid Linux commands.

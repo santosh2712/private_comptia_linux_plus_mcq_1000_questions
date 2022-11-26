@@ -1,0 +1,7 @@
+While troubleshooting a file permission issue, you wrote a Bash script containing an ifconditional. Which of the following tests will determine whether a file exists and can be readby the user executing the test?
+A)  - e
+B)  - s
+C)  - a
+D)  - r
+D
+D. The - r test determines whether a given file exists and can be read by the current user. The- e test only checks to see if the file exists, while - s determines if the file exists and has a sizegreater than zero. There is no - a file test.

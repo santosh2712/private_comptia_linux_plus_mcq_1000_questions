@@ -1,0 +1,7 @@
+Which file contains user information such as username and real name and is readable by allusers of the system?
+A)  /etc/pass
+B)  /etc/shadow
+C)  /etc/passwd
+D)  /etc/userinfo
+C
+C. The /etc/passwd file contains various information about users on a system such asusername and real name, along with user ID (UID) and login shell. The file is world- readable.The /etc/shadow file contains encrypted passwords but is not readable by all users. Theother two files shown as options do not exist by default.

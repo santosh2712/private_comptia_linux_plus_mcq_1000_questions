@@ -1,0 +1,7 @@
+Which of the following best describes .rpmnew and .rpmsave files?
+A)  The .rpmnew file contains RPM files and their hashes while .rpmsave contains a listof saved hashes.
+B)  The .rpmnew file contains new RPM files available for download while .rpmsavecontains a list of files that have been saved locally.
+C)  The .rpmnew file contains a list of RPM files that have changed since the last savewhile .rpmsave is a backup of the last .rpmnew file.
+D)  The .rpmnew file contains a new configuration file for a package when local changes
+D
+D. The .rpmnew and .rpmsave files are used to store configurations for packages thatare installed, whether a new configuration file or an existing configuration file.

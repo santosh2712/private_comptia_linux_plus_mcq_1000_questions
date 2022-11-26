@@ -1,0 +1,7 @@
+Which of the following commands, when used with git, retrieves the latest objects froma repository and attempts to incorporate those changes into the local working copy of therepository?
+A)  fetch
+B)  pull
+C)  retr
+D)  get
+B
+B. The pull command in git fetches the changes and incorporates them into the currentworking copy. The fetch command retrieves but does not incorporate the changes. Theother options are not valid git subcommands.212Appendix  Answers to the Review Questions5.

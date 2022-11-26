@@ -1,0 +1,7 @@
+What is the octal notation to specify that a directory should have read+write+execute per-missions for the owner and read+execute permissions for the group and other?
+A)  711
+B)  644
+C)  755
+D)  777
+C
+C. When octal notation is used, the number 4 is read, 2 is write, and 1 is execute. User,group, and other permissions appear in that order with octal notation. Therefore, 7 grantsthe user read+write+execute, and 5 grants read+execute for group and other.

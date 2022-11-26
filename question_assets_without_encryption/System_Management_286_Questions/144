@@ -1,0 +1,7 @@
+You need to copy a file to a remote system, but that remote system does not have FTP orany other file- sharing services running. You have the ability to SSH into the server. Whichof the following commands can be used for this purpose?
+A)  scp
+B)  ncftp
+C)  go
+D)  xfer
+A
+A. The scp command copies or transfers a file over SSH. The ncftp command cannot beused for this purpose. The other commands are not valid.

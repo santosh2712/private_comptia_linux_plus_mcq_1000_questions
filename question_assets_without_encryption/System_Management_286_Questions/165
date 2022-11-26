@@ -1,0 +1,7 @@
+What is the maximum number of primary partitions available on an MBR partition-ing system?
+A)  Two
+B)  Four
+C)  One
+D)  Five
+B
+B. MBR- based disks can be partitioned with up to four primary partitions, one of which canbe further partitioned or extended into logical partitions.

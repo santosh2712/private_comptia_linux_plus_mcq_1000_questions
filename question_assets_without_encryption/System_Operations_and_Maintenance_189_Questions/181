@@ -1,0 +1,7 @@
+A user needs to work with printers and printer- related items. Which of the followingcommands adds the user (called username in the options) to the appropriate group forthis purpose?
+A)  usermod - aG printerusers username
+B)  usermod - aG lpadmin username
+C)  usermod - gA lpadm username
+D)  usermod - a lpadm username
+B
+B. The usermod command with the - aG option is used to append a group onto the userslist of groups. In this case, the user needs to be a member of the lpadmin group.

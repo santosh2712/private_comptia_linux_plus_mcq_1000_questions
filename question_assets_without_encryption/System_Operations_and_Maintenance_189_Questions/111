@@ -1,0 +1,7 @@
+Which of the following commands displays account information such as expiration date, lastpassword change, and other related details?
+A)  usermod - l
+B)  userinfo - a
+C)  chageuser - l
+D)  chage - l
+D
+D. The chage command is used for working with account aging information such as expi-ration date, password change, days between password changes, and so on. The - l commandlists information for the given account. The usermod command is used to make changes toan account, and the other two commands are not valid.

@@ -1,0 +1,7 @@
+On which port does the ping command operate for ICMP echo requests?
+A)  53
+B)  1337
+C)  33433
+D)  No port
+D
+D. There is no port for ICMP. The protocol does not use ports.

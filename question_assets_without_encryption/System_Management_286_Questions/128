@@ -1,0 +1,7 @@
+The system contains an NFS mounted filesystem that has become unreachable. Whichoption should be passed to umount in order to force the unmounting of the filesystem?
+A)  - nfs
+B)  - - fake
+C)  - f
+D)  - n
+C
+C. The - f option will force the umount to occur. The - - fake option is essentially a dryrun in that it wont actually unmount a filesystem. The other two options do not exist.

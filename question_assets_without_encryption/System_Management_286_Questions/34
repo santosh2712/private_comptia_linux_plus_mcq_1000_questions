@@ -1,0 +1,7 @@
+A developer has created an application and wants to take advantage of syslog for loggingto a custom log file. Which facility should be used for an application such as this?
+A)  syslog
+B)  kern
+C)  local#
+D)  user
+C
+C. The application could theoretically use any of the logging facilities, depending on thetype of application being developed. However, the requirement to log to a custom logfile means the logs will have a different name and possibly a different location than thestandard logs. Therefore, logging to any of the standard or system- level facilities is notappropriate for this scenario, so one of the local (local0 through local7) facilities isappropriate.

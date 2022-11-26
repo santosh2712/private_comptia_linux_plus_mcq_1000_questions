@@ -1,0 +1,7 @@
+Which command enables you to view the current IRQ assignments?
+A)  view /proc/irq
+B)  cat /proc/interrupts
+C)  cat /dev/irq
+D)  less /dev/irq
+B
+B. Current interrupt (IRQ) assignments are contained in the file /proc/interrupts.Therefore, viewing the contents of the file with a command such as cat will work. There isno view command, thus making option A incorrect. Likewise, there is no /dev/irq file,making options C and D incorrect.

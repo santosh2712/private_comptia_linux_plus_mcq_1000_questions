@@ -1,0 +1,7 @@
+During boot of a system with GRUB, which key can be pressed to display the GRUB menu?
+A)  Shift
+B)  E
+C)  V
+D)  H
+A
+A. The Shift key, if pressed when control has first been handed to GRUB, will cause theGRUB menu to be displayed.5.

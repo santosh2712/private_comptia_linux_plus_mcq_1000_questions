@@ -1,0 +1,7 @@
+Which Bash environment variable is used to obtain the exit status of the mostrecent pipeline?
+A)  $.
+B)  $E
+C)  $STAT
+D)  $?
+D
+D. The exit status of the most recently executed pipeline is found with the $? environmentvariable. The other environment variables shown do not exist by default.

@@ -1,0 +1,7 @@
+A command has the following listing obtained with ls - la:- rwsr- xr- x 1 suehring suehring 21 Nov 2 13:53 script.shWhat does the s denote within the user permissions in the listing?
+A)  The suid bit has been set for this program.
+B)  This is a symlink.
+C)  The file will not be executable.
+D)  The file is a special system file.
+A
+A. The suid bit enables the program to run as the user who owns the file, regardless ofwho executes the program. Using SUID typically is not recommended for security reasons.The other permissions allow read (r) and write (w) for the owner of the file. The group andother permissions include read (r) and execute (x) but not write.

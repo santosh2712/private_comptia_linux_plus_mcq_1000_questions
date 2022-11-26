@@ -1,0 +1,7 @@
+Which option to ioping sets the size of the request?
+A)  - m
+B)  - n
+C)  - f
+D)  - s
+D
+D. The size of the request can be set using the - s option for ioping. The other optionsshown are not valid with ioping.

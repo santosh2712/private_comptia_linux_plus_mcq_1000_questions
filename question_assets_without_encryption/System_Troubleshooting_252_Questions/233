@@ -1,0 +1,7 @@
+Services are not starting in the correct order. Which configuration option can be used withina systemd service unit file to delay a service from starting until another has started?
+A)  Before=
+B)  Dep=
+C)  Order=
+D)  Prior=
+A
+A. Using Before= and After= ensures ordering of services, thus making option Acorrect. The other options are not valid for ordering of systemd unit files.

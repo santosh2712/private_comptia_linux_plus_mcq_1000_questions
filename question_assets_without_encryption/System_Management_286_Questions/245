@@ -1,0 +1,7 @@
+Which of the following commands will mount a USB device at /dev/sdb1 into the /mnt/usbdirectory, assuming a VFAT filesystem for the USB drive?
+A)  mount - t vfat /dev/sdb1 /mnt
+B)  usbmount /dev/sdb1 /mnt/usb
+C)  mount - t vfat /dev/sdb1 /mnt/usb
+D)  mount - t usb /dev/sdb1 /mnt/usb
+C
+C. The VFAT filesystem is known as vfat to the mount command, and the other elementsof the mount command are standard.Chapter 1: System Management (Domain 1.0)179

@@ -1,0 +1,7 @@
+Which of the following commands inserts a module into the running kernel but does notresolve dependencies?
+A)  lsmod
+B)  modinstall
+C)  insmod
+D)  moduleinst
+C
+C. The insmod command inserts a module into the running kernel. It does not, however,attempt to resolve dependencies but rather outputs an error if there are dependent modulesor kernel symbols that are not available.

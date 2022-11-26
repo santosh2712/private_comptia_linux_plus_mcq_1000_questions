@@ -1,0 +1,7 @@
+Which environment variable controls the format of dates and times, such as a 12- hour or24- hour formatted clock?
+A)  LOCALE_DATE
+B)  DATE_FORMAT
+C)  LC_TIME
+D)  LC_DATE
+C
+C. The LC_TIME environment variable is used to control the display and behavior of thedate and time and can be changed to a different locale in order to achieve the desired displayand behavior of date and time formatting. The other options shown for this question donot exist.

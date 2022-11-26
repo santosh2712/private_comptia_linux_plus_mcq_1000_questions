@@ -1,0 +1,7 @@
+Which of the following commands lists the current iptables rules while not attempting toresolve host or port names?
+A)  iptables - L
+B)  iptables - List - no- resolve
+C)  iptables - a
+D)  iptables - nL
+D
+D. The iptables - n option causes iptables to not resolve host names or port names.The - L option lists current rules. There is no - a option and the other options are not valid.204Appendix  Answers to the Review Questions

@@ -1,0 +1,7 @@
+Which option to systemctl can be used to stop one or more jobs that are in progress?
+A)  cancel
+B)  cancel- jobs
+C)  - - kill- jobs
+D)  - - job- kill
+A
+A. The cancel option stops jobs in progress using their job ID as an argument. If noargument is given, then all jobs will be canceled. The other options shown are not valid forthis purpose.

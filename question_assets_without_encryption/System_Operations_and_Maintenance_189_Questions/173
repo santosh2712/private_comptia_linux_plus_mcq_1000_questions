@@ -1,0 +1,7 @@
+Which file sets the global or default values for the ssh command client behavior?
+A)  /etc/ssh/config
+B)  /etc/ssh/client_config
+C)  /etc/ssh/ssh_config
+D)  /etc/ssh/sshd_config
+C
+C. The file /etc/ssh/ssh_config contains default values for client behavior that canbe overridden by ~/.ssh/config values on a per- user basis. Of the other files, /etc/ssh/sshd_config is valid but defines server- related configuration.

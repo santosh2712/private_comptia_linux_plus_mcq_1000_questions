@@ -1,0 +1,7 @@
+Which option to the usermod command is used to change a given users real name?
+A)  - R
+B)  - n
+C)  - d
+D)  - c
+D
+D. The - c option changes the comment field in /etc/passwd. The comment field is typ-ically associated with the real name of the account. The - R option indicates a chrootdirectory, while - d indicates a change of home directory. There is no - n option.

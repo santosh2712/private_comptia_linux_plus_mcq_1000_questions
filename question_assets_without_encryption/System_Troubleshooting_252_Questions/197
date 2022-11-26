@@ -1,0 +1,7 @@
+When youre troubleshooting a file access issue for a user, which command can be run inorder to determine if the issue is related to SELinux policy?
+A)  ls - P
+B)  pol - - info
+C)  showpol
+D)  ls - Z
+D
+D. The ls - Z command shows information regarding the SELinux security context appliedto a file and can help determine if the issue is policy/non- policy related. There is no - P optionand the other commands shown are not valid.

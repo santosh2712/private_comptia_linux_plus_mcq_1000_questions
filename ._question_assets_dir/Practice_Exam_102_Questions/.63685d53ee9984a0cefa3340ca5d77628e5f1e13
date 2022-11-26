@@ -1,0 +1,7 @@
+Which docker command displays detailed information about a container?
+A)  mine
+B)  inspect
+C)  show
+D)  list
+B
+B. The inspect command shows detailed information about a Docker container. Theother options are not relevant for this scenario.

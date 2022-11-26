@@ -1,0 +1,7 @@
+Being able to deploy additional servers in response to high demand or load is an example ofwhich type of automation?
+A)  Build
+B)  Compile
+C)  Infrastructure
+D)  Config
+C
+C. Infrastructure automation is the term most closely associated with adding (and removing)servers in response to load and demand and is frequently associated with continuousintegration/continuous deployment (CI/CD) concepts.

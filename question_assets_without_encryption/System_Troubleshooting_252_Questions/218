@@ -1,0 +1,7 @@
+Which command can be used to trigger the kernel to update the partition table?
+A)  ifdisk
+B)  partup
+C)  partprobe
+D)  uppart
+C
+C. The partprobe command causes a partition update for the kernel. The other optionsare not valid commands.

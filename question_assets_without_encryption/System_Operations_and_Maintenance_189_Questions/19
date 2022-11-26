@@ -1,0 +1,7 @@
+Which AppArmor command uses netstat to determine the network- related processesthat do not have AppArmor profiles?
+A)  aa- profiles
+B)  aa- netstat
+C)  aa- unconfined
+D)  aa- netlist
+C
+C. The aa- unconfined command displays processes that are offering network ports butdo not have an AppArmor profile. The other commands are not valid.

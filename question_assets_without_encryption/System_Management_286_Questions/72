@@ -1,0 +1,7 @@
+Which of the following commands will send the output of the grub2- mkconfigcommand to the correct location for booting?
+A)  grub2- mkconfig - - output=/boot/grub2/grub.cfg
+B)  grub2- mkconfig - - file=/boot/grubmenu
+C)  grub2- mkconfig - - file=/boot/grub.lst
+D)  grub2- mkconfig - - output=/boot/menu.lst
+A
+A. The - - output option configures the location for output of the command insteadof STDOUT.

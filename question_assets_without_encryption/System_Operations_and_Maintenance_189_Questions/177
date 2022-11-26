@@ -1,0 +1,7 @@
+Which of the following partial iptables rules blocks all traffic from source IP 192.168.51.50?
+A)  - A INPUT - p ALL 168.51.50 - j ACCEPT
+B)  - A INPUT - p ALL - s 168.51.50 - j DROP
+C)  - A INPUT - p ALL - s 168.51.50 - j BLOCK
+D)  - A INPUT - p ALL - f 168.51.50 - j DISCARD
+B
+B. The INPUT chain will be used, and a rule needs to be appended with - A. The ALL option,when specifying a protocol, means all protocols will be included in the rule. The - s optionspecifies the source, which in this case is a single IP address. Finally, the DROP target silentlydiscards packets. There is no BLOCK or DISCARD target, and the ACCEPT target will notblock but will accept all traffic.

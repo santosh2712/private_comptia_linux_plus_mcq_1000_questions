@@ -1,0 +1,7 @@
+According to the FHS, what is the proper mount point for removable media?
+A)  /etc
+B)  /srv
+C)  /tmp
+D)  /media
+D
+D. The /media mount point is used for removable media. See https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html for more informationon the FHS.

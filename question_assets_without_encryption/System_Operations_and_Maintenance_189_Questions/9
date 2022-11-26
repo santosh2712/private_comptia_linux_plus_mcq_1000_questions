@@ -1,0 +1,7 @@
+When using dynamic port forwarding with SSH, which type of proxy is used?
+A)  Squid
+B)  Internal
+C)  Curb
+D)  Socks
+D
+D. A Socks proxy is used when dynamic port forwarding is configured with SSH. Of theother answers, Squid can be used as a proxy server but is not associated with dynamic portforwarding for SSH. The other options shown are not valid.

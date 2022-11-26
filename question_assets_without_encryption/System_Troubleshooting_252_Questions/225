@@ -1,0 +1,7 @@
+You need to configure additional logging in order to troubleshoot a daemon startup issue.Which of the following is the correct syntax and setting for /etc/systemd/system.conf to facilitate additional logging?
+A)  Log=All+Debug
+B)  LogLevel=Max
+C)  LogLevel=Debug
+D)  Logging=all
+C
+C. Setting LogLevel=Debug configures the maximum logging level for daemon processesstarted by systemd. The other options shown are not valid for this purpose.

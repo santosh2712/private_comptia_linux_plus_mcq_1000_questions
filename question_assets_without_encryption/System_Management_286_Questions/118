@@ -1,0 +1,7 @@
+Which of the following installs a previously downloaded Debian package?
+A)  dpkg - i <package name>
+B)  apt- install <package name>
+C)  apt- slash <package name>
+D)  dpkg - U <package name>
+A
+A. The - i option to dpkg will install a previously downloaded .deb Debian package. Theother commands dont exist, and the - U option for dpkg does not exist.

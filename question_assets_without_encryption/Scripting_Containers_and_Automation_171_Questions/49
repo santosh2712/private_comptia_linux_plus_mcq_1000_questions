@@ -1,0 +1,7 @@
+Which option is used with the env command in order to remove a variable from theenvironment?
+A)  - r
+B)  - u
+C)  - n
+D)  - d
+B
+B. The - u option or - - unset will remove a variable from the environment. The otheroptions are not valid with the env command.

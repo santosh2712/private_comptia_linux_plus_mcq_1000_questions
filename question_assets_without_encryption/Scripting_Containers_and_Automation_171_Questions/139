@@ -1,0 +1,7 @@
+Which of the following best describes the role of an agent in software orchestration?
+A)  An agent is software that listens for and executes commands from the server.
+B)  An agent is used to migrate from one operating system to another.
+C)  An agent is a hardware- based token used for authentication.
+D)  An agent is not used in software orchestration.
+A
+A. An agent is software that runs on clients and listens for commands from the server in anorchestration architecture.

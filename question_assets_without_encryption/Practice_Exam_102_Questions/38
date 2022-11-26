@@ -1,0 +1,7 @@
+When using the dm- crypt command, which type of encryption is used by default?
+A)  plain
+B)  SHA- 256
+C)  LUKS
+D)  loop
+C
+C. LUKS encryption is the default mode for the dm- crypt command. Other modes includeplain, loopaes, and tcrypt.

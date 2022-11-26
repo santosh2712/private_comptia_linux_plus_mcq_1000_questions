@@ -1,0 +1,7 @@
+When using Kerberos authentication, which of the following commands shows theticket cache?
+A)  ktix
+B)  ktel
+C)  kcache
+D)  klist
+D
+D. The klist command shows the current tickets when using Kerberos authentication. Ofthe other answers, the kinit command is used to retrieve the initial ticket- granting ticket.The remaining answers are not valid commands.

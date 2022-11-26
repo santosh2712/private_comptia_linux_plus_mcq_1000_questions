@@ -1,0 +1,7 @@
+The out- of- memory killer has been killing some processes on the system and you suspectthat there are memory leaks. Which columns within ps output are helpful for determiningcurrent memory usage for a given process?
+A)  size and rss
+B)  mem and swap
+C)  free and cache
+D)  phy and vir
+A
+A. The size and rss columns within ps output are helpful for determining memoryusage for a given process. The other options are not valid for process- level troubleshooting.

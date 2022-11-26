@@ -1,0 +1,7 @@
+Which iptables chain is used to create a port redirect?
+A)  REDIRECT
+B)  PREROUTING
+C)  PORTREDIR
+D)  ROUTING
+B
+B. The PREROUTING chain, part of the nat table, contains rules that are applied as packetsarrive. A common use for this chain is to apply redirect rules. Among the other answers,REDIRECT may appear valid but is in fact a target and not a chain. The other options shownare not valid.

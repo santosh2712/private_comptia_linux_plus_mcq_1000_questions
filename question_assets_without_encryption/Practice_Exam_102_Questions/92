@@ -1,0 +1,7 @@
+Which file test within a Bash script checks to see if the file exists?
+A)  - f
+B)  - o
+C)  - l
+D)  - p
+A
+A. The - f file test checks to see if the file exists and is useful in a scripting scenario asdescribed.

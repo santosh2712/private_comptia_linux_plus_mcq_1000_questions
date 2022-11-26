@@ -1,0 +1,7 @@
+When sourcing a file in bash, which chmod command would be necessary to provide theminimum privileges in order for the file to be sourced correctly, assuming that your currentuser owns the file?
+A)  chmod 600
+B)  chmod 755
+C)  chmod 777
+D)  chmod 400
+D
+D. You minimally need to be able to read the file being sourced; therefore, chmod 400 willcorrectly set the permissions. Any chmod that gives additional permissions is not necessary.When permissions are granted using octal notation, the number 4 is read, 2 is write, and1 is execute. There are three permissions: user (owner), group, and other or world. There-fore, chmod 400 grants read privileges to the owner and no permissions to group andother/world.

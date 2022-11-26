@@ -1,0 +1,7 @@
+Which options for netcat will create a server listening on port 8080?
+A)  netcat - p 8080
+B)  nc - l - p 8080
+C)  nc - p 8080
+D)  nc - s 8080
+B
+B. The nc command is used to start netcat, and the - l option causes it to listen. The - poption is used to specify the port on which netcat will listen. The - s option specifies thelocal source address and is not used for this scenario.

@@ -1,0 +1,7 @@
+When youre troubleshooting a system that wont boot, which of the following lines can beplaced on the kernel command line in order to invoke a debugging shell?
+A)  debug,shell
+B)  systemd.debug- shell=1
+C)  shell=debug
+D)  emerg=debug
+B
+B. Using systemd.debug- shell=1 on the kernel command line results in a debugshell being made available early in the boot process. The other options are not valid forthis purpose.

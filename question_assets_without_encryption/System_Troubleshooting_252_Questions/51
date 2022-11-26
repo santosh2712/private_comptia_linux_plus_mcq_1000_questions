@@ -1,0 +1,7 @@
+You would like to monitor interrupt usage in real time on a Linux server in order to trou-bleshoot communication ports usage. Which of the following commands can be used forthis purpose?
+A)  int
+B)  moni
+C)  itop
+D)  imon
+C
+C. The itop command displays information about interrupt usage in real time, with adisplay that is somewhat like the top command. The other options shown for this questionare not valid commands.

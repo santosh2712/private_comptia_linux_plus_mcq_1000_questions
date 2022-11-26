@@ -1,0 +1,7 @@
+Which of the following commands displays only IPv6- related connections?
+A)  ss - o 6
+B)  ss 6- ip
+C)  ss ipv6
+D)  ss - 6
+D
+D. The - 6 option to the ss command displays IPv6 connections. The other options shownare not valid.

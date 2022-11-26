@@ -1,0 +1,7 @@
+What will be the result if the touch command is executed on a file that already exists?
+A)  The access timestamp of the file will change to the current time when the touchcommand was executed.
+B)  The file will be overwritten.
+C)  There will be no change.
+D)  The file will be appended to.
+A
+A. The timestamp of the file will change when touch is run on a file that already exists.

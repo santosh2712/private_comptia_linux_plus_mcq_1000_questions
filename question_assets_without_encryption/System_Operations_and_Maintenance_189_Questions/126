@@ -1,0 +1,7 @@
+Within which directory are individual configuration files stored for the Pluggable Authentica-tion Module (PAM) mechanism?
+A)  /etc/pamd
+B)  /etc/pam
+C)  /etc/pam.d
+D)  /etc/pam.conf.d
+C
+C. The directory /etc/pam.d stores configuration files for individual PAM- aware ser-vices. Each service typically has its own file, which is managed for that service according toits usage of PAM. Of the other options, none of the directories are the default directoriesused for PAM.

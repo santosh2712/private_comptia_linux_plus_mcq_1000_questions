@@ -1,0 +1,7 @@
+You need to change the label that has been applied to a filesystem. The filesystem isformatted as EXT4. Which EXT tool can be used to change the label?
+A)  e2label
+B)  e4label
+C)  fslabel.ext4
+D)  fslabel
+A
+A. The e2label command changes the filesystem label. The other commands do not exist.

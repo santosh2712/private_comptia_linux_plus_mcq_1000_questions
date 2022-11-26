@@ -1,0 +1,7 @@
+Which option to netstat is used to disable DNS or hostname lookups?
+A)  - b
+B)  - h
+C)  - q
+D)  - n
+D
+D. The - n option is used with netstat to prevent hostname lookups, which can slow theoutput. The other options do not perform the required task.

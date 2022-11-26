@@ -1,0 +1,7 @@
+You need to obtain information about a package installed on an OpenSUSE system thatuses the zypper command. Which of the following options to the zypper command dis-plays information about the package?
+A)  inf
+B)  getInfo
+C)  info
+D)  i
+C
+C. The info option displays information about a given package on a system that uses thezypper tool.

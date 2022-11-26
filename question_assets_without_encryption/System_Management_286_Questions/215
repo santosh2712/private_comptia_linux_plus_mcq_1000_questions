@@ -1,0 +1,7 @@
+Which of the following commands installs a kernel module, including dependencies?
+A)  lsmod
+B)  modprobe
+C)  modinst
+D)  instmod
+B
+B. The modprobe command examines dependencies for a given module and loads both thedependencies and the requested module.

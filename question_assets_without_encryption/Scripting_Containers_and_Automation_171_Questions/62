@@ -1,0 +1,7 @@
+Assume that youre using the Bash shell and want to prevent output redirects from acci-dentally overwriting existing files. Which command and option can be used to invokethis behavior?
+A)  setoutput - f
+B)  overwrite=no
+C)  overwrite - n
+D)  set - C
+D
+D. The set command can be used for a variety of purposes to change how the shell envi-ronment works. One such option is C, which prevents output redirection such as that donewith > from overwriting a file if the file already exists.

@@ -1,0 +1,7 @@
+You are troubleshooting a storage problem, and a Serial ATA (SATA) disk or mount pointmay be missing. Which of the following identifiers is used by SATA disks?
+A)  /dev/hdX
+B)  /dev/sataX
+C)  /dev/sdX
+D)  /disk/sataX
+C
+C. SATA disks are addressed as /dev/sdX, just like a SCSI disk. /dev/hdX is a tradi-tional ATA disk. The other options do not exist.

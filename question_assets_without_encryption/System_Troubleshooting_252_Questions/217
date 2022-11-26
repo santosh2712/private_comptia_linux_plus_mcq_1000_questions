@@ -1,0 +1,7 @@
+Which utility can be used to find SELinux context violations?
+A)  sestat
+B)  secv
+C)  convio
+D)  ausearch
+D
+D. The ausearch command can be used to find recent violations of an SELinux policy.The other commands are not valid.

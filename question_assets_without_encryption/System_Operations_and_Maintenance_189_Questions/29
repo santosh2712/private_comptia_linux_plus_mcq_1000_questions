@@ -1,0 +1,7 @@
+Which option within a logrotate configuration file disables compression of the log file?
+A)  compressoff
+B)  limitcompress
+C)  nocompression
+D)  nocompress
+D
+D. The nocompress option is used to prevent the log file from being compressed orzipped as part of the rotation process. This might be needed on systems where compressionnegatively affects performance or where additional processing is necessary.

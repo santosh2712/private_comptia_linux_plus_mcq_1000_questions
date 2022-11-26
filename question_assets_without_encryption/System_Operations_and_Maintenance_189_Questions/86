@@ -1,0 +1,7 @@
+Which option to ssh- keygen sets the type of key that will be created?
+A)  - k
+B)  - t
+C)  - e
+D)  - i
+B
+B. The - t option sets the key type for ssh- keygen. The other options do not set the keytype but may be valid for other purposes.

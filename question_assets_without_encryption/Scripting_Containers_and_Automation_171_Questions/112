@@ -1,0 +1,7 @@
+You are working with a MySQL database and need to read in several SQL commands froma file and send them into the MySQL CLI for execution. You will be using STDIN redirectionfor this. Which of the following commands is correct, assuming a filename of customers.sql?
+A)  mysql < customers.sql
+B)  mysql | customers.sql
+C)  mysql > customers.sql
+D)  mysql >< customers.sql
+A
+A. In this scenario, STDIN redirection is accomplished with a less- than sign to take the con-tents of customers.sql and send those contents into the mysql command. Its also likelythat the mysql command would have things like - u for the username and - p to prompt forthe password, but those were not relevant to the scenario and are not required in all circum-stances. The other options shown are not valid for the purpose described. Options B and Ctake output from the mysql command, while option D is an invalid character sequence.

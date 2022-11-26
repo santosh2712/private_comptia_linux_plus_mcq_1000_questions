@@ -1,0 +1,7 @@
+Which command can be used to print using a specially formatted string?
+A)  printf
+B)  echo
+C)  print
+D)  here
+A
+A. The printf command can be used to add special formatting to strings for printing.The echo command can be used somewhat for this purpose but is not as powerful atspecial- formatting capabilities as the printf command is. The other commands are notvalid for this purpose.

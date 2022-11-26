@@ -1,0 +1,7 @@
+Which command can be used to display all of the timers that are currently activewith systemd?
+A)  systemctl timers
+B)  systemctl show- timers
+C)  systemctl list- timers
+D)  systemctl - - timers
+C
+C. The systemctl list- timers command shows the timers that are active on thesystem. The other options are not valid.

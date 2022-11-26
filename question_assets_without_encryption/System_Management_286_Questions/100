@@ -1,0 +1,7 @@
+Which of the following describes a primary difference between ext2 and ext3 filesystems?
+A)  ext3 was primarily a bug- fix update to ext
+B)  ext3 includes journaling for the filesystem.
+C)  ext3 completely changed the tools needed for management of the disks.
+D)  ext3 has no significant differences.
+B
+B. The addition of journaling in ext3 increased filesystem reliability and performance.178Appendix  Answers to the Review Questions

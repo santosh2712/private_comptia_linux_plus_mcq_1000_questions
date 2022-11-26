@@ -1,0 +1,7 @@
+When an fsck is running on an ext3 filesystem, the process is taking longer than expected andrequiring input from the administrator to fix issues. What option could be added to fsck nexttime so that the command will automatically attempt to fix errors without intervention?
+A)  - o
+B)  - V
+C)  - y
+D)  - f
+C
+C. The - y option will attempt to repair automatically, essentially answering y or yes insteadof prompting. Of the other options, only - V is valid and will produce verbose output.

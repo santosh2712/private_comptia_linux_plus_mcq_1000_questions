@@ -1,0 +1,7 @@
+Which option to the rsync command examines only the file size as a means of determiningwhether the file should be synchronized?
+A)  - - filesize
+B)  - - size- only
+C)  - - list- size
+D)  - - file- size
+B
+B. The - - size- only option examines whether the files being synchronized are the samesize. This can be helpful for situations where there may be significant time skew or otherissues preventing the normal differencing mechanisms from working properly. The otheroptions shown are not valid for rsync.

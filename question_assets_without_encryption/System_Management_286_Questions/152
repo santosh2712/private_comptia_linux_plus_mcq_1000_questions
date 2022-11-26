@@ -1,0 +1,7 @@
+As a system administrator, you need to change options for automount. Which of the fol-lowing files is the default configuration file for the autofs automounter?
+A)  /etc/autofs
+B)  /etc/auto.master
+C)  /etc/autofs.conf
+D)  /etc/automounter.conf
+B
+B. The file /etc/auto.master contains the configuration for autofs. The other fileslisted as options are not valid for this scenario.

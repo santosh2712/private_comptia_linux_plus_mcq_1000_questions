@@ -1,0 +1,7 @@
+Which option for the host command will query for the authoritative nameservers for agiven domain?
+A)  - t ns
+B)  - t all
+C)  - ns
+D)  - named
+A
+A. The host command enables changing of the query type with the - t option. Using ns asthe type will query for the nameservers for a given domain. There is no all type, and theother options are also invalid.

@@ -1,0 +1,7 @@
+When cloning a repository with git clone, you need to change the name of the remote so thatit is not called origin. Which option can be added to git clone to accomplish this task?
+A)  - - origin
+B)  - - remote
+C)  - - name
+D)  - - remote- name
+A
+A. Using the - - origin or - o option enables the name to be changed from the default oforigin. The other choices are not options with git clone.

@@ -1,0 +1,7 @@
+Which option should be used to send a DNS query for an SPF record with dig?
+A)  - t txt
+B)  - t spf
+C)  - t mx
+D)  - t mailspf
+A
+A. SPF records are stored in the txt record type in DNS, thereby making - t txt thecorrect option for this. Of the other answers, only - t mx is valid; it returns the mailexchangers for the given domain.

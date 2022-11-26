@@ -1,0 +1,7 @@
+Which directory contains information on FibreChannel HBA ports?
+A)  /sys/fc/ports
+B)  /sys/class/hba
+C)  /sys/class/fc_host
+D)  /sys/class/fc/ports
+C
+C. The /sys/class/fc_host directory contains information on HBA adapter ports onthe system. The other options are not valid directories.

@@ -1,0 +1,7 @@
+Which shell built- in command can be used to determine the location from which a givencommand will be run?
+A)  type
+B)  when
+C)  find
+D)  help
+A
+A. The type built- in command returns the location that the shell will use in order to run thegiven command. The find command cannot be used for this purpose, and the other com-mands do not exist.

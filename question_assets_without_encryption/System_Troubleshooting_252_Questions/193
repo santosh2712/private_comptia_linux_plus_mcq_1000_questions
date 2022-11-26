@@ -1,0 +1,7 @@
+You are troubleshooting printer access on a Linux system. On which port does the CUPSprinting daemon listen by default?
+A)  25
+B)  342
+C)  631
+D)  316
+C
+C. The default port is 631. The other ports listed for options are not used for CUPS.

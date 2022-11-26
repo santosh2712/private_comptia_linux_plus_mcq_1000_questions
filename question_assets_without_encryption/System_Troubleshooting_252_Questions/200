@@ -1,0 +1,7 @@
+While troubleshooting a network service that does not appear to start, which option to thess command shows the current TCP listening sockets?
+A)  - lt
+B)  - ct
+C)  - m
+D)  - f
+A
+A. The - l option displays listening ports and the - t option limits the ports to TCP only,thus making - lt correct. The - m option shows socket memory usage and - f is used todefine the family to return. There is no - c option, thus making option B incorrect.

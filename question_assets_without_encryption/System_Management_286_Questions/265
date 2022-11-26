@@ -1,0 +1,7 @@
+In a scripting scenario, you need to enable legacy locations for things like networking.Which file can be used for storing network configuration?
+A)  /etc/netdev
+B)  /etc/networking
+C)  /etc/sysconfig/network
+D)  /etc/sysconfig/netdev
+C
+C. The /etc/sysconfig/network file is created by default but is no longer populatedon systems like RHEL7. It can be used in place of Network Manager for environments thatrely on this location. The other options given for this question do not exist.

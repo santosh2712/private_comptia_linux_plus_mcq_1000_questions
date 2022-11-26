@@ -1,0 +1,7 @@
+Which option to iostat causes the display to output in megabytes?
+A)  - k
+B)  - l
+C)  - m
+D)  - o m
+C
+C. The - m option causes the disk- related statistics to use megabytes as the scale rather thanthe default kilobytes.

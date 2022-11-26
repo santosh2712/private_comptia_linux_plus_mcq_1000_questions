@@ -1,0 +1,7 @@
+You have created a public key and private key for use with SSH. The contents of which keyshould be copied to a remote host in order to enable authentication?
+A)  The public key.
+B)  The private key.
+C)  Both the public and private keys.
+D)  Neither the public nor the private key. It must be generated on the remote host.
+A
+A. The public key should be copied to the remote host. When it is copied and the contentsplaced into ~/.ssh/authorized_keys, authentication will be allowed from anyonepresenting the corresponding private key.

@@ -1,0 +1,7 @@
+Which command can be used to determine the default CPU scheduling priority for agiven user?
+A)  nice
+B)  sked
+C)  pri
+D)  sched
+A
+A. The nice command displays the scheduling priority and can also be used to set thescheduling priority for a command to be executed. The other options shown are not valid.

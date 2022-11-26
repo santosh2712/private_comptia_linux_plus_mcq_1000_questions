@@ -1,0 +1,7 @@
+What is the file extension used with systemd unit files that provide time- based controlof services?
+A)  .svc
+B)  .cron
+C)  .sked
+D)  .timer
+D
+D. The .timer file extension is used with systemd timer files that provide an alternative tocron. The other options are not valid.

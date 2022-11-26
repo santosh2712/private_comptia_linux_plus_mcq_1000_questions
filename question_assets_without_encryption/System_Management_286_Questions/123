@@ -1,0 +1,7 @@
+Which option given to a yum command will install a given package?
+A)  update
+B)  configure
+C)  install
+D)  get
+C
+C. The yum install command will install a given package. The update option willupdate a package. The other options listed do not exist.

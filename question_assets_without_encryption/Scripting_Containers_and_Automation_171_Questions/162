@@ -1,0 +1,7 @@
+You need to redirect the output from a command and append that output to a file. Which ofthe following character sequences accomplishes this task?
+A)  >
+B)  >>
+C)  |
+D)  ^
+B
+B. Two greater- than signs append output to the specified destination. Option A includesonly one greater- than sign, which overwrites rather than appends output. The pipe characterin option C does not send output to a file, and option D does not work for the purposedescribed.

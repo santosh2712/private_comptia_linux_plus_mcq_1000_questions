@@ -1,0 +1,7 @@
+Which option within a systemd timer unit file is used to specify when a job should run?
+A)  OnCalendar=
+B)  Time=
+C)  RunAt=
+D)  TimedEvent=
+A
+A. The OnCalendar= configuration option is used to set the time when an event will runwhen using systemd timer unit files. The other options shown are not valid for use withsystemd timer files.

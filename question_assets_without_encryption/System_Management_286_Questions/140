@@ -1,0 +1,7 @@
+Which of the following addresses represents the localhost in IPv6, such as you might find in/etc/hosts?
+A)  0:1
+B)  ::1
+C)  127:0:1
+D)  :127:0:0:1
+B
+B. The localhost address for IPv6 can be written as ::1. Addresses shown like 127 representthe IPv4 localhost range but are not written properly for IPv4 or IPv6.

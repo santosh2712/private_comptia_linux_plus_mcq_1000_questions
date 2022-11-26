@@ -1,0 +1,7 @@
+Which command can be used to create a new SELinux policy using a logfile of actions thathave been denied by SELinux policy ?
+A)  updatese - - log
+B)  selinux - - audit
+C)  audit2allow
+D)  genserules - - log
+C
+C. The audit2allow command is used to create a new set of rules based on a logfilethat contains actions that have been denied. Care should be taken when doing so in orderto prevent allowing processes and permissions that should not be allowed. The other com-mands shown in this scenario are not valid.

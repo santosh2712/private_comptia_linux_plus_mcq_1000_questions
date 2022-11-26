@@ -1,0 +1,7 @@
+Which option to rmmod forces the module to be unloaded?
+A)  - f
+B)  - a
+C)  - w
+D)  - h
+A
+A. The - f option forces unload of the module. The other options are not valid for rmmod.

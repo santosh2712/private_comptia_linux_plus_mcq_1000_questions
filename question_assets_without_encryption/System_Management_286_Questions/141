@@ -1,0 +1,7 @@
+When compiling software such as with the gcc compiler, which of the following is therecommended name for a file containing commands and relationships used with themake command?
+A)  Makefile
+B)  makefile
+C)  make.file
+D)  Makefile.txt
+A
+A. According to the man(1) page for the make command, the name Makefile, withan uppercase M, is the recommended name for the file. The name makefile is validas a default but is not the recommended option. The other options are not valid asdefault names.

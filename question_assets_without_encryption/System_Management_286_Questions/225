@@ -1,0 +1,7 @@
+Which target for the service command will cause a daemon to reread its configurationfiles without restarting the daemon itself?
+A)  read
+B)  load
+C)  start
+D)  reload
+D
+D. The reload target or command, used as part of a service command, causes thedaemon to reload or reread its configuration files.

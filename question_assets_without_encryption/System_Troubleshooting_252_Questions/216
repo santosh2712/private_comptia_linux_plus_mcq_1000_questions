@@ -1,0 +1,7 @@
+Which environment variable contains the primary process ID within a systemd serviceunit file?
+A)  $DPID
+B)  $MAINPID
+C)  $PID
+D)  $PRIMARY_PID
+B
+B. The $MAINPID variable contains the process ID of the primary process associated withthe service. The other options are not valid.

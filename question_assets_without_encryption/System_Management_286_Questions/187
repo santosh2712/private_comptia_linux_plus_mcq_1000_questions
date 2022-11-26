@@ -1,0 +1,7 @@
+A Serial ATA (SATA) disk will use which of the following identifiers?
+A)  /dev/hdX
+B)  /dev/sataX
+C)  /dev/sdX
+D)  /disk/sataX
+C
+C. SATA disks are addressed as /dev/sdX, just like a SCSI disk. /dev/hdX is a traditionalATA disk. The other options do not exist.

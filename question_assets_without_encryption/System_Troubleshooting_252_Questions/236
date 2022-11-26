@@ -1,0 +1,7 @@
+Another administrator has asked you for help with a machine where user quotas are notworking on the root filesystem. While youre troubleshooting the issue, which file should bepresent to indicate that quotas are enabled?
+A)  /user.quotas
+B)  /root/aquota.user
+C)  /etc/userpol.aquota
+D)  /aquota.user
+D
+D. The file /aquota.user indicates that quotas have been enabled on this filesystem. Theother options are not valid to indicate that quotas have been enabled.

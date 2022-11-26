@@ -1,0 +1,7 @@
+Which option to lspci is used to display both numeric codes and device names?
+A)  - numdev
+B)  - n
+C)  - nn
+D)  - devnum
+C
+C. The - nn option displays both numbers and device names, thus making option C correct.The - n option (option B) displays only numbers. The other two options do not exist.9.

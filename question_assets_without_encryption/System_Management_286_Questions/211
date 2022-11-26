@@ -1,0 +1,7 @@
+You see the word defaults within /etc/fstab. Which options are encompassed withinthe defaults?
+A)  ro, exec, auto
+B)  rw, suid, dev, exec, auto, nouser, async
+C)  rw, exec, auto, nouser, async
+D)  rw, exec, nouser, async, noauto, suid
+B
+B. A filesystem with the word defaults for its mount options will be mounted read-write (rw), suid, with the ability to have executables (exec). The filesystem will be auto-mounted (auto), but users will not be able to mount it (nouser). Character and blockspecial devices will be interpreted (dev), and operations on the disk will be performed in anasynchronous manner (async).

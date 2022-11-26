@@ -1,0 +1,7 @@
+When using fdisk to partition a disk, you have two partitions created for the system butstill have leftover space, also called unallocated space, on the drive. What is another nameused to refer to unallocated space?
+A)  Highly available
+B)  Redundant
+C)  Raw device
+D)  Partition forward
+C
+C. A raw device is one that has not been partitioned. Raw devices are sometimes used forvirtualization and also database scenarios, where the higher- layer software manages thedisk. The other options shown are not relevant to this answer. Highly available would onlytypically refer to a redundant disk or network scenario.

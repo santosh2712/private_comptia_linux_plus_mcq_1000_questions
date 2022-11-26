@@ -1,0 +1,7 @@
+You need to iterate through a directory listing and perform an operation on certain fileswithin it. To accomplish this task, you will be using a Bash script and a looping construct.Which looping construct is most appropriate for this purpose?
+A)  until
+B)  do
+C)  for
+D)  foreach
+C
+C. The for loop should be used for this purpose because it iterates through a list. Anuntil loop would require additional code, thus making it a less- preferable construct for thepurpose described. There is no do loop or foreach loop in Bash, thus making those optionsincorrect.

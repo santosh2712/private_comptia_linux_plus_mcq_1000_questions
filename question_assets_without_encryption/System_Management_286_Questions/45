@@ -1,0 +1,7 @@
+Which option of the systemctl command will change a service so that it runs on the next bootof the system?
+A)  enable
+B)  startonboot
+C)  loadonboot
+D)  start
+A
+A. The enable option configures the service to start on boot. The start option, option D,is used to start a service immediately. The other options are not valid for this command.

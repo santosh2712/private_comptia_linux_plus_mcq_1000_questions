@@ -1,0 +1,7 @@
+As root, you run the command cd ~ followed by pwd to print the working directory. Whatis the expected output?
+A)  /home
+B)  /root
+C)  /sbin
+D)  /bin
+B
+B. The cd ~ command changes the current directory to the home directory, which is/root when you are the root user. The /home directory is used to as the default homedirectory location for normal users. The /bin and /sbin directories are used forbinary programs.Chapter 2: System Operations and Maintenance (Domain 2.0)197

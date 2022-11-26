@@ -1,0 +1,7 @@
+Which file is used to provide a list of users that can add and delete cron jobs?
+A)  /etc/cron.job
+B)  /etc/cron.allow
+C)  /etc/cron.users
+D)  /etc/crontab
+B
+B. The /etc/cron.allow file is a list of users who have permission to create and remove theirown cron jobs. The /etc/crontab file is used to store cron jobs. The other files do not exist.Chapter 1: System Management (Domain 1.0)191

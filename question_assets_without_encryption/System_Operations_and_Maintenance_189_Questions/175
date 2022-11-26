@@ -1,0 +1,7 @@
+Within which directory should scripts and other files to run at login be stored?
+A)  /etc/login
+B)  /etc/profile
+C)  /etc/bash.defs
+D)  /etc/profile.d
+D
+D. The /etc/profile.d directory can be used to store files and scripts that are then exe-cuted on login. Of the other answers, /etc/profile does exist, but it is a file and not adirectory. The other answers are not valid directories.

@@ -1,0 +1,7 @@
+Which option to the file command specifies that file should examine compressed files?
+A)  - a
+B)  - z
+C)  - w
+D)  - b
+B
+B. The - z option causes file to look inside compressed files. The - b option specifies briefoutput, and the other options dont exist.

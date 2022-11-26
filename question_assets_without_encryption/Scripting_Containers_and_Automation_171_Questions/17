@@ -1,0 +1,7 @@
+Which keyword(s) is/are used to begin an alternate condition within a Bash script?
+A)  if
+B)  else if
+C)  elif
+D)  elsif
+C
+C. The elif keyword is used to create an alternative execution path within a shell script.The other constructs, such as else if and elsif, are used in other languages.

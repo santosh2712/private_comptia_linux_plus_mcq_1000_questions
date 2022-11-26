@@ -1,0 +1,7 @@
+Which command is used to change the SELinux type for a file?
+A)  chcon
+B)  settype
+C)  typeset
+D)  setype
+A
+A. The chcon command is used to change the SELinux type of a file and can be helpfulwhen troubleshooting file access issues. The other options are not valid.

@@ -1,0 +1,7 @@
+You are working with an image created by dracut. Which command can be used to displaythe contents of the image?
+A)  dsl
+B)  dracutls
+C)  lsinitrd
+D)  drat
+C
+C. The lsinitrd command shows information about an image created with dracut.The other options are not real commands.

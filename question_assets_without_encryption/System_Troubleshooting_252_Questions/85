@@ -1,0 +1,7 @@
+Which option to the netstat command displays the current routing table?
+A)  - r
+B)  - t
+C)  - a
+D)  - l
+A
+A. The routing table is displayed with the - r option. The other options do not display therouting table.

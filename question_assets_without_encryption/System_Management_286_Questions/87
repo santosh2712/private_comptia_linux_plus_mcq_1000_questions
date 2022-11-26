@@ -1,0 +1,7 @@
+When using a multipath device managed by multipathd and found in /dev/disk/by-multipath, what is the name given to the identifier for that device that is globally unique?
+A)  UUID
+B)  WWID
+C)  GUID
+D)  DISKID
+B
+B. The WWID, or Worldwide Identifier, is globally unique. UUID and GUID are not validacronyms for multipath devices. UUID is typically found for plain block devices, and GUIDis a term sometimes used in applications. There is no DISKID name relevant as a potentialanswer for this question.

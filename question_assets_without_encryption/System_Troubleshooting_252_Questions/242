@@ -1,0 +1,7 @@
+Which option to nmap will cause it to always perform name resolution?
+A)  - n
+B)  - R
+C)  - b
+D)  - a
+B
+B. The - R option requires that an attempt at name resolution be performed. The - n optiondoes the opposite: it disables name resolution. There is no - b or - a option.

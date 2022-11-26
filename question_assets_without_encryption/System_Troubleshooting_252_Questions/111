@@ -1,0 +1,7 @@
+Which of the following commands can be used to help troubleshoot an application crash thatmay be related to system calls?
+A)  strace
+B)  systemt
+C)  systemd- trace
+D)  systemd- debug
+A
+A. The strace command is vital to debugging system- call- related application crashes, espe-cially when the daemon or service does not log any error but silently crashes. The other com-mands are not valid.

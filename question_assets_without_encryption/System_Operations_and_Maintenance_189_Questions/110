@@ -1,0 +1,7 @@
+Which of the following best describes the status of SELinux when the commandgetenforce returns Permissive?
+A)  A Permissive return means SELinux is enabled but rules are not enforced, althoughDAC rules are still in effect.
+B)  A Permissive return means SELinux is not enabled.
+C)  A Permissive return means SELinux is enabled, although rules are not enforced andDAC rules are not in effect.
+D)  A Permissive return means SELinux is using an enforcing policy.
+A
+A. When Permissive is returned, SELinux is not enforcing rules but is using DAC rules.Other return outputs are Enforcing and Disabled.

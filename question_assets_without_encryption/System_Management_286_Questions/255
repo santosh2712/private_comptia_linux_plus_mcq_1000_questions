@@ -1,0 +1,7 @@
+You have executed a daemon process manually from the command line and now need tosuspend the process. Which key combination can be used for this purpose?
+A)  Ctrl+S
+B)  Ctrl+C
+C)  Ctrl+Z
+D)  Ctrl+B
+C
+C. The Ctrl+Z key combination will suspend a process. The other options are not valid forthis purpose. The Ctrl+C key combination kills the process.

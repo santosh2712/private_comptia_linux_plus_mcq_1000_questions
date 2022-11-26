@@ -1,0 +1,7 @@
+You need to determine whether LDAP integration is working correctly. In order to do so, youwould like to obtain a list of users, as read by /etc/nsswitch.conf. Which command can beused for this purpose?
+A)  getuser
+B)  getent
+C)  usermod
+D)  userlist
+B
+B. The getent command is used to display entries based on the /etc/nsswitch.conffile. One use case for getent is when integrating with Microsoft Active Directory or anotherLDAP service, to check whether the connection can be made to the LDAP server. Theusermod command is valid but is not used for this purpose, and the other commands shownfor this question are not valid.

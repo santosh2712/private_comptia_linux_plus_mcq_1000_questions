@@ -1,0 +1,7 @@
+You are troubleshooting a directory permission issue. The directory and all subdirectoriesare owned by root. Within the top- level directory there is another directory that has 755permissions on it. However, a non- root user cannot obtain a directory listing of that subdi-rectory. Which of the following might be the issue?
+A)  Directory permissions from a higher- level directory do not allow a directory listing.
+B)  Directory permissions need to be 777 on the subdirectory.
+C)  The write permission is needed for the subdirectory.
+D)  The other permission needs to be 7 for the subdirectory.
+A
+A. Execute permissions for directories must be present, so the top- level directory must notallow the other permission to execute, which is needed for a directory listing within asubdirectory.

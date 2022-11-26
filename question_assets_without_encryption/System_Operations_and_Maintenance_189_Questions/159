@@ -1,0 +1,7 @@
+Which of the following commands will display kernel parameters related to resource limitssuch as CPU time, memory, and other limits for the currently logged- in user?
+A)  reslimit
+B)  limitres - a
+C)  ulimit - a
+D)  proclimit - n
+C
+C. The ulimit command shows such limits, and the - a option shows all limits for the cur-rently logged- in user. The other commands are not valid.

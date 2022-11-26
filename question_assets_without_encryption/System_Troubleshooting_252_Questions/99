@@ -1,0 +1,7 @@
+When youre using journalctl to investigate an issue, which option reverses the displayof entries so that newest are shown first?
+A)  - a
+B)  - r
+C)  - g
+D)  - t
+B
+B. Using the - r option causes entries to be displayed in reverse order. The - a option dis-plays all entries and the - t option is used to specify the syslog identifier to display. The - goption searches (greps) for the specified message.

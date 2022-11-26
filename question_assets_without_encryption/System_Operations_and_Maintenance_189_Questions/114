@@ -1,0 +1,7 @@
+Which of the following commands produces a report listing the last password change datefor all users on the system?
+A)  passwd - a
+B)  passwd - S
+C)  passwd - a - S
+D)  passwd - - all
+C
+C. The passwd command will be used for this purpose. The - a option displays all users butrequires the use of - S to indicate status. The - S option alone will not produce a report for allusers, and the - - all option is an alias for - a.

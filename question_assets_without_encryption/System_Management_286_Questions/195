@@ -1,0 +1,7 @@
+Which tool is used to create a sandboxed AppImage package?
+A)  appimagetool
+B)  apptool
+C)  ocon
+D)  app- ocon
+A
+A. The appimagetool command is used to create an AppImage package. The other com-mands are not valid.

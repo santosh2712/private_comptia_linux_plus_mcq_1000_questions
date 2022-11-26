@@ -1,0 +1,7 @@
+When working with mdadm, which command- line argument is used to specify things likestriping and parity?
+A)  - - layout
+B)  - R
+C)  - - level
+D)  - x
+A
+A. Parity and striping are configured using - - layout or - p. The - x option specifies sparedevices while - R starts the array. The - - level option can be used to set the type of RAID,such as mirroring (RAID1) or striping (RAID5).

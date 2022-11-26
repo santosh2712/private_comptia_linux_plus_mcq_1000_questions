@@ -1,0 +1,7 @@
+Which of the following commands enables the sticky bit for a user on a file calledhomescript.sh?
+A)  chmod +sticky homescript.sh
+B)  chmod 755 homescript.sh
+C)  chmod u+t homescript.sh
+D)  chown u+sticky homescript.sh
+C
+C. The sticky bit is set using +t. For this question, the user permission is being affected, thusthe u as an argument to chmod. Among the other answers, the chown command is validbut changes ownership, not permissions, and thus isnt used for the purpose described inthe question.

@@ -1,0 +1,7 @@
+Which of the following commands adds a group?
+A)  groupadd
+B)  addgrp
+C)  grpadd
+D)  creategroup
+A
+A. The groupadd command is used to add a group to the system. The other options shownare not valid.

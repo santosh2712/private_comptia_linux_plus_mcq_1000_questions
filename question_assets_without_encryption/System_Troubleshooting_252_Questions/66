@@ -1,0 +1,7 @@
+Which of the following classes is the default class type queried by the host command?
+A)  EX
+B)  HS
+C)  FO
+D)  IN
+D
+D. The IN class, or Internet class, is the default type of class queried with the hostcommand. This can be changed by using the - c option for the host command.

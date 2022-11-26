@@ -1,0 +1,7 @@
+What characters are used to mark a sequence of commands as a function within ashell script?
+A)  Parentheses to declare the function (optional), and curly braces to contain the commands
+B)  Curly braces to declare the function, and parentheses to contain the commands
+C)  Square brackets to declare the function, and curly braces to contain the commands
+D)  Run quotes to denote the function
+A
+A. Parentheses are used to denote a function, such as myFunction(). The parentheses areoptional but are then followed by curly braces containing the commands to be executedwhen the function is called.

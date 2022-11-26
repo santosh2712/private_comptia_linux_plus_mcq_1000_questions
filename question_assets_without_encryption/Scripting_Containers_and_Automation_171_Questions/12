@@ -1,0 +1,7 @@
+Which locale- related environment variable is used for currency- related localization?
+A)  LC_MONE
+B)  LC_CURRENCY
+C)  LC_MONETARY
+D)  LC_CURR
+C
+C. The LC_MONETARY variable is used by certain programs to determine the localizationfor currency.

@@ -1,0 +1,7 @@
+When examining output from the state column of the ps command, there is a processwith a state of D. What state is that process currently in?
+
+
+
+
+C
+C. A state of D means uninterruptible sleep. There is no state for debug or dead processes,and interruptible sleep has a state of S.

@@ -1,0 +1,7 @@
+Which YUM option displays the dependencies for the package specified?
+A)  list
+B)  deplist
+C)  dependencies
+D)  listdeps
+B
+B. The deplist option displays the dependencies for the given package. The list optiondisplays information about a specific package, while the other two options are not valid.

@@ -1,0 +1,7 @@
+Which option within a systemd mount file specifies the filesystem to be mounted?
+A)  FSPath=
+B)  Path=
+C)  Where=
+D)  What=
+D
+D. The What= option specifies the filesystem to be mounted. The Where= option defines thedestination to which the filesystem will be mounted. The other options shown are not valid.Chapter 4: Troubleshooting (Domain 4.0)229

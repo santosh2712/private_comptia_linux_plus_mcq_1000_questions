@@ -1,0 +1,7 @@
+You need to use the output from a command as input for another command. Whichcharacter facilitates this scenario?
+A)  >
+B)  |
+C)  !
+D)  `
+B
+B. The pipe character sends, or pipes, the output from one command into another and iscommonly used in a Linux environment for creating complex command sequences, whetherthrough scripting or directly on the command line. The other options shown are not used forthe purpose described in the scenario.

@@ -1,0 +1,7 @@
+You need to examine the hardware to determine if the processor supports virtualization.Which command can be used to display the status of virtualization support?
+A)  cpustat
+B)  cpuinfo
+C)  lscpu
+D)  brcxpu
+C
+C. The lscpu command shows statistics about the CPU that include architecture, cache,speed, and other information. Among the other options, cpuinfo is not a command butrather the file /proc/cpuinfo contains the same information as lscpu. The other optionsare not valid commands.

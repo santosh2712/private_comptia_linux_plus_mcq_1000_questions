@@ -1,0 +1,7 @@
+Which command is used to obtain a list of USB devices?
+A)  usb- list
+B)  lsusb
+C)  ls- usb
+D)  ls - - usb
+B
+B. The lsusb command is used to obtain a basic list of USB devices on a system. This canbe helpful when preparing a USB device with a boot image, such as when you need to bootthe system from USB. The other commands are not valid. In the case of option D, the lscommand is valid, but there is no - - usb option.5.

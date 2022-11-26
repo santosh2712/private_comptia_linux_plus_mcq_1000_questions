@@ -1,0 +1,7 @@
+You are troubleshooting I/O- related issues and need extended information about diskperformance. Which option to iostat displays additional information?
+A)  - u
+B)  - l
+C)  - x
+D)  - e
+C
+C. The - x option shows additional statistics. The other options are not valid.

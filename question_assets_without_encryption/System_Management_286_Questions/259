@@ -1,0 +1,7 @@
+Which command is used to query and work with the hardware clock on the system?
+A)  hwc
+B)  ntpdate
+C)  systime
+D)  hwclock
+D
+D. The hwclock command is used to both query and set the hardware clock, such as theone maintained by the system firmware or Basic Input/Output System (BIOS). The ntpdatecommand is used to set the local system time but is not related to the hardware clock. Theother commands are not valid.

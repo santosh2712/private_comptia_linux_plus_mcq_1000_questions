@@ -1,0 +1,7 @@
+Which option to git tag enables searching through the tags for a given repository?
+A)  - s
+B)  - a
+C)  - d
+D)  - l
+D
+D. The - l option to git tag searches the repository for the specified tag. The otheroptions shown as potential answers are not valid for this purpose.

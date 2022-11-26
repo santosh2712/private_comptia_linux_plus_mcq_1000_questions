@@ -1,0 +1,7 @@
+You need to obtain a directory listing of all files and directories except those that begin withthe letter p. Which of the following commands accomplishes this task?
+A)  ls - l !p
+B)  ls - l [!p]
+C)  ls - l [^p]
+D)  ls - l all_output chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt mcq.bash run_linux_test.bash Temp test.bash
+D
+D. File globbing is the process of expansion of special characters, which is required for thisscenario. In this case, the negation character is the caret, thus making option D correct.Option C is missing the crucial globbing pattern needed for this scenario.

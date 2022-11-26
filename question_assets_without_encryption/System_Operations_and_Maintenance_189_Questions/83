@@ -1,0 +1,7 @@
+Which option to useradd creates a system user rather than a normal user?
+A)  - r
+B)  - s
+C)  - a
+D)  - S
+A
+A. The - r option creates a system user, which will typically entail no expiration, no homedirectory, and a UID below 1000. The - s option defines the shell and is not typically used forthis purpose. The - a and - S options do not exist.

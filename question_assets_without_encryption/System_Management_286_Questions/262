@@ -1,0 +1,7 @@
+You need to ensure that a service does not start on a systemd system. Which systemctlcommand should be used for this purpose?
+A)  disable
+B)  delete
+C)  mask
+D)  norun
+C
+C. The mask command links the unit file to /dev/null, thereby ensuring that the servicecannot run. The disable command deletes the symlink between /etc/systemd and/lib/systemd, but the service could still run. The other options shown are not valid.

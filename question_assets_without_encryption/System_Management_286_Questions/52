@@ -1,0 +1,7 @@
+When executed on a systemd- enabled server, the service status command isequivalent to which command?
+A)  systemd status
+B)  journald status
+C)  service- systemd status
+D)  systemctl status
+D
+D. The service status command is equivalent to systemctl status on systemd-enabled computers. The other commands do not exist with the specified option.

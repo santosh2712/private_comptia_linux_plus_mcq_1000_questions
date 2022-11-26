@@ -1,0 +1,7 @@
+On which port does ICMP operate?
+A)  TCP/43
+B)  UDP/111
+C)  UDP/69
+D)  ICMP does not use ports.
+D
+D. ICMP is a layer 3 protocol, meaning it does not use ports for communication. TCP/43 isused for whois, while port 111 is used for sunrpc. UDP/69 is used for the TFTP protocol.

@@ -1,0 +1,7 @@
+You are writing a shell script using Bash and need to print the contents of a variable. Whichof the following commands can be used to do so?
+A)  echo
+B)  lf
+C)  sp
+D)  varpt
+A
+A. The echo command is used to send output from a Bash script. The other options are notvalid commands.

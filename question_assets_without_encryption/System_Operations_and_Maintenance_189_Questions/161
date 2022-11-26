@@ -1,0 +1,7 @@
+Assuming that the $ModLoad imudp configuration option has been set in the /etc/rsyslog.conf configuration file for rsyslogd, which of the following additionaloptions is necessary to configure the port on which the server will listen?
+A)  $Port 514
+B)  $UDPServerRun 514
+C)  $Listen 514
+D)  $UDPListen 514
+B
+B. The $UDPServerRun option is used for the purpose described. The port on which theserver should listen is then provided as the value for this option. The other options shownare not valid configuration items for rsyslogd.

@@ -1,0 +1,7 @@
+You need to redirect STDIN until a certain character combination is encountered. Which ofthe following operators can be used for this purpose?
+A)  >STDIN
+B)  <<
+C)  <&
+D)  >
+B
+B. The << operator is used for this purpose and will read from STDIN until the specifiedcharacter or characters are encountered. This is sometimes called a Here Document orHEREDOC. Among the other options for this, only > is valid and causes STDOUT to beredirected.

@@ -1,0 +1,7 @@
+You need to look at information on logins beyond what was captured by the current log filefor the last command. Which option to the last command can be used to load informationfrom an alternate file?
+A)  - a
+B)  - t
+C)  - e
+D)  - f
+D
+D. Loading of alternate files is accomplished using the - f option. Doing so facilitates exactlythe scenario described: being able to examine logins from old log files. The - a option con-trols the location of the display for the host, while - t controls the display to show the loginsas of the specified date and time. There is no - e option.200Appendix  Answers to the Review Questions

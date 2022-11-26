@@ -1,0 +1,7 @@
+You need to print output from a Bash script such that single quotes appear in the outputtedstring. Which character should be used as an escape sequence in order to get the single quotesinto the output?
+A)  /
+B)  '
+C)  ?
+D)  \
+D
+D. A backslash is used to escape characters such as a single quote in a Bash script. The othercharacters will not achieve the desired result.

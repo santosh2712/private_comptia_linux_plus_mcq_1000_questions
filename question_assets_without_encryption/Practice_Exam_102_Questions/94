@@ -1,0 +1,7 @@
+Which of the following will execute a Bash script called test.sh even if the execute bitis not set?
+A)  ./test.sh
+B)  test.sh - - execute
+C)  bash test.sh
+D)  run test.sh
+C
+C. By invoking a shell specifically for the commands in the script, you can execute the con-tents of the script. Option A requires the execute bit to be set. The other options wont work.

@@ -1,0 +1,7 @@
+Within an OpenSSH configuration, which option disables the use of empty passwords?
+A)  DisableEmptyPass
+B)  PermitEmptyPasswords
+C)  EmptyPasswordAuth
+D)  PermitPasswordLength
+B
+B. The PermitEmptyPasswords directive specifies whether empty passwords can be usedfor authentication. Enabling empty passwords would be a specialized use case and generallyis not recommended. The other options shown are not valid.

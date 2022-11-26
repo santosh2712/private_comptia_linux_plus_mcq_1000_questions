@@ -1,0 +1,7 @@
+Which sequence is used to mark the beginning and end of the commands to execute within afor loop in a shell script?
+A)  Curly braces { }
+B)  The keywords do and done
+C)  Semicolons ;
+D)  Tabs
+B
+B. In shell scripts, the commands to execute begin at the do keyword and end at the donekeyword. Other languages generally use either curly braces or tabs.

@@ -1,0 +1,7 @@
+Which of the following commands places all AppArmor profiles into complain mode?
+A)  aa- complain /etc/apparmor.d/*
+B)  aa- enable - complain /etc/apparmor.d/*
+C)  aa- enable - complain /etc/apparmor/*
+D)  aa- complain /etc/apparmor/*
+A
+A. The command aa- complain is used to place profiles into complain mode. Profilesare located in /etc/apparmor.d/, and thus the command shown places all profiles intocomplain mode.

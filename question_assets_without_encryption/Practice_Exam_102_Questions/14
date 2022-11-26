@@ -1,0 +1,7 @@
+Which option to mdadm is used to create a new array?
+A)  - - create
+B)  - - start
+C)  - - begin
+D)  - - construct
+A
+A. The - - create option enables creation of a RAID array that will use md. The typicalargument is the /dev/mdN device. The other options listed are not valid for mdadm.

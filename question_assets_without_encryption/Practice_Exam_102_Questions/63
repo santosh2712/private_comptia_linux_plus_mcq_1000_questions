@@ -1,0 +1,7 @@
+Which tool can be used to measure the memory usage of individual processes in order to aidin capacity planning?
+A)  ps
+B)  iotop
+C)  iostat
+D)  ifconfig
+A
+A. The ps command provides information on processor and memory usage for individualprocesses. You can use this information to predict capacity.

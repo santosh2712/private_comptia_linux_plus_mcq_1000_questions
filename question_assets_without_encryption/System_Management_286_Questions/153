@@ -1,0 +1,7 @@
+When using UEFI, which of the following files can be used as a bootloader?
+A)  shim.uefi
+B)  shim.efi
+C)  shim.fx
+D)  efi.shim
+B
+B. Due to the decidedly insecure decisions made with the design of Microsofts UEFI, ashim is often needed to enable Linux to boot on a system with UEFI. The file shim.efican be used as an initial bootloader for this purpose.

@@ -1,0 +1,7 @@
+Which of the following abbreviations is used to signify time spent waiting for I/O in theoutput of the top command?
+A)  wi
+B)  io
+C)  wa
+D)  iotime%
+C
+C. The wa abbreviation in the output of top represents the percentage of time spentwaiting for I/O operations such as disk or network. The other options are not valid forthis scenario.

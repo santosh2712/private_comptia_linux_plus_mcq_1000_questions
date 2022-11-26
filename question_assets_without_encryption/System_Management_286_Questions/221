@@ -1,0 +1,7 @@
+Which signal to the kill command can be used to signal that BIND should reload,including its configuration?
+A)  - 15
+B)  - 1
+C)  - 9
+D)  - 2
+B
+B. The - 1, or - HUP, signal reloads the given process. The - 15 signal, also known as SIGTERM,is the default terminate signal, while - 2 is an interrupt signal. The - 9 signal is kill and is con-sidered bad practice except in emergencies when the process doesnt respond to normal signals.

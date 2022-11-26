@@ -1,0 +1,7 @@
+Although no dependencies may appear in a unit file, a service with a Type=dbus depends onwhich service?
+A)  dbus.socket
+B)  dbus.run
+C)  dbus.dep
+D)  dbus.svc
+A
+A. A Type=dbus for a service file has implicit dependencies of Requires= and After= ondbus.socket. The other options are not valid.

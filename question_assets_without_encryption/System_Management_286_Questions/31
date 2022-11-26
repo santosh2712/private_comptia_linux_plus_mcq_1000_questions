@@ -1,0 +1,7 @@
+Which command prints device and partition information in a tree- like structure, includingpartition size and current mount status?
+A)  fsck
+B)  lsblk
+C)  blkshow
+D)  shblk
+B
+B. The lsblk command shows device information in a tree- like structure and shows theother information specified along with major and minor information and whether the par-tition is read- only. Of the other options given, fsck is the only command, and it is notused for the purpose described.

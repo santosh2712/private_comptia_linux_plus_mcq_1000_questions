@@ -1,0 +1,7 @@
+Which of the following commands creates a list of modules and their dependencies?
+A)  lsmod
+B)  depmod
+C)  modlist
+D)  listmod
+B
+B. The depmod command is used to create a list of modules. The list is kept in a file calledmodules.dep, the location of which is dependent on the distribution of Linux in use.

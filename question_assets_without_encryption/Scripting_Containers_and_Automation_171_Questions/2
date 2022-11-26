@@ -1,0 +1,7 @@
+Which of the following commands adds ~/code/bin to the path?
+A)  PATH=~/code/bin:$PATH
+B)  PATH=/code/bin:$PATH
+C)  PATH=/home/code/bin:$PATH
+D)  PATH=PATH:~/code/bin
+A
+A. The syntax for setting the PATH separates the new path with a colon, as shown in thecorrect option. A primary difference between the correct and incorrect options for thisquestion is in how the actual specified path is shown.

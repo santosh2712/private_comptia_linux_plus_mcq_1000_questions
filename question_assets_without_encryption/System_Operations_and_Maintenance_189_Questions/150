@@ -1,0 +1,7 @@
+You need to examine who is currently logged in to the system. Which of the following com-mands will display this information?
+A)  listuser
+B)  fuser
+C)  ls - u
+D)  w
+D
+D. The w command shows currently logged- in users along with information such as uptimeand load average and is similar to the who command. The fuser command is used to showopen files, and the - u option to ls controls the display for file listings. There is nolistuser command.

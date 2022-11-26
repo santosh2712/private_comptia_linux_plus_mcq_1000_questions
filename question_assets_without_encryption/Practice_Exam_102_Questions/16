@@ -1,0 +1,7 @@
+Which option to the tar command preserves permissions?
+A)  - x
+B)  - v
+C)  - z
+D)  - p
+D
+D. The - p option preserves permissions. The - x option extracts while - z unzips with gzip.The - v option is verbose.

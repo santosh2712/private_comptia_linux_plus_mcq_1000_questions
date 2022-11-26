@@ -1,0 +1,7 @@
+What are the minimum permissions needed for a user to write into a directory for whichthey are not the owner and are not in a group that owns the directory?
+A)  Write
+B)  Read/write/execute
+C)  Read/execute
+D)  Write/execute
+D
+D. A user would need write and execute permissions in order to write into a directory forwhich they are not the owner and do not have group ownership.

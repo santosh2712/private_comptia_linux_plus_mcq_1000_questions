@@ -1,0 +1,7 @@
+You are examining a login issue for a user and you need to determine where their homedirectory is located. Within which file can you find their home directory?
+A)  /etc/passwd
+B)  /etc/homedirs
+C)  /etc/user.conf
+D)  /etc/defaults/user
+A
+A. The /etc/passwd file contains user information, including their home directory. Theother options are not valid.

@@ -1,0 +1,7 @@
+Within the [Timer] section of a systemd timer file, which configuration directive is usedto specify the process or service to start?
+A)  Service=
+B)  Unit=
+C)  Proc=
+D)  Startup=
+B
+B. The Unit= directive specifies the command that will be run when the timer is used. Theother options are not valid.238Appendix  Answers to the Review Questions

@@ -1,0 +1,7 @@
+Which of the following commands requests a zone transfer of example.org from the server at192.168.1.4?
+A)  dig example.org @168.1.4 axfr
+B)  dig example.org @168.1.4
+C)  dig example.org @168.1.4 xfer
+D)  dig example.org #168.1.4 xfer
+A
+A. The axfr type is a zone transfer, and the @ symbol signifies the server to which the querywill be sent. There is no xfer type. Option B is just a normal query for the domain sent tothe specified server.

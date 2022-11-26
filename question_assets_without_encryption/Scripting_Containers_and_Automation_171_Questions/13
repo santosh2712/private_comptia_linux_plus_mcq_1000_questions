@@ -1,0 +1,7 @@
+Which of the following pairs indicates the beginning and end of an until loop in aBash script?
+A)  do; done
+B)  start; stop
+C)  beg; end
+D)  until; litnu
+A
+A. As with the for loop, the commands within an until loop are delineated withdo and done.

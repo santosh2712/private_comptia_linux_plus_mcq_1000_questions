@@ -1,0 +1,7 @@
+Which option to ssh creates a port forwarding to which remote clients can also connect?
+A)  - L
+B)  - R
+C)  - P
+D)  - E
+B
+B. The - R option creates a port forward and enables remote clients to connect. The - Loption also creates a port forward but does not allow remote clients to connect. The - P and- E options are not valid for this scenario.

@@ -1,0 +1,7 @@
+Which of the following commands can be used to determine if an interface link isoperational?
+A)  ip link
+B)  ip state
+C)  eth state
+D)  int state
+A
+A. Looking for the state field within the output of the ip link command showswhether an interface is considered up or down. The other commands shown are not valid.

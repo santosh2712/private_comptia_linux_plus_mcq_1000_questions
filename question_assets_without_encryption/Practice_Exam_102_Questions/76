@@ -1,0 +1,7 @@
+When working with a patch file, which option can be used to have the patching processignore white space?
+A)  - w
+B)  - i
+C)  - e
+D)  - p
+B
+B. The - i option tells patch to ignore white space. This might be necessary when the patchfile doesnt match exactly whats needed. The - p option sets the level of directory for thepatch, while - e informs patch to interpret as an ed script. There is no - w option for patch.

@@ -1,0 +1,7 @@
+Which of the following commands displays path information for LUNs?
+A)  luninfo - a
+B)  ls - lun
+C)  multipath - l
+D)  dm- multi
+C
+C. The multipath command is used for administration of devices such as LUNs and canbe used for finding the path to LUNs for a server, such as in a SAN configuration. Related,the multipathd daemon checks for paths that have failed. The other commands are notvalid, with the exception of ls: it is valid, but the option shown is not related to LUNs butrather is a combination of various flags to the ls command.

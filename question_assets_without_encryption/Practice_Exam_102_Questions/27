@@ -1,0 +1,7 @@
+What is the name of the unit to which a systemd system is booted in order to startother levels?
+A)  default.target
+B)  init.target
+C)  initial.target
+D)  load.target
+A
+A. The default.target is the default target unit that is activated by systemd on boot.The default target then starts other services based on the dependencies.

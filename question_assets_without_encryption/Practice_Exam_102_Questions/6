@@ -1,0 +1,7 @@
+Which command is used with systemd in order to list the available service units?
+A)  systemd list- units
+B)  systemctl list- units
+C)  systemd unit- list
+D)  systemctl show- units
+B
+B. The systemctl command is used to work with services and targets. The list- unitscommand is used to list targets. The other commands are not used for this purpose or do notexist with the required option.242Appendix  Answers to the Review Questions8.

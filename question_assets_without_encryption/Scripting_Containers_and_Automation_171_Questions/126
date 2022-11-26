@@ -1,0 +1,7 @@
+You need to exclude a build file, called build.o, from being tracked by git. Which charactersequence can be used in the .gitignore file to exclude or ignore that file in all directories?
+A)  build.o
+B)  /build.o
+C)  **/build.o
+D)  build.*
+C
+C. The double- asterisk sequence has special meaning and indicates that the file will beignored in all directories.

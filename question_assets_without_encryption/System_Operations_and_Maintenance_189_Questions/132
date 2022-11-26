@@ -1,0 +1,7 @@
+When youre configuring a server for an SNMP server role, which ports need to be allowedthrough the firewall for SNMP traffic?
+A)  Ports 23 and 25
+B)  Ports 110 and 143
+C)  Ports 80 and 443
+D)  Ports 161 and 162
+D
+D. SNMP traffic takes place on ports 161 and 162. Although the traffic is usually on UDP,the TCP ports are also reserved for SNMP. Ports 110 and 143 are used for POP3 and IMAP,respectively, while 23 and 25 are Telnet and SMTP. Finally, ports 80 and 443 are HTTPand HTTPS.

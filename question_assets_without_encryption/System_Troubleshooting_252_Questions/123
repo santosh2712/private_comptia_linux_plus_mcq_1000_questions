@@ -1,0 +1,7 @@
+Within which folder are systemd unit configuration files stored?
+A)  /etc/system.conf.d
+B)  /lib/system.conf.d
+C)  /lib/systemd/system
+D)  /etc/sysconfd
+C
+C. Unit configuration files are stored in /lib/systemd/system. The other directoryoptions for this question are not relevant or do not exist by default.10. B. The network- online.target is used to signify that the network is online and oper-

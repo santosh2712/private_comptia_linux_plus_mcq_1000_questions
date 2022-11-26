@@ -1,0 +1,7 @@
+You have been asked to recommend a simple command- line- based text editor for abeginning user. Which of the following should you recommend?
+A)  Vi
+B)  Nano
+C)  nc
+D)  ShellRedirect
+B
+B. The Nano editor is appropriate for this scenario. While Vi is indeed a text editor, begin-ners typically struggle with it. The nc command is not used for text editing, and there is noShellRedirect text editor.Chapter 1: System Management (Domain 1.0)195

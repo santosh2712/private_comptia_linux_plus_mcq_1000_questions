@@ -1,0 +1,7 @@
+Which of the following commands can be used to find zombie processes?
+A)  ps - Z
+B)  ps | grep Z
+C)  ps | grep zombie
+D)  ps - a - z
+B
+B. The ps command lists processes, and using grep for the state of Z will show zombieprocesses. Of the other options, there is a - Z option for ps but it is not used for thepurpose described.

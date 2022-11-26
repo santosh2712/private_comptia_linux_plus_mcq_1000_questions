@@ -1,0 +1,7 @@
+You are having difficulty with shared libraries on the system. Which of the following com-mands will print the current directories and libraries in the cache?
+A)  ldconfig - C
+B)  ldd - f
+C)  ldconfig - p
+D)  ldd - b
+C
+C. The ldconfig command is used to work with the library cache, and the - p optionprints the directories and libraries in the cache. The - C option informs ldconfig to use adifferent cache. The ldd command prints the library dependencies for a given command, butthe options given dont exist for ldd.

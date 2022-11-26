@@ -1,0 +1,7 @@
+Which of the following is a good first troubleshooting step when a hard disk is not detectedby the Linux kernel?
+A)  Unplug the disk.
+B)  Check the system BIOS.
+C)  Restart the web server service.
+D)  Run the disk- detect command.
+B
+B. Checking to ensure that the disk is detected in the BIOS is a good first step in trouble-shooting. Option A, unplugging the disk, wont help it to be detected. Restarting the webserver wont help detect the disk, and the disk- detect command does not exist.5.

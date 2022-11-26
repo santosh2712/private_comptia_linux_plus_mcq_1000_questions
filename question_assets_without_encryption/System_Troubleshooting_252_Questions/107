@@ -1,0 +1,7 @@
+Which option to dumpe2fs displays the bad blocks for a given partition?
+A)  - bb
+B)  - C
+C)  - b
+D)  - f
+C
+C. Bad blocks are shown with the - b option. The - f option forces dumpe2fs to performthe requested operation, and the other command options do not exist.

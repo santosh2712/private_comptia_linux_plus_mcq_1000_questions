@@ -1,0 +1,7 @@
+Which option to mdadm watches a RAID array for anomalies?
+A)  - - mon
+B)  - - watch
+C)  - - monitor
+D)  - - examine
+C
+C. The - - monitor option is used to actively watch an array for issues such as disk failure.The monitoring can be done as a daemon and run in the background, thereby alertingwhen there is an issue.

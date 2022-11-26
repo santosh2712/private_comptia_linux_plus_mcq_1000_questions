@@ -1,0 +1,7 @@
+You would like to efficiently manage firewall rules such that you can define a group of IPaddresses to which a single rule can be applied. Which command enables you to create agroup of IP addresses?
+A)  ipgroup
+B)  iptables - group
+C)  addrgroup
+D)  ipset
+D
+D. The ipset command can be used for the purpose described. Its worth noting that youcould create a separate iptables rule for each IP address and rule, but doing so would beless efficient than using an ipset group and having a single rule applied to that group.

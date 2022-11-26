@@ -1,0 +1,7 @@
+Assuming X forwarding has been enabled on the SSH server, which environment variable isused to set the location for newly spawned windows from within an SSH session?
+A)  DISPLAY
+B)  XTERMINAL
+C)  XTERM
+D)  XDISP
+A
+A. The DISPLAY variable can be used to remotely send the windows of an X session toanother computer when using protocols like SSH. There is no XTERMINAL or XDISPenvironment variable, and XTERM is typically a terminal window and not an environ-ment variable.9.

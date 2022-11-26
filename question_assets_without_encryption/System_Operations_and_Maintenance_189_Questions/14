@@ -1,0 +1,7 @@
+You are using an RSA- based key pair for SSH. By default, what is the name of the private keyfile in ~/.ssh?
+A)  id_rsa
+B)  id_rsa.priv
+C)  id_rsa.key
+D)  rsa_key.priv
+A
+A. The file is named id_rsa by default, and the public key is named id_rsa.pub. ForDSA keys, the names are id_dsa and id_dsa.pub.

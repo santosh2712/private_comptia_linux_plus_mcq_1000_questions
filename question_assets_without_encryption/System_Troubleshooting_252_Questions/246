@@ -1,0 +1,7 @@
+Which of the following commands mounts /dev/sda1 in the /boot partition?
+A)  mount /dev/sda /boot
+B)  mount /boot /dev/sda1
+C)  mount /dev/sda1 /boot
+D)  mount - dev sda1 /boot
+C
+C. The format for the mount command is [partition] [target], thereby mak-ing option C correct. The other options are not valid because the arguments are in thewrong order.226Appendix  Answers to the Review Questions

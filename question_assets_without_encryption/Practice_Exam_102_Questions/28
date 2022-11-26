@@ -1,0 +1,7 @@
+Which option to journalctl displays the output in reverse, with newest entries first?
+A)  - n
+B)  - r
+C)  - f
+D)  - b
+B
+B. The - r option reverses the journal, displaying the newest entries first. The - n optionshows the most recent N events, - f is follow, and - b tells journalctl to show a messagefrom a specific boot ID.

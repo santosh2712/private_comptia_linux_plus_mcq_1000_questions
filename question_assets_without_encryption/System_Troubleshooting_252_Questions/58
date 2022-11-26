@@ -1,0 +1,7 @@
+You are troubleshooting high latency and low throughput with a disk and using iostat toassess performance. Which option to iostat displays information on a per- partition basis forblock devices?
+A)  - a
+B)  - c
+C)  - d
+D)  - p
+D
+D. The - p option to iostat displays information on devices and partitions. The - c optionshows CPU utilization, and - d shows device utilization and can be used to display Input/Output Per Second (IOPS) information. There is no - a option.

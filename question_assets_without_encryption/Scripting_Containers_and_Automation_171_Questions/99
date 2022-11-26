@@ -1,0 +1,7 @@
+When setting the shebang line of a shell script, which of the following commands will help todetermine the location of the interpreter automatically?
+A)  #!/usr/bin/env bash
+B)  #!/bin/bash
+C)  #!env
+D)  /bin/int bash
+A
+A. The env command, when used as #!/usr/bin/env bash, will determine the locationof the Bash interpreter automatically. This makes the resulting script more portable for sys-tems where Bash may not be located in /bin/.

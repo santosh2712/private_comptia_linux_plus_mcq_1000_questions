@@ -1,0 +1,7 @@
+Which option to the cp command will copy directories in a recursive manner?
+A)  - v
+B)  - R
+C)  - Z
+D)  - i
+B
+B. The - R option will copy directories recursively. Note that if the - i option is notenabled, the recursive copy will overwrite files in the destination. The - v option adds ver-bosity but does not cause any recursion, while the - Z option does not exist.

@@ -1,0 +1,7 @@
+Which of the following is an advantage of using an SSL- based VPN client?
+A)  The transport may be able to get around firewalls that otherwise block VPN traffic.
+B)  The use of SSL makes default configuration easier.
+C)  The use of SSL means keys do not need to be configured.
+D)  The use of SSL makes no difference.
+A
+A. An SSL VPN can sometimes work around firewalls that otherwise block VPN traffic.SSL- based VPNs are not typically the default in Linux.

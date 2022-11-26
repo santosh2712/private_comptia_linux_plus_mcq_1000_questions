@@ -1,0 +1,7 @@
+Which statement can be used in a Bash script to determine if variable $num1 is greater than$num2, assuming both variables contain integers?
+A)  if [ "$num1" - gt "$num2" ]
+B)  if [ "$num1" > "$num2" ]
+C)  if ($num1 - gta $num2)
+D)  if [ $num1 gt $num2 ]
+A
+A. Comparing integers is typically accomplished using the binary comparison operatorslike - gt, - eq, and so on. Option B is incorrect because the > operator is used in squarebrackets. There is no - gta operator or gt operator, making both option C and option Dincorrect.

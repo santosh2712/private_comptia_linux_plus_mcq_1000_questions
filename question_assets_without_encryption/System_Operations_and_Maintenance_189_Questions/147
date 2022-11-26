@@ -1,0 +1,7 @@
+Which of the following describes the primary difference between the configuration filesssh.conf and sshd.conf (typically found in /etc/sshd/ or /etc/ssh/)?
+A)  sshd.conf is the configuration file for the system SSH, and ssh.conf is the optionsconfiguration file.
+B)  sshd.conf is the configuration file for the system SSH daemon, and ssh.conf pro-vides system- wide client SSH configuration.
+C)  sshd.conf is used when SSH will be disabled, and ssh.conf is used when SSH isenabled.
+D)  sshd.conf is the first configuration file read for a client connection, while ssh.
+B
+B. The sshd.conf file is used for server configuration. On some distributions, thisfile is called sshd_config. The ssh.conf file is used for client configuration at thesystem level.

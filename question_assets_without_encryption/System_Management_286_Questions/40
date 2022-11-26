@@ -1,0 +1,7 @@
+When editing with Vi, which command changes into insert mode and opens a new linebelow the current cursor location?
+A)  f
+B)  a
+C)  o
+D)  i
+C
+C. The o command opens a new line below the current cursor location. The a commandbegins an insert- mode session at the character after the cursor, not the line. The i commandbegins an insert- mode session at the current cursor location.

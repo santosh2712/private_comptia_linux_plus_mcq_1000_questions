@@ -1,0 +1,7 @@
+Which of the following commands queries for the mail servers for the domain example.com?
+A)  dig example.com mx
+B)  dig example.com
+C)  host - t smtp example.com
+D)  dig example.com smtp
+A
+A. The host or dig command can be used for this purpose by setting the type to mx. Themx type will query for the mail exchanger for the given domain. There is no smtp type.228Appendix  Answers to the Review Questions

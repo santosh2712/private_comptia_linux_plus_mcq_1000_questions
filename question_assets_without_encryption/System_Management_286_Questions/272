@@ -1,0 +1,7 @@
+Which option to rmmod will cause the module to wait until its no longer in use to unloadthe module?
+A)  - test
+B)  - b
+C)  - w
+D)  - unload
+C
+C. The - w option causes the module to wait until its no longer needed prior to unloading.The other options are not valid for rmmod.10. A. The update- grub is an alias or shortcut for the grub- mkconfig - o /boot/grub/

@@ -1,0 +1,7 @@
+Which file can be used to store a server- wide cache of hosts whose keys are known for SSH?
+A)  /etc/sshd_known_hosts
+B)  /etc/ssh_known_hosts
+C)  ~/.ssh/known_hosts
+D)  /root/ssh_known_hosts
+B
+B. The file ssh_known_hosts, usually kept in either /etc/ or /etc/ssh/, is used for thepurpose described. Note that on some systems, this file and other SSH- related configurationsmay be found in /etc/sshd/. The answers that indicated ~ or within /root are incorrectbecause the question specified a server- wide list. A known_hosts file found within ~/.sshwould indicate the users home directory.

@@ -1,0 +1,7 @@
+Which of the following best describes the relationship between pods and containers withKubernetes?
+A)  Pods and containers are the same.
+B)  Pods can contain multiple containers.
+C)  Containers can contain multiple pods.
+D)  There is no relationship between pods and containers.
+B
+B. Pods can contain multiple containers in Kubernetes and this facilitates a shared resourceuse case, where containers can share resources within a pod. When two containers worktogether within a pod, it is sometimes referred to as a sidecar configuration or a sidecarcontainer.Chapter 3: Scripting, Containers, and Automation (Domain 3.0)221

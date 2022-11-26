@@ -1,0 +1,7 @@
+Which of the following commands is used to display the currently loaded modules on arunning system?
+A)  ls - mod
+B)  lsmod
+C)  tree
+D)  mod - - list
+B
+B. The lsmod command is used to display currently loaded modules. This is useful forscenarios where you are migrating from the stock or distribution- provided kernel to a customkernel and need to know which modules to compile into the new kernel. Of the other com-mands, the tree command is valid but not for the scenario provided.

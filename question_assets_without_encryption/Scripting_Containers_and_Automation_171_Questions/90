@@ -1,0 +1,7 @@
+Which git command shows the current state of the working copy of a repository?
+A)  git list
+B)  git status
+C)  git state
+D)  git view
+B
+B. The git status command is used to show the current state of the working copy, dis-playing things like untracked files, files staged for commit, and so on. The other optionsshown are not valid for the scenario.

@@ -1,0 +1,7 @@
+Which option in /etc/sudoers sets the destination address for administrative and securityemails related to sudo?
+A)  mail
+B)  mailto
+C)  secmail
+D)  adminmail
+B
+B. The mailto configuration option sets the destination for emails related to sudo. Theother options listed are not valid for sudo.

@@ -1,0 +1,7 @@
+The default format for an OVF template uses which document standard?
+A)  YML
+B)  XML
+C)  OVFMeta
+D)  HTML
+B
+B. OVF files, which are used for certain virtualization scenarios, are formatted in XML.There is a file extension frequently seen as YML that typically contains YAML- formatteddata, but that is not related to this question. HTML is a valid document standard but notfor OVF files. There is no OVFMeta document standard.

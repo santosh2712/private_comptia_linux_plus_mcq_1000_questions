@@ -1,0 +1,7 @@
+You are configuring an RDMA interface. Which of the following commands displaysinformation about InfiniBand devices?
+A)  ibmon
+B)  ibstat
+C)  rdmon
+D)  rdstat
+B
+B. The ibstat command shows information about InfiniBand devices. The other com-mands are not valid.

@@ -1,0 +1,7 @@
+Which message type(s) should be queried when looking for SELinux access denials orviolations?
+A)  AVC
+B)  DEN
+C)  AVC,USER_AVC
+D)  STOP,VIOL
+A
+A. Looking for access vector cache (AVC) messages within the ausearch command canreveal information about policy violations. Its typical to also include USER_AVC within thequery. The other options shown are not valid.

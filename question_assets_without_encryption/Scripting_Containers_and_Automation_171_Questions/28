@@ -1,0 +1,7 @@
+You would like to run several commands in succession but not have the output sent into thenext command. Which of the following metacharacters will accomplish this task?
+A)  &
+B)  >
+C)  ;
+D)  |
+C
+C. The semicolon metacharacter chains multiple commands together but does not use theoutput from one command as input to the next. If the output needs to be sent into the nextcommand, the pipe character (option D) is used. A single ampersand places a task in thebackground, thus making option A incorrect; a greater- than sign redirects standard output,making option B incorrect as well.

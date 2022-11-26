@@ -1,0 +1,7 @@
+Which option to the wget command logs output?
+A)  - r
+B)  - o
+C)  - b
+D)  - k
+B
+B. The - o option logs output to the file specified. The - k option converts links, and the - roption indicates recursive. There is no - b option.

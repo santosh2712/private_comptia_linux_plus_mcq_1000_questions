@@ -1,0 +1,7 @@
+When using PXE boot, which file must exist within /tftpboot on the TFTP server for thesystem that will use PXELINUX for its bootloader?
+A)  pxelinux.tftp
+B)  pxelinux.boot
+C)  pxelinux.conf
+D)  pxelinux.0
+D
+D. The file pxelinux.0 must exist within /tftpboot on the TFTP server in order fora system to use PXELINUX for booting. The other files are not valid or necessary forPXELINUX. Once booted, PXE boot can boot using an NFS- mounted filesystem where thefilesystem is physically hosted on a different computer.184Appendix  Answers to the Review Questions

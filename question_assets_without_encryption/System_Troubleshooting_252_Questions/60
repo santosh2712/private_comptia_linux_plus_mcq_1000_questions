@@ -1,0 +1,7 @@
+Which option to journalctl displays log messages as they are being logged?
+A)  - - tail
+B)  - - du
+C)  - f
+D)  - m
+C
+C. The - f follows the log much like tail - f. There is no - - tail option forjournalctl. Of the other options, - - du dumps the catalog, and - m merges all availablejournals.

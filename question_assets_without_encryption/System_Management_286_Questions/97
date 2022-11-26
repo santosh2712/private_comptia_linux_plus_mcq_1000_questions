@@ -1,0 +1,7 @@
+Which command is used to create an Ethernet bridge?
+A)  bridgecon
+B)  brctl
+C)  bridgeman
+D)  BridgeManager
+B
+B. The brctl command is used to create ethernet bridges and is also used to managebridges once they are created. The other options shown are not valid.190Appendix  Answers to the Review Questions

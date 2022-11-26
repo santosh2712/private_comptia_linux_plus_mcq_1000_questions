@@ -1,0 +1,7 @@
+Which option to setsebool writes the current values to disk so that they will be appliedat next reboot?
+A)  - A
+B)  - P
+C)  - D
+D)  - M
+B
+B. The - P option makes the values persistent across reboots for SELinux system booleans.The other options are not valid with setsebool.

@@ -1,0 +1,7 @@
+You are working with iptables- save to examine the contents of tables in a scriptedenvironment. Which option to iptables- save can be used to specify the table namerather than outputting information for all tables?
+A)  - t
+B)  - a
+C)  - s
+D)  - i
+A
+A. The - t option, along with the table name, limits output to just the specified table ratherthan all. The other options are not valid for use with iptables- save.

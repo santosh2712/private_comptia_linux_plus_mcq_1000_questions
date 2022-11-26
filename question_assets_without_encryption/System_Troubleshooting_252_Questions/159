@@ -1,0 +1,7 @@
+Within which file can you determine the current I/O scheduler algorithm?
+A)  /sys/block/<device>/queue/scheduler
+B)  /sys/block/<device>/iosch
+C)  /etc/iostat.cfg
+D)  /etc/default/ioscheduler
+A
+A. The IO scheduler in use is found in /sys/block/<device>/queue/scheduler.The other options are not valid locations for this scenario.Chapter 4: Troubleshooting (Domain 4.0)235

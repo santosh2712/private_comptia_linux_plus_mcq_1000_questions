@@ -1,0 +1,7 @@
+Which of the following commands is used to identify the UUID for partitions?
+A)  blkid
+B)  partprobe
+C)  find
+D)  cat
+A
+A. The blkid command will show partition UUIDs. You can also get this information withthe lsblk - no +UUID <partition> command. The partprobe command is used toupdate the partition table at the kernel level. The other commands shown in this question donot accomplish the required task.

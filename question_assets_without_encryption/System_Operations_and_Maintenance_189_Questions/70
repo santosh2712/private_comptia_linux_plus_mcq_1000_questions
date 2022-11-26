@@ -1,0 +1,7 @@
+Which PAM module prevents logins from accounts other than root when the file /etc/nologin exists?
+A)  pam_login.so
+B)  pam_preventlogin.so
+C)  pam_nologin.so
+D)  pam_logindef.so
+C
+C. The pam_nologin.so module facilitates a scenario whereby non- root logins are pre-vented when /etc/nologin exists. This module must be specified within a configurationfile for a given service. For example, within the sshd PAM configuration file, the followingline creates this configuration for SSH: account required pam_nologin.so.

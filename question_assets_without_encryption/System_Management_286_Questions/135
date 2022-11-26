@@ -1,0 +1,7 @@
+Which option to the rsync command provides archive mode?
+A)  - r
+B)  - o
+C)  - a
+D)  - f
+C
+C. The - a option provides archive mode, which is a substitute for several other options.The - r option is recursive, the - o option indicates that ownership should be preserved, andthe - f option enables a filter.

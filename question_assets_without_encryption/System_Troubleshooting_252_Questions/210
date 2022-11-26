@@ -1,0 +1,7 @@
+You are looking to optimize the I/O scheduler for your Linux server. Which I/O schedulingalgorithm is the default?
+A)  deadline
+B)  noop
+C)  cfq
+D)  iqueue
+C
+C. The cfq scheduler is the default for Linux systems. Of the other options shown,deadline and noop are valid but are not the default. There is no iqueue IO scheduler.

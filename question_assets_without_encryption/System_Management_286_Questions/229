@@ -1,0 +1,7 @@
+Which of the following commands shows network services or sockets that are currentlylistening along with sockets that are not listening?
+A)  netstat - a
+B)  netlink - a
+C)  sockets - f
+D)  opensock - l
+A
+A. The netstat command is used for this purpose, and the - a option displays all sockets,listening and non- listening. Note that its frequently helpful to add the - n option, or combineoptions as in netstat an, in order to prevent name lookup. Doing so can significantlyimprove performance of the command.

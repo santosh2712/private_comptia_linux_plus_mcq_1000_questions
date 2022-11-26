@@ -1,0 +1,7 @@
+Which option to getsebool returns the entire list of SELinux booleans?
+A)  - a
+B)  - b
+C)  - c
+D)  - d
+A
+A. The - a option returns all booleans. The other options are not valid with getsebool.

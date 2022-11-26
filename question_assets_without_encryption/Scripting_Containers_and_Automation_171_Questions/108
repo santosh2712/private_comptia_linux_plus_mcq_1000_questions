@@ -1,0 +1,7 @@
+Which character sequence is used to indicate the default case within a case statement in aBash script?
+A)  ()
+B)  chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt mcq.bash passfile_23-Sep-22_13_27.txt passfile_23-Sep-22_14_11.txt passfile_23-Sep-22_14_20.txt passfile_23-Sep-22_14_33.txt passfile_23-Sep-22_15_02.txt run_linux_test.bash test.bash
+C)  all_output chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt mcq.bash passfile_23-Sep-22_13_27.txt passfile_23-Sep-22_14_11.txt passfile_23-Sep-22_14_20.txt passfile_23-Sep-22_14_33.txt passfile_23-Sep-22_15_02.txt run_linux_test.bash Temp test.bash
+D)  *)
+D
+D. The closing parenthesis is used to denote a case; when preceded by an asterisk, the defaultcase is indicated.

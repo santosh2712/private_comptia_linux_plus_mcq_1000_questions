@@ -1,0 +1,7 @@
+When working with a CentOS 6 system, which command is used to create theinitial RAM disk?
+A)  mkinit
+B)  dracut
+C)  mkraminit
+D)  mkinitfs
+B
+B. The dracut command is used to create the initial RAM disk for newer systems and hasreplaced the legacy mkinitrd command used for the same purpose.

@@ -1,0 +1,7 @@
+Which option in /etc/sudoers will cause the specified command to not prompt fora password?
+A)  PASSWORD=NO
+B)  NOPASSWD
+C)  NOPASSWORD
+D)  NOPROMPT
+B
+B. The NOPASSWD option causes sudo to not prompt for a password for a givensudo command. This is useful for scripted scenarios where a password prompt wouldcause problems.

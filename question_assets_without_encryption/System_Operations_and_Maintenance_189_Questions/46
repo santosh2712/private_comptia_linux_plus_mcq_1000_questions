@@ -1,0 +1,7 @@
+Which of the following commands removes an expiration from an account?
+A)  sudo chage - l username
+B)  sudo chage - E - 1 username
+C)  sudo chage - E now username
+D)  sudo chage - - noexpire username
+B
+B. The chage command will be used for this purpose, specifically with the - E option. Whenprovided with a date, chage will expire the account on that date. When provided with - 1,the expiration will be removed, thus removing the user lockout. The use of sudo in theoptions for this question notes the need for elevated privileges in order to run the commandsuccessfully.Chapter 2: System Operations and Maintenance (Domain 2.0)201

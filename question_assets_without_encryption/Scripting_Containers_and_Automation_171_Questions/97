@@ -1,0 +1,7 @@
+You need to make a change to your git environment because your email address has changed.Which of the following commands ensures that your new email address will be used for allsubsequent commits?
+A)  git config user.email
+B)  git change email
+C)  git config email.addr
+D)  git config email.address
+A
+A. The git config command will be used for this purpose, and the parameter is user.email.

@@ -1,0 +1,7 @@
+Which option to the tune2fs command sets the maximum mount count before the system willautomatically run fsck on the partition on boot?
+A)  - b
+B)  - c
+C)  - C
+D)  - a
+B
+B. The - c option sets the maximum mount count. The - C option sets the current number ofmounts. The - b and - a options do not exist.

@@ -1,0 +1,7 @@
+To which shell can a user account be set if they are not allowed to log in interactively tothe computer?
+A)  /bin/bash
+B)  /bin/tcsh
+C)  /bin/zsh
+D)  /bin/false
+D
+D. Setting a users shell to /bin/false will prevent them from logging in interactively tothe system, such as with SSH. The other options shown for this question are all valid shellsand would allow an interactive login.

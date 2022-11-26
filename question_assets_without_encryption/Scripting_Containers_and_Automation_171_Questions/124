@@ -1,0 +1,7 @@
+You have received a file that does not have a file extension. Which command can you run tohelp determine what type of file it might be?
+A)  grep
+B)  telnet
+C)  file
+D)  export
+C
+C. The file command can be used to determine which type of file is being used. This can beparticularly helpful for files without extensions, where you are unsure if you should view thecontents of the file. Option A, grep, is used to look within files but would not be helpful inthis case. The telnet and export commands are not used for this purpose.

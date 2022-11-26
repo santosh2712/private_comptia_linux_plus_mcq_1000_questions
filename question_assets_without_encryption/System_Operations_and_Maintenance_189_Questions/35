@@ -1,0 +1,7 @@
+Which of the following best describes the relationship between UIDs and GIDs on a Linuxsystem when an authentication server is being configured?
+A)  The UID and GID are the same across the system for a given user.
+B)  Each user has a UID and GID that are the same and are created when the user is created.
+C)  The UID represents the user, while the GID is a globally unique user ID.
+
+D
+D. There is no direct relationship between the UIDs and GIDs on a system. UIDs representusers, while GIDs represent group IDs. On some systems, the UID and GID numbers willmatch for regular users, but this is not a requirement and is more of a coincidence.

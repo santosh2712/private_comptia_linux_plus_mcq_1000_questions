@@ -1,0 +1,7 @@
+Which PXE Linux binary file is required for booting from HTTP or FTP?
+A)  lpxelinux.0
+B)  pxelinux.http
+C)  netpxlinux.0
+D)  netpxe.0
+A
+A. The file lpxelinux.0 contains the necessary code to support booting fromHTTP and FTP.

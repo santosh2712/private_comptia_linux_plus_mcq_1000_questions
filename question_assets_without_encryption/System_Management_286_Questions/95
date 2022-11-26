@@ -1,0 +1,7 @@
+Which of the following is used as a system- wide cron file?
+A)  /etc/cron.d
+B)  /etc/cron.sys
+C)  /etc/crontab
+D)  /etc/cron.tab
+C
+C. The /etc/crontab file is a plain- text file that is treated as a system- wide cron file. Assuch, the file is generally not associated with any single user, and its not necessary to run aspecial command after editing this file.

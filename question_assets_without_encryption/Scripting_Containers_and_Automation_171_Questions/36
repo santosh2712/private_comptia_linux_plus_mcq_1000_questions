@@ -1,0 +1,7 @@
+Which character sequence indicates the end of an if conditional in a Bash script?
+A)  }
+B)  fi
+C)  end
+D)  endif
+B
+B. The character sequence fi, which is the if statement backward, indicates the end of anif conditional within a Bash script. The other sequences shown as options may be used inother languages.Chapter 3: Scripting, Containers, and Automation (Domain 3.0)215

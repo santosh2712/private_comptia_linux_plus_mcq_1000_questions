@@ -1,0 +1,7 @@
+Which option to the ls command displays the ownership attributes, including user andgroup owners of a given file or directory?
+A)  - o
+B)  - a
+C)  - l
+D)  - d
+C
+C. The - l option displays ownership information, including user and group owners of afile or directory. The - o option only shows the user but does not display the group. Theother options shown are not valid for this purpose.

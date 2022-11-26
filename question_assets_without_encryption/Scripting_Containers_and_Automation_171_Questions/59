@@ -1,0 +1,7 @@
+Assuming a remote name of origin, which git command can be used to obtain additionalinformation about the remote?
+A)  git show origin
+B)  git remote show origin
+C)  git show remotes
+D)  git remote list
+B
+B. The git remote command will be used for this purpose, and when the command isgiven the show option and the remote name (origin, in this case), additional informationabout that remote will be displayed. The command is useful for displaying informationabout the destination for pushed code.

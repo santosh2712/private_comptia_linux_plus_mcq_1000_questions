@@ -1,0 +1,7 @@
+When working with a network configuration, which of the following terms refers to a com-puter with two network interfaces?
+A)  Bridging
+B)  Dual- homed
+C)  Overlay
+D)  Forwarding
+B
+B. A dual- homed networking configuration is one that has two network interfaces. Bridgednetworking refers to using the host adapter in a virtualization scenario. An overlay networkis one that is built on top of another network. Forwarding is not related to this solution.

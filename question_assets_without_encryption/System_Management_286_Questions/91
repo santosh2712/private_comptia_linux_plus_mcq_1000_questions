@@ -1,0 +1,7 @@
+Which command will move all files with a .txt extension to the /tmp directory?
+A)  mv txt* tmp
+B)  move chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt passfile_23-Sep-22_13_27.txt passfile_23-Sep-22_14_11.txt passfile_23-Sep-22_14_20.txt passfile_23-Sep-22_14_33.txt passfile_23-Sep-22_15_02.txt /temp
+C)  mv chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt passfile_23-Sep-22_13_27.txt passfile_23-Sep-22_14_11.txt passfile_23-Sep-22_14_20.txt passfile_23-Sep-22_14_33.txt passfile_23-Sep-22_15_02.txt /tmp
+D)  mv chap1_ans.txt chap1_qc.txt chaptxt chap2_ans.txt chap2_qc.txt chap2.txt chap3_ans.txt chap3_qc.txt chap3.txt chap4_ans.txt chap4_qc.txt chap4.txt chap5_ans.txt chap5_qc.txt chap5.txt key.txt passfile_23-Sep-22_13_27.txt passfile_23-Sep-22_14_11.txt passfile_23-Sep-22_14_20.txt passfile_23-Sep-22_14_33.txt passfile_23-Sep-22_15_02.txt tmp
+C
+C. The mv command is used to move files, and *.txt will look for all files with a .txtextension. Note the fully qualified destination with a / preceding the name tmp.

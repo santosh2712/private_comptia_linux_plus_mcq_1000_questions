@@ -1,0 +1,7 @@
+Which shell built- in command is used to display a list of read- only variables?
+A)  ro
+B)  readonly
+C)  env- ro
+D)  ro- env
+B
+B. The readonly command displays the list of read- only variables that have been declaredin the current session. The other commands listed for this question do not exist.

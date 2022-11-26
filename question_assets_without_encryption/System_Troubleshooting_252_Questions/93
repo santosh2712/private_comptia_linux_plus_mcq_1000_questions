@@ -1,0 +1,7 @@
+Which of the following commands can be used to display a list of currently logged- in usersalong with the current load average and time since last reboot?
+A)  uptime
+B)  w
+C)  swap
+D)  sysinfo
+B
+B. The w command shows various useful information that includes load average, logged- inusers, and other uptime information. The uptime command does not show who is currentlylogged in. There is no swap or sysinfo command.

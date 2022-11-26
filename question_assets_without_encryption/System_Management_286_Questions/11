@@ -1,0 +1,7 @@
+Which of the following commands updates the package cache for a Debian system?
+A)  apt- get cache- update
+B)  apt- cache update
+C)  apt- get update
+D)  apt- get upgrade
+C
+C. The apt- get update command will cause the package cache to be updated byretrieving the latest package list from the package sources. There is no cache- updateoption or update option to apt- cache. The upgrade option is used to update the sys-tems packages, not the cache.

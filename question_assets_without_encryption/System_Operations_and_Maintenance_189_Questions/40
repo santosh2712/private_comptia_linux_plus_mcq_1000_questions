@@ -1,0 +1,7 @@
+Which port should be allowed through a firewall for NTP communication?
+A)  Port 139
+B)  Port 161
+C)  Port 123
+D)  Port 194
+C
+C. Port 123 is used for NTP communication by default. Port 161 is SNMP, while 139 isNetBIOS, and 194 is IRC.

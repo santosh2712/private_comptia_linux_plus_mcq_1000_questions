@@ -1,0 +1,7 @@
+Using udev to configure a network adapter for use with a firewall so that it has a specific andconsistent name, you edit the udev rules file. Which option within the rules file ensures thatthe device will always have a name of eth0?
+A)  ATTR- NAME="eth0"
+B)  NAME="eth0"
+C)  DEV_NAME="eth0"
+D)  NAME_DEV="eth0"
+B
+B. The NAME parameter sets the name for the device. The other options shown are not validudev parameters.

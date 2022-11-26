@@ -1,0 +1,7 @@
+Which option to the dumpe2fs command can be used to display blocks that are reservedbecause of being marked as bad?
+A)  - v
+B)  - f
+C)  - b
+D)  - m
+C
+C. The - b option prints known bad blocks. The - f option is used to force the display ofinformation, and the other options dont exist.

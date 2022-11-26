@@ -1,0 +1,7 @@
+Which of the following characters are valid for hostnames in /etc/hosts?
+A)  Alphanumerics, minus, underscore, and dot
+B)  Alphanumerics, minus, and dot
+C)  Alphanumerics and dot
+D)  Alphanumerics
+B
+B. Only alphanumerics, minus sign or dash, and dot are valid for hosts in /etc/hosts.

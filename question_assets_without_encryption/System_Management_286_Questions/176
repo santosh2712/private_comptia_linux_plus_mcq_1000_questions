@@ -1,0 +1,7 @@
+The system that youre working with recently had a hard drive failure, resulting indegraded storage. A new hard drive has been installed and Linux has been restored frombackup to the drive. However, the system will not boot and instead shows a grub >prompt. Within the grub > prompt, which command will show the current partitions asseen by GRUB?
+A)  ls
+B)  showPart
+C)  partitionlist
+D)  ps
+A
+A. The ls command from within the grub > prompt will show the available partitions ina format such as (hd0,1).

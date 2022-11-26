@@ -1,0 +1,7 @@
+The umask reports as 022. What is the permission that will be in effect for a newly non-executable created file?
+A)  u+rw, g+r, w+r
+B)  755
+C)  644
+D)  a+r
+C
+C. The 022 umask will translate into 644 permissions on a new non- executable file.

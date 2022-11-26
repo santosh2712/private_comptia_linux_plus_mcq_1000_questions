@@ -1,0 +1,7 @@
+You need to view the SELinux contexts for various processes on the system. Which of thefollowing commands will accomplish this task?
+A)  showcon
+B)  proccon
+C)  lcon - Z
+D)  ps - Z
+D
+D. The ps command shows processes. When the command is given the - Z option, SELinuxcontexts are shown.Chapter 2: System Operations and Maintenance (Domain 2.0)207

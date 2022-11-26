@@ -1,0 +1,7 @@
+Which swapon option silently skips those swap partitions that do not exist?
+A)  - u
+B)  - e
+C)  - i
+D)  - o
+B
+B. The - e option causes swapon to skip those partitions that do not exist. The other optionsare not valid for this scenario.

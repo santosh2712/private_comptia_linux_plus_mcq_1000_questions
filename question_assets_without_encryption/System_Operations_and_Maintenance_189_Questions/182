@@ -1,0 +1,7 @@
+You need to relabel after changing SELinux policies. Which of the following commandstriggers the autorelabel process?
+A)  autorel
+B)  touch /.autorelabel
+C)  selinux - rel
+D)  systemd- relabel
+B
+B. Using the touch command to touch the file /.autorelabel will trigger a relabel forSELinux. The other commands shown are not valid.

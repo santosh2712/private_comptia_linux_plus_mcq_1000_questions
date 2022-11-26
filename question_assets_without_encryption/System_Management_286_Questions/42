@@ -1,0 +1,7 @@
+Which file contains the current list of partitions along with their major and minor numbersand the number of blocks?
+A)  /dev/disk
+B)  /dev/partitions
+C)  /proc/disk
+D)  /proc/partitions
+D
+D. The /proc/partitions file contains a list of partitions on the system along withtheir major and minor numbers and the number of blocks. The /dev/disk/ option is adirectory and not a file and so is not correct for this question. The other options shown donot exist.

@@ -1,0 +1,7 @@
+Which of the following tests will determine if a file exists in the context of a shell script?
+A)  - a
+B)  - e
+C)  - m
+D)  - i
+B
+B. The - e option checks to ensure that a file exists and is typically used in the context ofa conditional within a shell script. The other options may work within shell scripts but arenot tests for file existence.

@@ -1,0 +1,7 @@
+You believe that the system has been broken into and files may have been changed. Aftertaking the system offline and unmounting one of the affected partitions, what couldyou do next?
+A)  Use dd to make an image of the partition to preserve it.
+B)  Create a backup using tar.
+C)  Examine the partition with fdisk.
+D)  Use mkfs to reformat the partition.
+A
+A. Making a bit- level image of the partition with dd is a good idea in order to preserve anyevidence of the break- in. Creating a backup using tar is a less preferred option. Examiningthe partition with fdisk would not reveal any relevant information, and reformatting thepartition usually should not be done until the extent of the attack is understood.

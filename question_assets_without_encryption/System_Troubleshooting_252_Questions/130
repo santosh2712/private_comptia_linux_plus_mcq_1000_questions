@@ -1,0 +1,7 @@
+Which option is used to send a signal to a process when using pkill?
+A)  - <SIGNAL>
+B)  - s
+C)  - i
+D)  - h
+A
+A. The signal number or symbolic name can be used and is prefaced with a single dash(- ) as shown in option A. The other options are not valid for the purpose required inthe question.

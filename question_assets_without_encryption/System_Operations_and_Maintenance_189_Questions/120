@@ -1,0 +1,7 @@
+Which option within /etc/sshd/sshd.conf (or /etc/ssh/sshd_config) can bechanged to prevent password- based authentication?
+A)  PasswordAuthentication
+B)  Passwords
+C)  AllowPass
+D)  AllowPasswords
+A
+A. The option PasswordAuthentication configures whether users will be allowed toauthenticate using a password rather than key- based or another form of authentication. Theother options shown are not valid. Note that on some distributions, the configuration filesare found in /etc/sshd/, while on other distributions, the configuration files are found in/etc/ssh/.

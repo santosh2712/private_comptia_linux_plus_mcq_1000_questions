@@ -1,0 +1,7 @@
+Which options to the fsck command will find errors and automatically assume that it shouldrepair them?
+A)  - ry
+B)  - vy
+C)  - my
+D)  - xy
+A
+A. The - r option repairs the filesystem, while the - y option causes fsck to assume Yesinstead of prompting. The - v option is verbosity. There is no - m or - x option for fsck.244Appendix  Answers to the Review Questions

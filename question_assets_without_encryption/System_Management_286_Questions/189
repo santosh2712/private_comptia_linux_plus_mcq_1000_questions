@@ -1,0 +1,7 @@
+You need to create a script for use with the parted command. When using the partedcommand to obtain a list of partitions, which additional option formats the output suchthat it can be more easily parsed by a script?
+A)  - p
+B)  - S
+C)  - m
+D)  - v
+C
+C. The - m option displays output in a machine- readable format. The - v option prints theversion of parted. There is no - p or - S option.

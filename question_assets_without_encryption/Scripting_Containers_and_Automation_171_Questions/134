@@ -1,0 +1,7 @@
+Which command can be used to add functions and variables to the current shell?
+A)  source
+B)  echo
+C)  en
+D)  src
+A
+A. The source command adds functions found in the file argument to the current shell. Thesource command is frequently used for software installs to ensure that the environment isset up properly prior to execution of the install scripts.8.

@@ -1,0 +1,7 @@
+You are working with an SSD to run fstrim and receive the return code 64 whencomplete. What does 64 mean as a return code?
+A)  Trim not supported.
+B)  Trim succeeded.
+C)  Trim succeeded on some filesystems and failed on others.
+D)  Trim failed on all filesystems.
+C
+C. A return code of 64 indicates that trim succeeded on some filesystems and failed onsome filesystems, so further investigation will be required. Trim succeeded is return code 0and all failed is return code 32. The fstrim command wont run on an unsupported file-system, making option A incorrect.

@@ -1,0 +1,7 @@
+When configuring VPN service through a firewall, on which port and protocol does Open-VPN listen?
+A)  ICMP/1194
+B)  UDP/1194
+C)  TCP/1194
+D)  VPN/1194
+B
+B. OpenVPN listens on UDP port 1194 by default. The other combinations are not the validOpenVPN configuration.

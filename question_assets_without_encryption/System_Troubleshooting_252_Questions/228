@@ -1,0 +1,7 @@
+What is the required extension for systemd mount files?
+A)  .mount
+B)  .service
+C)  .fs
+D)  .mountd
+A
+A. The .mount extension is required for systemd mount files. Systemd frequently requiresspecific filenaming conventions in order to work correctly, and knowing the filenames,extensions, and special locations will be helpful for the exam.

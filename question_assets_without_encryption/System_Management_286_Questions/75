@@ -1,0 +1,7 @@
+Which of the following commands shows the current default route without performing DNSlookups on the IP address(es) involved?
+A)  netstat - rn
+B)  netstat - n
+C)  netstat - r
+D)  netstat - f
+A
+A. The netstat command can be used for this purpose, and the - r option displays thecurrent routes. The addition of - n prevents DNS lookups, which can help with performance.

@@ -1,0 +1,7 @@
+Which system logging facility is used for messages from the kernel?
+A)  syslog
+B)  kernel
+C)  kern
+D)  system
+C
+C. The kern facility receives messages from the kernel for logging purposes. Of the otheroptions, syslog is used for logging messages about syslog itself. The other two optionsshown are not valid syslog facilities. Kernel messages are sometimes placed in a separatelog called /var/log/kern.log.

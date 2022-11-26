@@ -1,0 +1,7 @@
+Which of the following commands provides a live traceroute of the route between twohosts, updating the information for each hop in near real time?
+A)  traceroute - - live
+B)  mtr
+C)  route - update
+D)  liveroute
+B
+B. The mtr command provides a unique way to view real- time information about each hopin a route between hosts. Both the traceroute and route commands are valid, but theoptions shown for each are not. There is no liveroute command.

@@ -1,0 +1,7 @@
+Within which directory will you find configuration files for the Postfix mail server on aDebian-based Linux server?
+A)  /etc/postfixd
+B)  /var/postfix
+C)  /etc/postfix
+D)  /var/postfixd
+C
+C. The configuration files for Postfix are stored in /etc/postfix on a Debian server.Of the other answers, none of the directories exist by default.

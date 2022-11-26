@@ -1,0 +1,7 @@
+Which of the following describes a method for changing the sort order when using the topcommand such that the highest memory utilizers will be shown at the top of the list?
+A)  Within top, type o and then select mem.
+B)  Within top, press Shift+F, scroll to %MEM, press s to select, and then press Q to quit.
+C)  Within top, press S and then select %MEM.
+D)  Within top, press Shift+S, select %MEM, then press Q to quit.
+B
+B. Pressing Shift+F within top enables you to choose which columns display as well as thesort order for the columns. In the scenario described, you can view the processes using thehighest amount of memory.

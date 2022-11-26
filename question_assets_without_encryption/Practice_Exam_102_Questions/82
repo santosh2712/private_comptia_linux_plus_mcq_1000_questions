@@ -1,0 +1,7 @@
+Which of the following commands will set an account to expire based on the number of dayselapsed since January 1, 1970?
+A)  passwd - e
+B)  chage - E
+C)  usermod - l
+D)  chguser
+B
+B. The chage command can be used for this purpose, and the - E option accepts days since1/1/1970. There is no - e option to passwd, and - l for usermod will not perform theaction described. There is no chguser command.

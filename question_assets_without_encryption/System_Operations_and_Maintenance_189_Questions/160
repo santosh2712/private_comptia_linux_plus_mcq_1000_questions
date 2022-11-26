@@ -1,0 +1,7 @@
+You need to set a bootloader password for GRUB. To do so, which of the following config-uration options should be set in /boot/grub/grub.conf?
+A)  login
+B)  prompt
+C)  boot- passwd
+D)  password
+D
+D. The password configuration option is set in /boot/grub/grub.conf. The otheroptions shown for this question are not valid for the scenario.

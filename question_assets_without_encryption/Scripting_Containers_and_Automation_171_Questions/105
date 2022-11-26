@@ -1,0 +1,7 @@
+Working with a file called test.php to determine line count, the output from the wccommand is 14 18 293 test.php. Which of the three digits corresponds to line count?
+A)  14
+B)  18
+C)  293
+D)  None of the options are line count.
+A
+A. The first number, 14, is the line count. The second number is word count and the thirdnumber is byte count.

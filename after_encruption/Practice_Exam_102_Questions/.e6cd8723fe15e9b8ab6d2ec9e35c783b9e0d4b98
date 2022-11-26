@@ -1,0 +1,7 @@
+Which command and option can be used to determine whether a given service iscurrently loaded?
+A)  systemctl - - ls
+B)  telinit
+C)  systemctl status
+D)  sysctl - a
+C
+C. Out of the options given, the systemctl status command and option are the mostappropriate. The telinit and sysctl commands are not used for this purpose. Likewise,the - - ls option is not valid for systemctl.10. D. The partition containing /var should be the largest for a mail server because mail spools

@@ -1,0 +1,7 @@
+When youre copying files using scp, which port needs to be open in the firewall?
+A)  TCP/21
+B)  TCP/22
+C)  TCP/20 and TCP/21
+D)  UDP/53
+B
+B. The scp utility uses SSH as transport and therefore requires TCP port 22. TCP ports 20and 21 are used for legacy FTP, while UDP/53 is used for DNS queries.

@@ -1,0 +1,7 @@
+Which command is used to create a packaged application to be distributed with Flatpak?
+A)  flatpak- builder
+B)  flatpak- create
+C)  flatpak- pack
+D)  flatpak- compile
+A
+A. The flatpak- builder command is used to create the application for Flatpak. Theother commands do not exist.

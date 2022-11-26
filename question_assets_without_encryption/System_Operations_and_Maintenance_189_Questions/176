@@ -1,0 +1,7 @@
+When using sudo in a scripted environment, which option can be used to specify a nonin-teractive mode?
+A)  - f
+B)  - m
+C)  - n
+D)  - l
+C
+C. Noninteractive mode for sudo is triggered with the - n option. The other options arenot valid for this scenario.

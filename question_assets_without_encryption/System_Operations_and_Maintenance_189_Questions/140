@@ -1,0 +1,7 @@
+Assuming a Fedora system, which command can be used to change the policy, such aschanging from minimum to targeted?
+A)  setse - - policy
+B)  system- selinux
+C)  selinux- change
+D)  system- config- selinux
+D
+D. The system- config- selinux command is used to change policies on a Fedorasystem. The other commands shown are not valid.

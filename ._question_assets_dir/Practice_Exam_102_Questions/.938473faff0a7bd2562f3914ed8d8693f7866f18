@@ -1,0 +1,7 @@
+Which of the following shows a valid Bash function called sayHello?
+A)  function sayHello() { echo "hello"; }
+B)  function sayHello{}
+C)  function sayHello() { echo Hello }
+D)  function sayHello() { echo Hello } ;
+A
+A. The correct syntax is as shown. Note that a semicolon is required when the commandsare included on one line, as shown in the correct answer.

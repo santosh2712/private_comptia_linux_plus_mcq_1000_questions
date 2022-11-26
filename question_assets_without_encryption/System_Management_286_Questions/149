@@ -1,0 +1,7 @@
+After a new hard drive is inserted into the system, what is the correct order to make the driveready for use within Linux?
+A)  Use fdisk to create partitions, and then mount the partitions.
+B)  Mount the partitions.
+C)  Use fdisk to create partitions and mount - a to mount all the newly created partitions.
+D)  Use fdisk to create partitions, then format the partitions using a command such as
+D
+D. The first step is to use fdisk to create one or more partitions. Then format the parti-tions, and then mount the partitions for use. Various filesystem types can be created withmkfs and its subcommands. These filesystem types include ext3, ext4, xfs, and ntfs.

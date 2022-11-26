@@ -1,0 +1,7 @@
+Which of the following commands installs GRUB into the MBR of the second SATA disk?
+A)  grub2- install /dev/hdb2
+B)  grub2- install /dev/sda2
+C)  grub2- config /dev/sda
+D)  grub2- install /dev/sdb
+D
+D. The grub2- install command is used to install GRUB onto a disk. The second SATAdisk would be /dev/sdb, therefore making option D the correct answer.

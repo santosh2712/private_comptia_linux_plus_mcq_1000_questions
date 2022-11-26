@@ -1,0 +1,7 @@
+Which of the following best describes the PS1 environment variable?
+A)  PS1 is used to set the location of the PostScript command.
+B)  PS1 is used to define the default shell prompt for Bash.
+C)  PS1 is used as a per- system variable.
+D)  PS1 is user- defined and does not have a default value or setting.
+B
+B. The PS1 variable usually has its default set in /etc/profile and is used as the shellprompt. Users can customize the prompt to include hostname, working directory, andother elements.

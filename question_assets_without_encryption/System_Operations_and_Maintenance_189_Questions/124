@@ -1,0 +1,7 @@
+Which port(s) and protocol(s) should be opened in a firewall in order for the primary andsecondary name servers to communicate for a given domain?
+A)  udp/53
+B)  Both tcp/53 and udp/53
+C)  tcp/53
+D)  udp/53 and tcp/503
+B
+B. Traditionally, udp/53 is used for DNS queries, but with a primary and secondaryserver, it is assumed that zone transfers may occur. DNS zone transfers typically take placeover tcp/53.

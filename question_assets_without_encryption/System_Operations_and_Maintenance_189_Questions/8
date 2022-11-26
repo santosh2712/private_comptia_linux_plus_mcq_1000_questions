@@ -1,0 +1,7 @@
+Which polkit function is used to create a rule?
+A)  addRule()
+B)  createRule()
+C)  NewRule()
+D)  ruleAdd()
+A
+A. Rules are added with a call to the addRule() function in polkit, which is the execut-able associated with PolicyKit and is used to create rules. The other options shown for thisquestion are not valid functions.

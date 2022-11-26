@@ -1,0 +1,7 @@
+Which option to tune2fs displays the current inode size of a filesystem?
+A)  - n
+B)  - l
+C)  - a
+D)  - f
+B
+B. The - l option shows several properties of the filesystem, including the inode size.The - f option causes tune2fs to force completion of the specified operation. The otheroptions are not valid.

@@ -1,0 +1,7 @@
+To which file should a unit file be symlinked in order to disable the unit file?
+A)  /etc/systemd/unit.disable
+B)  /etc/systemd/disabled
+C)  /tmp/disabled
+D)  /dev/null
+D
+D. Creating a symbolic link to /dev/null effectively disables the unit file so that the ser-vice cannot be started. The other options shown are not valid files.Chapter 4: Troubleshooting (Domain 4.0)225

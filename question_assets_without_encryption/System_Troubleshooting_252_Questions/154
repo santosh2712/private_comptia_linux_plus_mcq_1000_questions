@@ -1,0 +1,7 @@
+You are starting a containerized service through systemd but need to ensure that enoughmemory has been allocated to the container. Which option within a systemd unit file verifiesthat the specified amount of memory is available?
+A)  MinRAM=
+B)  VerifyMem=
+C)  VerMem=
+D)  ConditionMemory=
+D
+D. Using ConditionMemory= defines the amount of memory that needs to be available.Mathematical operators such as greater- than, equal, less- than, and others are available. Theother options are not valid for specifying the amount of memory within a systemd unit file.

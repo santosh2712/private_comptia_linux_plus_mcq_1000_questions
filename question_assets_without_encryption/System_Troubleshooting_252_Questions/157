@@ -1,0 +1,7 @@
+You have added a new RAID adapter to the system. Which command can be used to ensurethat the adapter was detected by the kernel?
+A)  showraid
+B)  lsadapt
+C)  dmesg
+D)  raidlist
+C
+C. The dmesg command shows the kernel ring buffer and is a primary tool to deter-mine whether the system has detected a new piece of hardware. The other options arenot valid.

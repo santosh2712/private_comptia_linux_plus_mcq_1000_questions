@@ -1,0 +1,7 @@
+Which file contains encrypted password information for groups?
+A)  /etc/group
+B)  /etc/gshadow
+C)  /etc/gsecure
+D)  /etc/group.conf
+B
+B. The /etc/gshadow file contains secure information such as an encrypted password forgroups, where applicable. The /etc/group file contains general information on groups. Theother two files listed as options do not exist.Chapter 2: System Operations and Maintenance (Domain 2.0)199

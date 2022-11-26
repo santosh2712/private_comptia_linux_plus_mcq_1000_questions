@@ -1,0 +1,7 @@
+After fetching changes for a previously cloned git repository, which git command is used toincorporate the changes from that branch into the local copy?
+A)  put
+B)  push
+C)  merge
+D)  inc
+C
+C. The merge command incorporates changes to a previously cloned git repository. Thepush command is valid but is used to send code to a remote repository or origin. The othercommands are not valid.Chapter 3: Scripting, Containers, and Automation (Domain 3.0)213

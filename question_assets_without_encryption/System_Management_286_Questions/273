@@ -1,0 +1,7 @@
+Which option to ln creates a symlink to another file?
+A)  - sl
+B)  - s
+C)  - l
+D)  - - ln
+B
+B. The - s option to ln creates a symbolic link, or symlink.

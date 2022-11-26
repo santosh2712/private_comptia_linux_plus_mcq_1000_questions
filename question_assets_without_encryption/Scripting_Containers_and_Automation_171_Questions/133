@@ -1,0 +1,7 @@
+Which exit code is used to indicate a general error within a Bash script?
+A)  0
+B)  1
+C)  256
+D)  1
+B
+B. An exit code of 1 indicates a general error. The exit code of 0 indicates success, and 256is out of range. There is no - 1 exit code for Bash.

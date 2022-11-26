@@ -1,0 +1,7 @@
+Which of the following commands schedules a series of commands to execute onehour from now?
+A)  atq +1hr
+B)  at now + 1 hour
+C)  atq
+D)  at - 1
+B
+B. The at command is used to run a series of commands that you enter. Unlike with cron,you can schedule commands from the command line to be executed in the same orderentered rather than having to create a specific script for the commands. The syntax shownin option B sets the time to be one hour from now.

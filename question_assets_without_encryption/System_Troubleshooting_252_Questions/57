@@ -1,0 +1,7 @@
+When troubleshooting disk- related errors you need to change the behavior of the system sothat a kernel panic is not triggered. You will use tune2fs - e to change the error behavior.Which of the following are available options for the error behavior?
+A)  resched- io and mailadmin
+B)  offline and background
+C)  continue and remount- ro
+D)  ignore and redress
+C
+C. The two behaviors aside from panic are continue and remount- ro. The otheroptions shown are not valid error behaviors.

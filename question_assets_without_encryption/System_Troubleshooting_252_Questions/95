@@ -1,0 +1,7 @@
+When checking filesystems with the fsck command, which option skips checking of the rootfilesystem?
+A)  - A
+B)  - M
+C)  - R
+D)  - S
+C
+C. The - R option skips the root filesystem when the - A option is used. The - M option doesnot check mounted filesystems. There is no - S option.7.

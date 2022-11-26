@@ -1,0 +1,7 @@
+Which systemd target can be used as an alternative to rescue mode when recovery is not pos-sible in rescue mode?
+A)  emerg
+B)  recover
+C)  control- recover
+D)  emergency
+D
+D. The emergency target can be used in situations where rescue mode cannot recover thesystem. The other targets are not valid.

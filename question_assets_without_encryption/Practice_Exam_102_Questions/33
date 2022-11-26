@@ -1,0 +1,7 @@
+Which option to the patch command makes a backup of files?
+A)  - d
+B)  - b
+C)  - s
+D)  - c
+B
+B. The - b option makes a copy of the original file before patching. This can be particularlyuseful in a scripted scenario where several files are patched in succession. The - d optioncauses a change directory prior to patching, while - c tells patch to interpret the patch fileas a normal diff file. The - s option causes patch to work in silent mode.

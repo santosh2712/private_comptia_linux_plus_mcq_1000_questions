@@ -1,0 +1,7 @@
+Which option in dhcpd.conf specifies the maximum amount of time that a client is allowed tohave a DHCP lease?
+A)  max- time
+B)  max- lease- time
+C)  lease- max
+D)  maximum- lease- duration
+B
+B. The max- lease- time directive, followed by the number of seconds, specifies theamount of time that a given host can have a lease before it is purged. The other optionsshown are not valid in a dhcpd.conf configuration file.

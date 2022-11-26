@@ -1,0 +1,7 @@
+Which of the following formats are used for SaltStack configuration files?
+A)  YAML
+B)  JSON
+C)  TXT
+D)  DOC
+A
+A. YAML is used for SaltStack configuration files. Other configuration managementsoftware also uses YAML, while others, like Chef, use JSON. None of the configurationmanagement tools use DOC as a type of file for configuration.

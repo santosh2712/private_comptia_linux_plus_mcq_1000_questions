@@ -1,0 +1,7 @@
+When partitioning a disk for a mail server running Postfix, which partition/mounteddirectory should be the largest in order to allow for mail storage?
+A)  /etc
+B)  /usr/bin
+C)  /mail
+D)  /var
+D
+D. The partition containing /var should be the largest for a mail server because mail spoolsare stored within this hierarchy. The /etc/ hierarchy is usually small, as is /usr/bin. The/mail directory does not exist by default.

@@ -1,0 +1,7 @@
+Which command is used to turn off AppArmor profiles?
+A)  aa- disable
+B)  aa- turnoff
+C)  aa- enable - d
+D)  aa- off
+A
+A. The aa- disable command is used to turn off profiles used with AppArmor. The othercommands shown are not valid.

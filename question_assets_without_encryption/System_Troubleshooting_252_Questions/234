@@ -1,0 +1,7 @@
+Which of the following addresses is outside of the subnet defined by 192.168.1.0/25?
+A)  168.1.56
+B)  168.1.1
+C)  168.1.100
+D)  168.1.200
+D
+D. The address 192.168.1.200 falls outside the 192.168.1.0/25 address range, whichends at 192.168.1.127. The other options shown fall within the range.

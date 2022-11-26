@@ -1,0 +1,7 @@
+Which character sequence should be used if you need to redirect STDERR to a file andappend to the file?
+A)  2>
+B)  2>>
+C)  &>>
+D)  1>>
+B
+B. The number 2 indicates STDERR redirection, and double greater- than signs indicate thatthe output will be appended rather than overwriting.

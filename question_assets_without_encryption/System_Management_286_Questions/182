@@ -1,0 +1,7 @@
+You are using the top command to monitor processes and you notice that the nccommand is consuming a lot of CPU cycles. Which command can be used to change thepriority of the command?
+A)  renice
+B)  nice
+C)  ps
+D)  top
+A
+A. The renice command can be used to set the priority of a running process. The nicecommand can be used to set the priority, but because the nc command was alreadyrunning, renice must be used. The nc command can be used to transfer files, so killingthe process isnt a great option. The ps and top commands do not change priorities.

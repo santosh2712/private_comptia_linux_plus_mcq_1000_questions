@@ -1,0 +1,7 @@
+You are looking for files related to the SSL configuration on the server. After looking in /etc/ssl, within which other directory might the files reside?
+A)  /etc/sslconfig
+B)  /usr/share/ssl
+C)  /etc/pki
+D)  /etc/private
+C
+C. Files related to SSL are typically stored in either /etc/ssl (or a subdirectory therein)or in the /etc/pki hierarchy. There is no /etc/private or /usr/share/ssldirectory. The other directories shown as options do not exist.

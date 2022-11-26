@@ -1,0 +1,7 @@
+You have used getenforce to verify that the current mode is Enforcing and need tochange certain rules in real time. Which command can be used for this purpose?
+A)  systemd- selinux
+B)  sechange
+C)  semanage
+D)  setsepol
+C
+C. The semanage command can be used to make changes such as ports, booleans, andcontexts in order to keep a policy in Enforcing mode but still make changes. The othercommands shown are not valid for this purpose.Chapter 3: Scripting, Containers, and Automation (Domain 3.0)211

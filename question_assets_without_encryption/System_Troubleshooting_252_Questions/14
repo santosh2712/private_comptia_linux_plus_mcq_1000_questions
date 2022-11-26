@@ -1,0 +1,7 @@
+Which of the following commands will enumerate the hosts database?
+A)  getent hosts
+B)  gethosts
+C)  nslookup
+D)  host
+A
+A. The getent command is used for working with NSS databases, and getent hostswill display the available hosts using the databases configured in /etc/nsswitch.conf.

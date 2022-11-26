@@ -1,0 +1,7 @@
+Which of the following commands scans the IP address 192.168.1.154 for open ports?
+A)  nmap 168.1.154
+B)  lsof 168.1.154
+C)  netstat 168.1.154
+D)  netmap 168.1.154
+A
+A. The nmap command is used to scan for open ports. It will scan for open TCP ports to theaddress or addresses specified. The other commands shown do not scan for open ports toexternal (off- host) IP addresses.

@@ -1,0 +1,7 @@
+Which of the following commands deactivates swap space?
+A)  swapoff
+B)  swap - off
+C)  unmountswap
+D)  uswap
+A
+A. The swapoff command deactivates swap space, thereby making it unavailable as virtualmemory on the system. The other commands shown as options are not valid.

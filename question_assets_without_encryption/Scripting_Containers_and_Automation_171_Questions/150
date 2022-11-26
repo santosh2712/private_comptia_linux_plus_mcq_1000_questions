@@ -1,0 +1,7 @@
+Which of the following commands is a simple pager that is found on most Linux systems?
+A)  more
+B)  pg
+C)  grep
+D)  mr
+A
+A. The more command provides simple paging capabilities. Unlike the less command,which needs to be installed on many systems, more is usually available even on baseinstalls. The grep command is not a pager, and the other commands are not valid.

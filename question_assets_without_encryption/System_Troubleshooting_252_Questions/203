@@ -1,0 +1,7 @@
+Which configuration option within a systemd timer unit file causes the program to execute acertain number of seconds or minutes after the system has booted?
+A)  OnBootSec
+B)  StartupCommand
+C)  StartCmdSec
+D)  CmdSec
+A
+A. The OnBootSec option defines the time to wait, in seconds, until launching thecommand specified within the unit file. It is notable that OnBootSec is an alias forOnStartupSec. The other options shown are not valid.

@@ -1,0 +1,7 @@
+When using the rmdir command, which option also removes child directories?
+A)  - c
+B)  - p
+C)  - m
+D)  - a
+B
+B. The - p option removes the hierarchy of directories. The other options do not exist.

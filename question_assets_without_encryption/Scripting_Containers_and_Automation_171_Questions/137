@@ -1,0 +1,7 @@
+Which of the following creates an array in a Bash script?
+A)  ARRAY=(val1 val2)
+B)  ARRAY = "val1 val2"
+C)  ARRAY_PUSH($ARRAY,"val1","val2");
+D)  ARRAY{0} = "val1"
+A
+A. Array creation in a shell script involves parentheses when used in this manner. You canalso use square brackets to define individual elements, as in ARRAY[0] = "val1".220Appendix  Answers to the Review Questions

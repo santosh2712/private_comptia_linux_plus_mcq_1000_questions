@@ -1,0 +1,7 @@
+Which of the following directories contains configuration files for the fail2ban system?
+A)  /etc/fail2ban.cfg
+B)  /etc/fail2ban.d
+C)  /etc/f2b
+D)  /etc/fail2ban
+D
+D. The /etc/fail2ban directory contains configuration files related to fail2ban. Theother directories shown are not valid. The use of fail2ban is helpful for SSH when com-pared with other methods like the recently deprecated pam_tally2 and faillock, both of whichwould not prevent key- based authentication for SSH.

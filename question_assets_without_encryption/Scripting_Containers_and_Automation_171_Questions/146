@@ -1,0 +1,7 @@
+Which docker command creates a container from an image and starts that image?
+A)  run
+B)  go
+C)  make
+D)  start
+A
+A. The run command creates a container and starts a Docker image. When youre workingwith containers, the start command is used to start a container and the stop commandsubsequently stops the container from running.

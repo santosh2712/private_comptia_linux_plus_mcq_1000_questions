@@ -1,0 +1,7 @@
+Which command creates a TCP connection to the server www.example.com on port 80?
+A)  nc www.example.com 80
+B)  nc www.example.com
+C)  nc www.example.com:80
+D)  nc:80 www.example.com
+A
+A. The netcat tool used with the nc command can create a network connection, and theformat is nc <host> <port>, thus making options other than that incorrect.

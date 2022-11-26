@@ -1,0 +1,7 @@
+Which option within /etc/login.defs is used to configure the maximum number ofdays until a password change is required?
+A)  MAX_PASS_AGE
+B)  PASSWORD_AGE
+C)  PASS_MAX_DAYS
+D)  DAYS_PASSEXP
+C
+C. The PASS_MAX_DAYS option sets the number of days that a password is valid until itneeds to be changed. The other options are not valid.

@@ -1,0 +1,7 @@
+Which of the following best describes the difference between a while and an until loopin a Bash script?
+A)  A while loop always executes once; an until loop does not.
+B)  An until loop always executes once; a while loop does not.
+C)  A while loop executes as long as a condition is true; an until loop executes untilthe condition is false.
+D)  An until loop executes until a condition is true; a while loop executes until a
+D
+D. Both while and until loops execute until a condition changes. The while loopstops when the condition is no longer true, and an until loop executes until thecondition is true.

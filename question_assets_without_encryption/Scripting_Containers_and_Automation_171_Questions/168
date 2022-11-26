@@ -1,0 +1,7 @@
+What is the default delimiter used by the cut command?
+A)  Colon
+B)  Tab
+C)  Space
+D)  Comma
+B
+B. The cut command uses Tab as its default delimiter. This can be changed with the- d option.

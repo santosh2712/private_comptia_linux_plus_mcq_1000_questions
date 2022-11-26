@@ -1,0 +1,7 @@
+Within which of the following directories will you find blacklist information for modulesloaded with modprobe?
+A)  /etc/blacklist
+B)  /etc/modprobe.d
+C)  /etc/blacklist.mod
+D)  /etc/modprobe
+B
+B. The /etc/modprobe.d directory is used for storing configuration information relatedto modules such as that used for blacklisting purposes and also for other configurationinformation such as udev and module options.

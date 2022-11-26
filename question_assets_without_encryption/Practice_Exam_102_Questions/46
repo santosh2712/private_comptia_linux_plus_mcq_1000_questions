@@ -1,0 +1,7 @@
+Which option to ping enables the bypass of the routing tables?
+A)  - q
+B)  - r
+C)  - b
+D)  - A
+B
+B. The - r option bypasses the routing tables and enables sending packets directly using aninterface. The - A option is adaptive ping, while - b enables sending pings to a broadcastaddress. The - q option is quiet output.

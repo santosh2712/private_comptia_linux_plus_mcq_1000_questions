@@ -1,0 +1,7 @@
+When working with infrastructure as code, you have received a file with a .yml extension.What is the likely format for the contents of this file?
+A)  YAML
+B)  XML
+C)  Tab- delimited
+D)  Text
+A
+A. A file with a .yml extension usually contains YAML. The question also gave a hint ofinfrastructure as code, where many tools use YAML for configuration and procedures.

@@ -1,0 +1,7 @@
+Which command will find directories with names beginning with 2019 located beneath thecurrent directory?
+A)  find ./ - name "2019"
+B)  find ./ - type d - name "2019"
+C)  find / - type d "2019"
+D)  find ./ - type d - name "2019*"
+D
+D. The - type option causes find to limit its search to directories only, while the - nameoption limits the names of returned elements. Note the use of the wildcard due to thephrasing of the question. Also note the use of ./ to denote beginning the search in thecurrent directory.

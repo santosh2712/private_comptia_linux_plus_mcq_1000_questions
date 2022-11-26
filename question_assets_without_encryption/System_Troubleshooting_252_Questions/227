@@ -1,0 +1,7 @@
+You need to determine the score at which a process will be killed by the out- of- memorykiller. Which file can be examined to determine the current setting for that process?
+A)  oom_score
+B)  oom_setting
+C)  outofmem_num
+D)  ooe- l
+A
+A. The oom_score file, found in /proc/<pid>/, contains the number at which the pro-cess will be considered within the out- of- memory killer process. A higher number meansthat there is an increased chance of the process being killed.

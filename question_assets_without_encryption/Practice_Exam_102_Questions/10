@@ -1,0 +1,7 @@
+Which escape characters represent a carriage return and newline in Bash?
+A)  \enter
+B)  \r\n
+C)  \n
+D)  \c\n
+B
+B. The \r escape sequence is a carriage return, and \n is newline. The \c sequence invokes acontrol character and is not related to this question.Chapter 5: Practice Exam247

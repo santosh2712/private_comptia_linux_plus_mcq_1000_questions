@@ -1,0 +1,7 @@
+Which of the following configuration lines in /etc/nsswitch.conf causes a lookup for groupinformation to first use local files and then use LDAP?
+A)  group: files ldap
+B)  lookup: group [local ldap]
+C)  group: [local ldap]
+D)  group: localfiles ldap
+A
+A. The syntax is database: <databasename> with additional database names separatedby spaces, as shown in the correct option for this question.Chapter 1: System Management (Domain 1.0)181

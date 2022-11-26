@@ -1,0 +1,7 @@
+Which type can be used with the dig command to test a zone transfer?
+A)  xfr
+B)  transfer
+C)  zxfr
+D)  axfr
+D
+D. The axfr type can be used with dig to request a zone transfer. The client from whichyou request the zone transfer will need to be authorized to initiate a transfer.

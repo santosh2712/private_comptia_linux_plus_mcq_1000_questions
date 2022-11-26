@@ -1,0 +1,7 @@
+Which option to tcpdump displays a list of available interfaces on which tcpdumpcan operate?
+A)  - a
+B)  - d
+C)  - D
+D)  - i
+C
+C. The - D option lists the interfaces on a given computer. The - d option dumps compiledmatching code, and - i selects an interface. There is no - a option.

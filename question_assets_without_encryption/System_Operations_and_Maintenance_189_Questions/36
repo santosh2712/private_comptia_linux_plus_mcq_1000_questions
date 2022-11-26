@@ -1,0 +1,7 @@
+Which option to chgrp will change group ownership of all files within a given directory?
+A)  - directory
+B)  - d
+C)  - R
+D)  - V
+C
+C. The - R option sets the recursive option, which means chgrp will traverse the given directoryand perform the group ownership change operation throughout the specified hierarchy.

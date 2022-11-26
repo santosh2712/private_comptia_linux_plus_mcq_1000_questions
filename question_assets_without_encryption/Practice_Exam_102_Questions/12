@@ -1,0 +1,7 @@
+Which file contains a list of keys that will be accepted for authentication for a given user?
+A)  ~/ssh/keys
+B)  ~/.ssh/pubkeys
+C)  ~/.ssh/keyauth
+D)  ~/.ssh/authorized_keys
+D
+D. The file authorized_keys contains keys that can be used for authentication when thecorresponding private key is sent by the client. The other files are not valid.

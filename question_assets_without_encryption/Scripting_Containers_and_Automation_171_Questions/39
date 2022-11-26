@@ -1,0 +1,7 @@
+Which test within a shell script while loop will examine one value to see if it is lessthan another?
+A)  - less
+B)  - lessThan
+C)  - lt
+D)  - lthan
+C
+C. The - lt operator is used to test for "less than" conditions within a script. The otheroperators are not valid for use in a shell script.

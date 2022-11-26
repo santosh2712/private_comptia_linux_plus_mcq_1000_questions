@@ -1,0 +1,7 @@
+Which configuration option is used within a systemd unit file to configure how to handlean out- of- memory killer?
+A)  OOMSetting=
+B)  OOM=
+C)  OOMPolicy=
+D)  OOMSignal=
+C
+C. Out- of- memory configuration is controlled by OOMPolicy within a service file or canbe set to a default value in a systemd configuration file. The other options are not valid.

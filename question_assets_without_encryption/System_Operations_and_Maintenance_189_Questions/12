@@ -1,0 +1,7 @@
+Which option to the restorecon utility can be used to view the current contexts withoutmaking changes?
+A)  - n
+B)  - r
+C)  - g
+D)  - p
+A
+A. The - n option to restorecon shows current contexts without changing them. Of theother options that are valid, - r changes recursively, and - p shows progress.

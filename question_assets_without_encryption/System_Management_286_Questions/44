@@ -1,0 +1,7 @@
+Which of the following is the location in which kernel modules are stored?
+A)  /usr/modules
+B)  /modules
+C)  /usr/lib/modules/{kernel- version}
+D)  /usr/modules/{kernel- version}
+C
+C. Modules are stored in /usr/lib/modules/{kernel- version}.

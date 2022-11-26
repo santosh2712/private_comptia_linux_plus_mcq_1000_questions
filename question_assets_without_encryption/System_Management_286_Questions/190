@@ -1,0 +1,7 @@
+Assuming a block storage device used for virtualization of sda, which file can be used toview the number of read I/O requests for the device?
+A)  /proc/sys/sda
+B)  /proc/sys/sda/stat
+C)  /sys/block/sda/stat
+D)  /sys/disk/sda/stat
+C
+C. The file /sys/block/sda/stat contains information about the sda device.The /sys/block hierarchy contains information about block devices on the system.

@@ -1,0 +1,7 @@
+Which file within /etc/systemd/resolved.conf.d/ can be used to configure customDNS servers on a system that uses systemd- resolved for name resolution?
+A)  dns_servers.conf
+B)  resolverd.conf
+C)  nss.conf
+D)  dns.conf
+A
+A. The dns_servers.conf file configures the DNS servers that will be used. The otheroptions shown are not valid files.

@@ -1,0 +1,7 @@
+When running the ps command you notice that a process has a Z in the state field. Whatdoes Z represent?
+A)  Sleeping
+B)  Running
+C)  Stopped
+D)  Zombie
+D
+D. A process in Zombie state will have a state of Z in the output for ps. The other statesshown are valid process states but not with Z in the output for ps.

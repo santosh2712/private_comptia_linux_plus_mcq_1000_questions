@@ -1,0 +1,7 @@
+Within which directory should you place files in order for the files to be copied to a usershome directory when the user is created?
+A)  /etc/skel
+B)  /etc/homedir
+C)  /home/usertemplate
+D)  /etc/template
+A
+A. The /etc/skel directory contains files that are automatically copied to a users homedirectory when that user is created. The other directories listed for this question do not existby default.Chapter 5: Practice Exam243

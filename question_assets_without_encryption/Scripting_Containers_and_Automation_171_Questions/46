@@ -1,0 +1,7 @@
+Which environment variable is used when changing directory with the tilde character,such as cd ~ ?
+A)  HOMEDIR
+B)  HOMEPATH
+C)  HOME
+D)  MAILPATH
+C
+C. The HOME environment variable, set automatically to the users home directory, is con-sulted when the command cd ~ is entered. The other paths beginning with HOME do notChapter 3: Scripting, Containers, and Automation (Domain 3.0)217exist by default, and the MAILPATH environment variable shown contains a list of locationswhere mail is checked when the shell is used interactively.

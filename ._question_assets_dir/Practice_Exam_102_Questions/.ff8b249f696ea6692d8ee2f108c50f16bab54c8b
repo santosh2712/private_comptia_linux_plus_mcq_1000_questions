@@ -1,0 +1,7 @@
+When using ss to determine listening sockets, you need to turn off name resolution. Whichoption should be passed to ss in order to disable name resolution?
+A)  - n
+B)  - x
+C)  - a
+D)  - r
+A
+A. The - n option disables name resolution, including hostnames and service names. Theother options shown are not relevant flags for this purpose.248Appendix  Answers to the Review Questions

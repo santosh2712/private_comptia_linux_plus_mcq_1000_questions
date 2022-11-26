@@ -1,0 +1,7 @@
+Which of the following commands generates a GnuPG key pair?
+A)  gpg - - gen- key
+B)  gpg - - key
+C)  gpg - - send- key
+D)  gpg - - create- key
+A
+A. The - - gen- key subcommand is used for the purpose described and will generate a self-signed private and public key pair in a PKI scenario. The other options shown do not exist.

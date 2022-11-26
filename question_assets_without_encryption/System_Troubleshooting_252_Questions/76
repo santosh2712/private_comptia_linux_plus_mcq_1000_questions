@@ -1,0 +1,7 @@
+Using vmstat to examine the run queues on a single processor system with four coresreveals that there are six jobs in 'r' status. Which of the following describes the currentsituation?
+A)  There are four jobs running and two waiting in the run queue.
+B)  There are six jobs running.
+C)  There is one job running and there are five in the run queue.
+D)  The 'r' column describes regulated processes and not the run queue.
+A
+A. Each processor core can run a job, meaning that there are four available run queues onthe system described in this scenario. Four of the six processes are therefore running whiletwo are waiting in the run queue. Presence of high run queues can mean that additional pro-cessors are needed or that applications should be changed to utilize existing resources moreefficiently.

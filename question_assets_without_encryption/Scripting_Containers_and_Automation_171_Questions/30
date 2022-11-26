@@ -1,0 +1,7 @@
+When cloud- init is used for bootstrapping and deployment of an EC2 instance, whichfile format should be used for the configuration files?
+A)  XML
+B)  YAML
+C)  HTML
+D)  JS
+B
+B. The YAML format is used for configuration files that will be used with cloud- init.XML and the other formats listed are not used for cloud- init.

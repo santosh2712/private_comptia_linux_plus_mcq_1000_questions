@@ -1,0 +1,7 @@
+Which option to the ping command shows latency rather than round- trip time?
+A)  - L
+B)  - i
+C)  - U
+D)  - d
+C
+C. The - U option shows latency. Of the other options, - d is used for debugging, - L sup-presses multicast loopback packets, and - i sets the interval between packets.

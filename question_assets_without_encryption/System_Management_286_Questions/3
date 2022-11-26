@@ -1,0 +1,7 @@
+Which target for make, typically included in the makefile for most projects, will placecompiled files into their final destination and perform other operations such as making theappropriate files executable?
+A)  list
+B)  distclean
+C)  run
+D)  install
+D
+D. The install target installs the final compiled files in their appropriate location andmakes them executable, if applicable. Of the other options, distclean is sometimesincluded as a target to return source files to their pristine state. The other targets listed arenot valid.

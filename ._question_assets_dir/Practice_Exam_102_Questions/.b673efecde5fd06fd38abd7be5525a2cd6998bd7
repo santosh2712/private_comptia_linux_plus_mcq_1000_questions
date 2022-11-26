@@ -1,0 +1,7 @@
+When creating MX records for a zone, which of the following is the highest- priority mailexchanger?
+A)  0
+B)  10
+C)  20
+D)  100
+A
+A. The lowest- priority number wins for MX records, thereby making 0 the highest- priorityMX record for the domain.

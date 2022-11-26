@@ -1,0 +1,7 @@
+Which command is used to read and execute commands from a file in the Bash shell?
+A)  run
+B)  execute
+C)  source
+D)  func
+C
+C. The source command is used to execute commands from a file. A typical use case is tocreate functions or variables that are then available for use within the current session. Theother commands listed do not exist.216Appendix  Answers to the Review Questions

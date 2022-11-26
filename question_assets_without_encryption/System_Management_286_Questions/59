@@ -1,0 +1,7 @@
+Information about logical volumes can be found in which of the following directories?
+A)  /dev/lvinfo
+B)  /dev/map
+C)  /dev/mapper
+D)  /dev/lvmap
+C
+C. The /dev/mapper directory contains information about multipath devices such aslogical volumes. The other directories are not valid.

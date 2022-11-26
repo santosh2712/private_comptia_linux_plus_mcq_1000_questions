@@ -1,0 +1,7 @@
+You need to prevent local clients from going to a certain host, www.example.com, and insteadredirect them to localhost. Which of the following is a method to override DNS lookups forthe specified host?
+A)  Add a firewall entry for the IP address of www.example.com to prevent traffic frompassing through it.
+B)  Delete www.example.com from the route table using the route command.
+C)  Add a null route to prevent access to the IP address for www.example.com.
+D)  Add an entry for www.example.com in /etc/hosts to point to 0.0.1.
+D
+D. The best option for this question is to add an entry for the host in /etc/hosts. Doingso will always cause DNS queries to resolve to 127.0.0.1. The other options are not as robustbecause they rely on www.example.com always having the same IP address, or the solutionsrequire additional maintenance to constantly add new IP addresses if www.example.coms IP address changes.

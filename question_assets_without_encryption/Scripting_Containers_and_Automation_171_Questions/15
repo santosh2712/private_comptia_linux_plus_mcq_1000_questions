@@ -1,0 +1,7 @@
+Which of the following characters or character sequences begins a comment in aBash script?
+A)  /backups /bin /boot /dev /dvd /etc /home /imagedata1 /lib /lib64 /lost+found /media /mnt /old_imagedata1 /opt /OutputPoint /proc /root /run /sbin /srv /sys /text /tmp /UploadReport /usr /var /WZ_NANDED_all_nodes_site_status_overview_04-May-22_15_xlsx /WZ_NANDED_all_nodes_site_status_overview_04-May-22_16_06.xlsx
+B)  //
+C)  #
+D)  '
+C
+C. The pound sign (#) is used to indicate that what follows is a comment and will not beexecuted for the remainder of the line. The other options are valid comment styles in otherlanguages but not for a Bash script.

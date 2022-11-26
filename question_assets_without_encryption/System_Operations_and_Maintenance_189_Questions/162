@@ -1,0 +1,7 @@
+You need to execute a command as a specific user. Which of the following commands enablesthis to occur?
+A)  sudo - u
+B)  sudo - U
+C)  sudo - s
+D)  sudo - H
+A
+A. The - u option is correct for this purpose. An uppercase - U option sets the user contextfor listing privileges. The - s option sets the shell, and the - H option sets the home directory.

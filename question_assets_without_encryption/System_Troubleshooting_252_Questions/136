@@ -1,0 +1,7 @@
+When working with a systemd timer, what is the best possible accuracy setting for theAccuracySec= option?
+A)  1m
+B)  1ms
+C)  1s
+D)  1us
+D
+D. A setting of 1us for the AccuracySec= option is the best accuracy setting with a sys-temd timer. The other options are less accurate than 1us.Chapter 5: Practice Exam241

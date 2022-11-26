@@ -1,0 +1,7 @@
+Which of the following dig commands sends the query for example.com directly to the serverat 192.168.2.5 rather than to a locally configured resolver?
+A)  dig example.com @168.2.5
+B)  dig - t 168.2.5 example.com
+C)  dig - s 168.2.5 example.com
+D)  dig server=168.2.5 example.com
+A
+A. The @ symbol is used to indicate a server to which the query will be sent directly. Thiscan be quite useful for troubleshooting resolution problems by sending the query directly toan authoritative name server for the domain. Of the other options, - t sets the type, and theremaining options are not valid.

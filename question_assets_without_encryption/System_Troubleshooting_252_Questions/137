@@ -1,0 +1,7 @@
+You need to increase the performance of process ID 4382 by changing its priority. Which ofthe following commands will accomplish this task?
+A)  renice - 5 - p 4382
+B)  renice 5 - p 4382
+C)  renice 100 4382
+D)  renice 4382 +5
+A
+A. The renice command is used to change priorities. The lower the number, the higherthe priority. The correct syntax is shown in option A. Option B will set the priority lower.Options C and D are invalid syntax.

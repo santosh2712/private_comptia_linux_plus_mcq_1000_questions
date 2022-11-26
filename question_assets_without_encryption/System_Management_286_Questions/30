@@ -1,0 +1,7 @@
+Which of the following commands can be used to restart the CUPS service after a configu-ration change on a server running systemd?
+A)  systemctl restart cups.service
+B)  systemctl restart cups
+C)  systemctl reboot cups.target
+D)  systemctl restart cups.target
+A
+A. The systemctl command is used for controlling services. In this case, restartshould be sent to the CUPS service as denoted by the name cups.service.

@@ -1,0 +1,7 @@
+Which option to the arp command creates a new entry for a given IP address to MACaddress pair?
+A)  - s
+B)  - c
+C)  - d
+D)  - - add
+A
+A. The - s option creates an ARP table entry. The - d option removes an entry. The - c and- - add options do not exist.

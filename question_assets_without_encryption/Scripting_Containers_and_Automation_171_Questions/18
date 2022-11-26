@@ -1,0 +1,7 @@
+Which file- globbing sequence will match all files that begin with an uppercase A or anuppercase F?
+A)  [AF]*
+B)  all_output
+C)  *AF*
+D)  AF*
+A
+A. The scenario requires alternation. Therefore, square brackets will be used to indicatethe beginning of the sequence. After the brackets, a single asterisk indicates a wildcard. Theother options will not work for the scenario described.

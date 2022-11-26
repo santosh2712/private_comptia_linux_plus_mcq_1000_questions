@@ -1,0 +1,7 @@
+Which option to nmap sets the scan to use TCP SYN packets for finding open ports?
+A)  - sS
+B)  - sT
+C)  - sY
+D)  - type SYN
+A
+A. The - s option sets the type of scan and, when followed by an uppercase S, sets the optionto SYN. The T option is a Connect() scan. There is no Y option or - type option for nmap.

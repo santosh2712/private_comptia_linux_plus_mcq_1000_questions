@@ -1,0 +1,7 @@
+Which of the following command lines would monitor a single process called nagios in acontinuous manner?
+A)  top - n 1
+B)  top - p 23
+C)  ps - nagios
+D)  top - p`pidof nagios`
+D
+D. The top command is used to continuously monitor things like CPU and memory usage,and the - p option monitors a single process. By using the runquotes with the pidofcommand, the process ID is provided as input to the - p option. Its worth noting that thisonly works if theres a single instance of the process.

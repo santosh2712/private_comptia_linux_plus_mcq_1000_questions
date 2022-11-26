@@ -1,0 +1,7 @@
+Which option can be set for a systemd mount point in order to cause the boot process tocontinue even if the filesystem cannot be mounted?
+A)  bootcon
+B)  nowait
+C)  nofail
+D)  skip
+C
+C. The nofail option is used to indicate that the boot process should continue even if themount point is not available. The other options are not valid.

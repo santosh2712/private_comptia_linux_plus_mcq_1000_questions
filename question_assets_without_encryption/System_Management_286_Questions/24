@@ -1,0 +1,7 @@
+Which option to resolvectl specifies the protocol?
+A)  - f
+B)  - x
+C)  - p
+D)  - m
+C
+C. The - p option specifies the protocol with the resolvectl package. The other optionsare not valid.

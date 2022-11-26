@@ -1,0 +1,7 @@
+Which command displays network usage in a top- like interface?
+A)  iftop
+B)  iptop
+C)  ptop
+D)  netcap
+A
+A. The iftop command is used to display real- time network usage through an interfacethat is reminiscent of the top command. The other options given are not valid commands.

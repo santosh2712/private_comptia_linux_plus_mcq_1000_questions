@@ -1,0 +1,7 @@
+You are debugging a Bash script written by a different system administrator. Within thescript, you see a command surrounded by backquotes, or `. What will be the result of sur-rounding the command with backquotes?
+A)  The command will execute and send all output to the console.
+B)  The command will not execute.
+C)  The command will execute as if the $() command substitution was used.
+D)  The command will execute and send all output to /dev/null.
+C
+C. Command substitution can be accomplished using backquotes or $(). These twomethods are substantially but not completely equivalent.

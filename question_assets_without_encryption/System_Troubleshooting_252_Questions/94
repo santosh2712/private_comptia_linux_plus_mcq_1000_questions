@@ -1,0 +1,7 @@
+Which option to tune2fs forces the operation to complete in the event of a problem such ascorruption?
+A)  - f
+B)  - m
+C)  - x
+D)  - k
+A
+A. The - f option forces the specified operation to complete and can sometimes be necessaryif there is no other option to fix the issue. However, data loss can occur with this option socare must be taken when using it. The other options shown are not valid.

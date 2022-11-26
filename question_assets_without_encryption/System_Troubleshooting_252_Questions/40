@@ -1,0 +1,7 @@
+When troubleshooting disk usage, which of the following commands is used to determine theamount of disk space used by systemd journal log files?
+A)  journalctl - - disk
+B)  journalctl - du
+C)  journalctl - - disk- usage
+D)  journalctl - ls
+C
+C. The journalctl command is used for this purpose, and the - - disk- usage optiondisplays the disk space used by journal log files, which are typically stored in /var/log/journal.

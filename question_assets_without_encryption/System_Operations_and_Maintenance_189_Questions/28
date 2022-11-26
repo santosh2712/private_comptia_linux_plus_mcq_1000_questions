@@ -1,0 +1,7 @@
+When youre working with PAM, a module that is marked as required has failed. Whichof the following describes what happens to the other modules in that realm?
+A)  Processing stops immediately when a failure of a required module occurs.
+B)  Processing stops after all required modules are processed.
+C)  Processing continues until another required module is encountered.
+D)  Processing continues through other modules but ultimately fails.
+D
+D. When a required module returns a failure, other modules continue to process, but theauthentication ultimately fails. This is done so that logging will occur and other moduleshave had a chance to handle the authentication attempt. If a failure should be immediatewithout processing other modules, then the requisite option should be used insteadof required.

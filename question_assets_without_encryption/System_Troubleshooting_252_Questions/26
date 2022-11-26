@@ -1,0 +1,7 @@
+You are working with a service dependency issue where a service is starting even though itdepends on a different service. The unit file currently lists the dependency with Wants=. Towhat should the Wants= be changed to in order to make the requirement stronger betweenthe two services?
+A)  Needs=
+B)  LoadFirst=
+C)  Verify=
+D)  Requires=
+D
+D. Using Wants= creates a weak dependency between two services, while usingRequires= creates a stronger dependency. The other options shown are not valid unitdependency directives.

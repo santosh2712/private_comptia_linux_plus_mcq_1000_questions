@@ -1,0 +1,7 @@
+When creating a daemon process that will be used on the local server, which of the follow-ing communication methods should be used?
+A)  Localhost/network
+B)  Socket
+C)  Message- passing
+D)  RDP
+B
+B. The program should be created to use local sockets for communication. Socket- basedprograms do not need to incorporate network or protocol information, thus making thempreferred over a network- based program for the purpose described. If the program needednetwork connectivity, then option A would be appropriate. The other options are notappropriate for this scenario.

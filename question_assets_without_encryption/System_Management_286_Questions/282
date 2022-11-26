@@ -1,0 +1,7 @@
+You are having difficulty with an interface on the server, and it is currently down. Assumingthat there is not a hardware failure on the device itself, which command and option canyou use to display information about the interface?
+A)  ifconfig - a
+B)  ifup
+C)  netstat - n
+D)  ifconfig
+A
+A. The ifconfig command will be used for this purpose and requires the addition of the- a option because the adapter is currently down. The ifup command can be used to bringup an interface but does not display information by default. The netstat command dis-plays information about the network but not with the - n option.

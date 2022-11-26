@@ -1,0 +1,7 @@
+Within which directory will you find the repositories used by yum?
+A)  /etc/yum.conf
+B)  /etc/repos
+C)  /etc/yum.conf.d
+D)  /etc/yum.repos.d
+D
+D. Configuration files related to the repositories for yum are located in /etc/yum.repos.d. Of the other options, /etc/yum.conf is a file and not a directory, and theother directories do not exist.

@@ -1,0 +1,7 @@
+Which OpenSSH configuration directive is used to specify the users who will be allowed tolog in using SSH?
+A)  AllowUsers
+B)  PermitUsers
+C)  UsersAllowed
+D)  AllowedUsers
+A
+A. The AllowUsers directive is used to specify users who will be allowed to log in to theserver. The other options shown are not valid.

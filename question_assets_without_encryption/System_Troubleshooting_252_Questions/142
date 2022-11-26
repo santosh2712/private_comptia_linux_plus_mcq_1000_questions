@@ -1,0 +1,7 @@
+Which systemd- related daemon is responsible for name resolution?
+A)  systemd- dns
+B)  systemd- resolver
+C)  systemd- nameservice
+D)  systemd- resolved
+D
+D. The systemd- resolved service is responsible for name resolution on systemd-enabled systems. Troubleshooting for systemd- resolved name resolution follows thesame pattern as that of troubleshooting other systemd services. The other options shownare not valid.

@@ -1,0 +1,7 @@
+Which command can be used as a means to elevate privileges to run a command as root?
+A)  asroot
+B)  elev
+C)  sudo
+D)  runroot
+C
+C. The sudo command can be used to execute a process as root. The other commandsshown are not valid.

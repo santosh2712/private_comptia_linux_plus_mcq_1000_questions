@@ -1,0 +1,7 @@
+Which of the following represents the correct format for the /etc/fstab file?
+A)  <directory> <device> <type> <options>
+B)  <device> <type> <options>
+C)  <device> <type> <options> <directory> <dump> <fsck>
+D)  <device> <directory> <type> <options> <dump> <fsck>
+D
+D. The proper order is the device (UUID or partition) followed by the directory to mountthat device, followed by its type and options, and then the dump and fsck settings.

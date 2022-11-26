@@ -1,0 +1,7 @@
+When configuring PKI on a Red Hat system, which options are available as hashing algo-rithms when RSA is used as a key type?
+A)  SHA256withRSA
+B)  MD4
+C)  SHA2048
+D)  SHAwithEC
+A
+A. When RSA is chosen as the key type, SHA256withRSA is available along withSHA512withRSA. The other answers shown are not valid hashing algorithms with RSA.

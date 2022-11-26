@@ -1,0 +1,7 @@
+Which of the following commands produces output sit sat set?
+A)  echo s{i,a,e}t
+B)  echo s(i,a,e)t
+C)  echo s[i,a,e]t
+D)  echo s/i,a,e/t
+A
+A. Shell expansion, or more accurately, brace expansion, can be used to create the outputshown. The other options will not produce output as shown.

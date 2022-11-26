@@ -1,0 +1,7 @@
+Which character sequence is used to terminate a case statement in a Bash script?
+A)  end
+B)  done
+C)  esac
+D)  caseend
+C
+C. The sequence esac, which is case spelled backward, is used to indicate that a casestatement has ended. Of the other options, the done statement is used for termination ofcertain loops in Bash.

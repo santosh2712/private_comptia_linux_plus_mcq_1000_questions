@@ -1,0 +1,7 @@
+A developer is reporting that their webpage called index.html cannot be viewed on theweb. While re-creating the issue, you receive the error Forbidden in a web browser andyou notice that the files permissions appear as -rw------- on the server. Using thisinformation, which of the following describes the problem and its solution and, ifapplicable, the command to correct this issue?
+A)  The developer did not load the file into the correct location. Move the file with thecommand mv /var/web/
+B)  The file's permissions do not allow the file to be read and the chmod 644 commandwill correct the issue.
+C)  The file does not exist. Have the developer upload the file to the server.
+D)  The file has the wrong extension. Rename the file with ren index.html
+B
+B. Given the Forbidden error and the permissions shown, chmod 644 will change thepermissions to allow the file to be world-readable. Of the other options, the scenario didnot describe the directories; thus there isnt enough information and also the mv commandshown is incomplete. Option C cannot be true based on the scenario showing the permis-sions for the file. Option D might be correct but renaming a file in Linux requires the use ofthe mv command.

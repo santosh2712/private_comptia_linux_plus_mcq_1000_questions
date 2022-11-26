@@ -1,0 +1,7 @@
+You need to declare a variable as part of the environment prior to running a Bash script.Which of the following commands accomplishes this?
+A)  dec
+B)  create
+C)  export
+D)  get
+C
+C. The export command adds a variable to the current environment and is frequently usedfor the scenario described. The other options are not valid commands.

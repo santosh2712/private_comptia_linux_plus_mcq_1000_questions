@@ -1,0 +1,7 @@
+Which of the following commands provides an overview of the current memory usage alongwith swap space and its current utilization?
+A)  mem
+B)  free
+C)  pstat
+D)  swap
+B
+B. The free command shows current memory usage for both RAM and swap space,including total available, current amount used, and current amount free. The other com-mands shown as options do not exist.

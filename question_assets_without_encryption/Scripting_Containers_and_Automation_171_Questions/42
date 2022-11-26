@@ -1,0 +1,7 @@
+Which of the following is most accurate when referring to host networking with virtualiza-tion or containerized applications?
+A)  Host networking is necessary for service communication to the outside world.
+B)  Communication is limited to localhost through inter- process communication.
+C)  Communication will flow through the host network stack.
+D)  Virtualization and containerized applications cannot use host networking.
+C
+C. Host networking typically means that communication will flow through the host net-work stack in virtualization or containerized applications. You may sometimes see host net-working mean that containers can only communicate with the host itself. While option Bwas similar to that, the option referred to communication exclusively through inter- processcommunication, thus making it incorrect.

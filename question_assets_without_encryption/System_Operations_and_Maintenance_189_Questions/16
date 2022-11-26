@@ -1,0 +1,7 @@
+Which of the following describes a key difference between a self- signed certificate and acertificate issued by a trusted certificate authority?
+A)  A self- signed certificate is valid for only 30 days.
+B)  A self- signed certificate will be automatically trusted by clients when attempting toconnect.
+C)  A self- signed certificate will need to be manually trusted by clients when attempting toconnect to a service that uses the certificate.
+D)  There is no practical difference between a self- signed certificate and one issued by a
+C
+C. Self- signed certificates are not automatically trusted by clients when connecting,whereas a list of trusted certificate authorities enables certificates issued by those author-ities to be automatically trusted. Both self- signed certificates and those issued by thirdparties can be valid for any length of time, making option A incorrect.

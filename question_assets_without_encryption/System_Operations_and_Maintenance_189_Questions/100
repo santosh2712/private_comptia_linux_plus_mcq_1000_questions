@@ -1,0 +1,7 @@
+Which option to sestatus shows the context of a file?
+A)  - f
+B)  - v
+C)  - m
+D)  - a
+B
+B. The - v option shows contexts of files listed in /etc/sestatus.conf. The otheroptions are not valid for use with sestatus.

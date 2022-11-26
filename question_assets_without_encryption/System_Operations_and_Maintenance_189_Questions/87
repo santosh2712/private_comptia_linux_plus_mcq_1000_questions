@@ -1,0 +1,7 @@
+Ports below what number are considered to be the well- known ports?
+A)  256
+B)  512
+C)  1024
+D)  65535
+C
+C. Sometimes called privileged ports, well- known ports are considered to be those portsunder 1024. These ports are usually made available by system daemons and system- levelservices and can be disabled if not in use.

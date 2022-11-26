@@ -1,0 +1,7 @@
+While you can use blkid to obtain the UUIDs for filesystems in order to facilitatestorage space monitoring and disk usage, which location on the filesystem also shows thisinformation?
+A)  /dev/diskbyuuid
+B)  /dev/uuid
+C)  /dev/fs/uuid
+D)  /dev/disk/by- uuid
+D
+D. The /dev/disk/by- uuid file shows the UUID of the disks on a system. The otherlocations do not exist.

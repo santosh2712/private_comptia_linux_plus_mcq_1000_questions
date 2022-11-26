@@ -1,0 +1,7 @@
+In a scripting scenario, you need to prevent sudo from prompting for credentials or for anyother reason. Which option to sudo is used to indicate this?
+A)  - n
+B)  - - noprompt
+C)  - i
+D)  - q
+A
+A. The - n option facilitates the scenario described and will exit nonzero rather thanprompting. The - i option sets the login name and is not valid for this scenario. The - q and- - noprompt options do not exist.

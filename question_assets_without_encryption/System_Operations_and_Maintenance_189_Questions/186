@@ -1,0 +1,7 @@
+Which of the following represents an accurate statement about stateless firewalls?
+A)  Stateless firewalls have three zones: internal, external, and DMZ.
+B)  Stateless firewalls are the only type available in Linux.
+C)  Stateless firewalls examine packet headers to connect related packets.
+D)  Stateless firewalls examine source and destination.
+D
+D. A stateless firewall examines only the source and destination and does not inspect ele-ments inside packets. Stateless firewalls are not typically associated with particular zonessuch as internal, external, or DMZ, thus making option A incorrect. Linux has firewallsthat can be configured as stateful, thus making option B incorrect.

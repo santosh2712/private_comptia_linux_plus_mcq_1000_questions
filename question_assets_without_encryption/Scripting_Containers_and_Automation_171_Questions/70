@@ -1,0 +1,7 @@
+Which of the following packages provides orchestration for Linux in an agentless manner?
+A)  Ansible
+B)  Puppet
+C)  Automat
+D)  vid
+A
+A. Ansible is agentless, using SSH and Python for orchestration. Puppet does have an agent-less mode but typically uses agents for orchestration. The others are not valid orchestra-tion packages.

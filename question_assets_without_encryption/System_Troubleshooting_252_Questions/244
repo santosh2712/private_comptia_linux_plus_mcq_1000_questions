@@ -1,0 +1,7 @@
+Assuming that policy routing has been enabled in the kernel, which option to the pingcommand can be used to mark the outgoing request appropriately in order to indicate thatthe packet should be processed according to a particular policy?
+A)  - m
+B)  - a
+C)  - p
+D)  - k
+A
+A. The - m option specifies how the packet should be marked or tagged. The - a option isan audible ping, and - p enables specification of custom padding. There is no - k option.

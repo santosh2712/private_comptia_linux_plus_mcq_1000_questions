@@ -1,0 +1,7 @@
+You are writing a while loop in a Bash script and need to compare two string values. Whichoperator is used for this purpose?
+A)  - ne
+B)  =
+C)  equal
+D)  eq
+B
+B. A single equal sign is used for string comparison in a Bash script. Of the other answers,- ne is valid but is used when comparing integers. The string eq would be an operator if pre-ceded by a single dash, as in - eq. In that case, - eq is used for integer comparison.

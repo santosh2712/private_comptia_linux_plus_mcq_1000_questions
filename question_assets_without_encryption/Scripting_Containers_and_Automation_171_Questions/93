@@ -1,0 +1,7 @@
+Which variable within a Bash script is used to access the first command- line parameter?
+A)  $ARG
+B)  $0
+C)  $1
+D)  $ARG0
+C
+C. The $1 variable is automatically available within Bash scripts and represents the firstcommand- line argument. The $0 variable is the script itself. The other variables listed in thisquestion do not exist by default.

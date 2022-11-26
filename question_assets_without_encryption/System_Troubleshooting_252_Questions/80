@@ -1,0 +1,7 @@
+A device mismatch is reported by pvs. Which command rescans volume groups afterresolving the mismatch?
+A)  pv - scanvl
+B)  vgscan
+C)  rescanvg
+D)  vg - scan
+B
+B. The vgscan command can be used to resolve mismatch issues between volume groupswith LVM. The other commands shown are not valid.

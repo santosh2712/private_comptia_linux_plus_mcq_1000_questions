@@ -1,0 +1,7 @@
+Which command should be used to make changes to the choices made when a Debianpackage was installed?
+A)  dpkg- reconfigure
+B)  dpkg - r
+C)  dpkg reconf
+D)  apt- get reinstall
+A
+A. The dpkg- reconfigure program will cause an already- installed package to be recon-figured or changed. The - r option for dpkg removes a package, thus making option Bincorrect. There is no reconf option for dpkg or reinstall option for apt- get.

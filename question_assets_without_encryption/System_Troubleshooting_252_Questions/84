@@ -1,0 +1,7 @@
+Which command can be used to obtain extended hardware and device information,including information about the motherboard?
+A)  mbhw
+B)  lsmb
+C)  dmidecode
+D)  lsallhw
+C
+C. The dmidecode command shows extended information about hardware and deviceswithin a Linux system. The other options shown are not valid commands.

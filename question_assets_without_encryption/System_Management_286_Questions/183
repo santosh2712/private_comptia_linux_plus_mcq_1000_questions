@@ -1,0 +1,7 @@
+Which background process runs to maintain the list of snap packages available on anUbuntu system?
+A)  snapper
+B)  snapperd
+C)  snapdaemon
+D)  snapd
+D
+D. The snapd process runs in the background and maintains the list of snap packagesavailable.

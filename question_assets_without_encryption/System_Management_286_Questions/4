@@ -1,0 +1,7 @@
+Which option to the mount command will mount all filesystems that are currently availablein /etc/fstab?
+A)  - f
+B)  - d
+C)  - a
+D)  - m
+C
+C. The - a option mounts all filesystems in /etc/fstab that are currently available. Of theother options listed, only the - f option is available, and it is a shortcut to the fake option,which does not do anything except perform a dry run of the mount.

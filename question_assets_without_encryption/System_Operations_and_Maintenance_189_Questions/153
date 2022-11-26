@@ -1,0 +1,7 @@
+When working with nftables to maintain a stateful firewall, which connection state repre-sents a packet or session that has not yet been established?
+A)  new
+B)  unseen
+C)  clear
+D)  conn_new
+A
+A. The new connection state indicates a communication path or session that has not yetbeen established between source and destination. The new connection state was also avail-able in iptables. None of the other options shown are valid connection states in nftables.

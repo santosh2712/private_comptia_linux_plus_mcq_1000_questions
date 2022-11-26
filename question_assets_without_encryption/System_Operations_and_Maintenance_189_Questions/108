@@ -1,0 +1,7 @@
+You need to create a function that will be available each time you log in to the system.Within which file should this function be placed?
+A)  .bash_profile
+B)  .rc
+C)  /etc/profile
+D)  .bash_run
+A
+A. The .bash_profile file, if it exists in your home directory, will be executed on login.Note that placing the function in /etc/profile would technically work, but then thefunction would be available to all users, which is not what the question asked for.198Appendix  Answers to the Review Questions8.

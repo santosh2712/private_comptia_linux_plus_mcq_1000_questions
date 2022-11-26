@@ -1,0 +1,7 @@
+Which of the following encodings provides a multibyte representation of characters?
+A)  ISO- 8859
+B)  UTF- 8
+C)  ISO- L
+D)  UFTMulti
+B
+B. UTF- 8 provides multibyte character encoding and is generally accepted as the standard forencoding moving forward. ISO- 8859 is single- byte encoded. The other answers are not valid.

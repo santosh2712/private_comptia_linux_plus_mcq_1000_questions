@@ -1,0 +1,7 @@
+Which of the following best describes the difference between merging and rebasing in Git?
+A)  Merging reapplies changes from the first commit of the origin master branch to createa new snapshot and commit.
+B)  Rebasing reapplies changes from one branch to the other.
+C)  Merging reapplies changes from one branch to the other.
+D)  Rebasing uses soft links to re- create the merge history.
+B
+B. When performing a rebase with Git, the latest common point between the two branchesis used and then changes from one branch are reapplied, thus making option B the mostaccurate. Rebasing does not use soft links, making option D incorrect. Option A is incorrectbecause the application of changes may or may not come from the origin master branchand may not come from the first commit.

@@ -1,0 +1,7 @@
+You are examining a problem report where a USB disk is no longer available. Whichcommand is used to obtain a list of USB devices?
+A)  usb- list
+B)  lsusb
+C)  ls- usb
+D)  ls - - usb
+B
+B. The lsusb command is used to obtain a basic list of USB devices on a system. The othercommands are not valid. In the case of option D, the ls command is valid, but there is no- - usb option.

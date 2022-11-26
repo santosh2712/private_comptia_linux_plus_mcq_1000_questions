@@ -1,0 +1,7 @@
+You are troubleshooting a systemd mounted filesystem that does not appear to be working.The configuration file, mount- snd.mount, appears to have the correct configuration forboth What= and Where= and other options. The filesystem should be mounting an NFSfilesystem to /var/snd. Which of the following is a likely cause of this issue?
+A)  The configuration file itself needs to be named in a special way, var- snd.mount.
+B)  The dependencies are not set up correctly.
+C)  The systemd journal is corrupt.
+D)  The mount point needs to also be in /etc/fstab.mount.
+A
+A. Systemd requires special naming for filesystems managed through the systemd process.In addition to needing .mount file extensions, the name of the file itself needs to reflect themount point but have dashes. Though there could be other reasons for the filesystem notmounting, making systemd happy is the first issue to address.

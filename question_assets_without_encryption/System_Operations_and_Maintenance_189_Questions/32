@@ -1,0 +1,7 @@
+Which of the following commands displays a listing of who is logged in to the server alongwith the date and time that they logged in?
+A)  whois
+B)  who
+C)  loggedin
+D)  curusers
+B
+B. The who command displays who is currently logged in and the date and time they loggedin. The whois command displays information about domains. The other commands arenot valid.

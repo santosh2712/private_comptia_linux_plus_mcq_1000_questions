@@ -1,0 +1,7 @@
+Which option within a systemd unit file sets the user that a service will run as?
+A)  RunAs=
+B)  User=
+C)  UID=
+D)  ID=
+B
+B. The User= option sets the process to run as the given user. The other options are not valid.

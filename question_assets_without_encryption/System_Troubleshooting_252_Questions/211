@@ -1,0 +1,7 @@
+Which setting disables automatic power state management on an NVMe drive?
+A)  ps_max_latency_us
+B)  apst_ps_latency
+C)  apst_off
+D)  ps_apst_enable
+A
+A. The ps_max_latency_us setting, typically set as part of the GRUB configurationwithin nvme_core, can be used to disable power save functions on an NVMe drive. Theother options shown are not valid configuration options.

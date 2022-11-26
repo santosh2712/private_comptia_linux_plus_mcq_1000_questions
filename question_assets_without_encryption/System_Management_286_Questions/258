@@ -1,0 +1,7 @@
+Which kill signal can be sent in order to restart a process?
+A)  - HUP
+B)  - RESTART
+C)  - 9
+D)  - SIG
+A
+A. Sending - HUP as part of the kill command will restart a process. Of the other options,- 9 will kill the process completely. The other two options do not exist as valid means tokill a process.

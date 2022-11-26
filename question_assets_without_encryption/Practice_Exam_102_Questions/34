@@ -1,0 +1,7 @@
+Which git clone command will clone a repository called portalutils into a directorycalled utils?
+A)  git clone ssh://sourcehost/portalutils - d utils
+B)  git clone ssh://sourcehost:portalutils utils
+C)  git clone ssh://sourcehost/:portalutils utils
+D)  git clone ssh://sourcehost::portalutils - d utils
+B
+B. The git clone command will clone into a different directory if that directory is passedon the command line, as shown in option B. The other options shown are not valid gitclone syntax.

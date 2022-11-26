@@ -1,0 +1,7 @@
+You are using git pull to obtain changes to a shared repository. Which option shouldyou add to git pull in order to prevent autocommit so that you can look at the resultsof the merge first?
+A)  - - pre- merge
+B)  - - no- auto
+C)  - - nc
+D)  - - no- commit
+D
+D. The - - no- commit option should be added to git pull to prevent the merge frombeing automatically committed.

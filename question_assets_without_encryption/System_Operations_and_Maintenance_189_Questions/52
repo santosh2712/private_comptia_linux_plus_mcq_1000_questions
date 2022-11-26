@@ -1,0 +1,7 @@
+When creating a certificate authority server role, which of the following commands generatesa private key for use with SSL and places it into the file /etc/ssl/example.com.private?
+A)  openssl genrsa - out /etc/ssl/example.com.private
+B)  openssl generate- private > /etc/ssl/example.com.private
+C)  openssl genpriv > /etc/ssl/example.com.private
+D)  openssh genkey - out /etc/ssl/example.com.private
+A
+A. The openssl command will be used for this purpose, with the genrsa option. Anoutput file is specified with - out. The other commands containing openssl all contain aninvalid option. The final command is openssh and is not used for this scenario.

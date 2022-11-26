@@ -1,0 +1,7 @@
+Which command will output a new GRUB configuration file and send the output to thecorrect location for booting?
+A)  update- grub
+B)  update- grub boot > /boot/grub.cfg
+C)  grub- rc.d
+D)  grub- boot
+A
+A. The update- grub is an alias or shortcut for the grub- mkconfig - o /boot/grub/grub.cfg command. On some variants of Linux, the update- grub command is known asgrub2- update. The other options are not valid for this purpose. Options C and D are notvalid commands, while option B contains invalid options and an invalid location for thedestination file.

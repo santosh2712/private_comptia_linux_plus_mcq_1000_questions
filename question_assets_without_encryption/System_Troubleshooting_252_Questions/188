@@ -1,0 +1,7 @@
+You are troubleshooting an NFS filesystem that will not unmount. Which option within themount points systemd mount file can be used to force the mount point to be unmounted?
+A)  NFSUmount=
+B)  Timeout=
+C)  Options=
+D)  ForceUnmount=
+D
+D. The ForceUnmount= option is equivalent to passing the - f option to umount andforces the filesystem to be unmounted. The Options= directive is valid but not for thispurpose. The other options shown are not valid.

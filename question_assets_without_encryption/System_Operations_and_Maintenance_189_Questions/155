@@ -1,0 +1,7 @@
+When examining open ports on the server, you see that TCP port 3000 is listed with nocorresponding protocol name, such as smtp, imaps, and so on. In which file would you find alist of port- to- protocol translations that could be customized to add this new port?
+A)  /etc/ports
+B)  /etc/p2p
+C)  /etc/ppp
+D)  /etc/services
+D
+D. The /etc/services file contains standard port- to- protocol information based on thewell- known and assigned ports from IANA. If youd like to provide a custom name for theservice, you can do so by editing this file. There is no /etc/ports or /etc/p2p file bydefault, and /etc/ppp is usually a directory for the point- to- point protocol daemon andrelated services.

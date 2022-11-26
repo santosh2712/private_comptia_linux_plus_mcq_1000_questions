@@ -1,0 +1,7 @@
+Part of the EXT tools, which option to the mke2fs command sets the type of filesystem tobe created?
+A)  - f
+B)  - a
+C)  - t
+D)  - e
+C
+C. The - t option sets the filesystem type as ext2, ext3, or ext4. The mke2fs commandis typically symlinked from /sbin/mkfs.ext2, /sbin/mkfs.ext3, and /sbin/mkfs.ext4. The - f option forces mke2fs to create a filesystem. The - a and - e options donot exist.

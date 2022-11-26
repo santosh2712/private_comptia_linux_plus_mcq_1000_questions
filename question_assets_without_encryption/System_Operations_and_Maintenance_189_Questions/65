@@ -1,0 +1,7 @@
+When working with AppArmor, within which directory are profiles and application permis-sions located?
+A)  /etc/apparmor/
+B)  /etc/apparmor.d/
+C)  /etc/appa.d/
+D)  /etc/armor.d/
+B
+B. The directory /etc/apparmor.d/ is the location in which profiles and applicationpermissions are located.

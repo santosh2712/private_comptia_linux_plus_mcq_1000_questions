@@ -1,0 +1,7 @@
+Which of the following files shows the currently mounted filesystems?
+A)  /etc/fstab
+B)  /proc/mounts
+C)  /fs
+D)  /root/mounts
+B
+B. The /proc/mounts file shows the currently mounted filesystems. The file /etc/fstab is used for mounting filesystems but is not kept up- to- date with filesystem mountsas they change. The other files listed do not exist.

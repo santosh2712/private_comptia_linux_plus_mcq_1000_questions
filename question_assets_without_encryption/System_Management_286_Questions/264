@@ -1,0 +1,7 @@
+Of the following choices, which size would be most appropriate for the /boot partition of aLinux system?
+A)  At least 1 GB.
+B)  Between 100 MB and 200 MB.
+C)  /boot should not be partitioned separately.
+D)  Less than 5 MB.
+A
+A. The recommended /boot partition size has increased and it is now recommended to beat least 1 GB. The used space within /boot will increase as more kernels are added, such asduring an upgrade process. The size should not be set too small because upgrade processescan fail if the partition becomes full.

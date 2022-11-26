@@ -1,0 +1,7 @@
+You would like to change the byte- to- inode ratio on a new filesystem in order to preventinode exhaustion. Which option to mke2fs accomplishes this task?
+A)  - b
+B)  - r
+C)  - i
+D)  - u
+C
+C. The - i option sets the byte- to- inode ratio. The - b option sets the block size, - r sets thefilesystem revision, and there is no - u option for mke2fs.

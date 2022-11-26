@@ -1,0 +1,7 @@
+You need to redirect STDERR from a command into a file to capture the errors. Whichcharacter sequence can be used for this purpose?
+A)  >
+B)  %2>
+C)  2>
+D)  %%>
+C
+C. Redirecting STDERR is accomplished with the character sequence 2>. The plain greater-than sign redirects STDOUT. The other character sequences shown as options are not valid forthe purpose described.

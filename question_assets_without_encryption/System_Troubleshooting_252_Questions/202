@@ -1,0 +1,7 @@
+You are using the route command to view routes. However, name resolution is taking along time and causing delay in the response from the route command. Which option toroute can be added to cause it to not perform name resolution?
+A)  - d
+B)  - e
+C)  - f
+D)  - n
+D
+D. The - n option causes route to use numeric values only, performing no name resolu-tion. This option is useful for the scenario described. The - e option causes the output to bein netstat format. There is no - d or - f option for the route command.

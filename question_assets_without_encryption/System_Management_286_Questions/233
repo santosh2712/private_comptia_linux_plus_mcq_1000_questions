@@ -1,0 +1,7 @@
+Which option to the fsck command causes it to run the check even if the filesystem isapparently marked as clean?
+A)  - f
+B)  - m
+C)  - a
+D)  - c
+A
+A. The - f option forces fsck to run on an otherwise clean filesystem. This can be help-ful for times when you suspect there is an error on the filesystem and need to verify aspart of the troubleshooting process. This can also be helpful to prepare the filesystem forconversion, such as might be the case with a tool like btrfs- convert.

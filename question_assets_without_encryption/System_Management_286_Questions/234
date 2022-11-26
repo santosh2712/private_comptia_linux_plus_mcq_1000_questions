@@ -1,0 +1,7 @@
+How many SCSI devices are supported per bus?
+A)  7 to 15
+B)  2 to 4
+C)  12
+D)  4
+A
+A. SCSI supports 7 to 15 devices per bus, depending on the type of SCSI. The lsscsicommand displays device information.

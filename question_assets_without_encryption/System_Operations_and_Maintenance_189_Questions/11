@@ -1,0 +1,7 @@
+Which option within an SSH server configuration enables authentication using Kerberos?
+A)  UseKerberos
+B)  KerberosAuthentication
+C)  EnableKerberos
+D)  KerberosEnable
+B
+B. KerberosAuthentication is the option within the SSH server configuration thatcontrols whether users can authenticate using Kerberos.

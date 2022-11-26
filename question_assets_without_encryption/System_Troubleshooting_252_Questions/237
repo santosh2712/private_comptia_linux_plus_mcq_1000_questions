@@ -1,0 +1,7 @@
+Which of the following is not used as a private address for internal, non- Internet use?
+A)  16.4.2
+B)  168.40.3
+C)  74.5.244
+D)  236.32.231
+D
+D. Private IP addresses are found within the 10.0.0.0/8, 172.16.0.0/12, and 192.168.0.0/16ranges, thus making an address in the 143 range a public IP.

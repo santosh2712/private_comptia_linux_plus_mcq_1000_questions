@@ -1,0 +1,7 @@
+When youre using lsblk - - discard, which columns should have non zero values toindicate that SSD trim support is enabled?
+A)  DISC- GRAN and DISC- MAX
+B)  TRIM- EN and TRIM- BYTES
+C)  FSTRIM and NUMBYTES
+D)  TRIM- BYTES and FSTRIM
+A
+A. Non zero values for the DISC- GRAN and DISC- MAX columns indicate that trim supportis enabled. The remaining options do not contain valid column names for lsblk output.

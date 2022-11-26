@@ -1,0 +1,7 @@
+Which of the following partial iptables rules allows incoming ICMP traffic?
+A)  - A INPUT - p ICMP - j ACCEPT
+B)  - A IN - P ICMP
+C)  - A INPUT - P ACCEPT- ICMP
+D)  - A IN - P ICMP - j ACCEPT
+A
+A. The INPUT chain will be used. When used with the - A option, it will append a rule tothe chain. The - p option specifies the protocol, ICMP in this case; the - j option specifiesthe target, ACCEPT in this case. The - P option specifies a policy and will not be used forthis scenario.

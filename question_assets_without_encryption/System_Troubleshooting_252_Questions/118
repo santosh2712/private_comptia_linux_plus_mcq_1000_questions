@@ -1,0 +1,7 @@
+You suspect that bandwidth limitations may be preventing large files from transferring in atimely manner. Which of the following commands is used to measure network throughput?
+A)  tp
+B)  iperf
+C)  ith
+D)  ithrough
+B
+B. The iperf command can be used to measure throughput and can be used for trouble-shooting latency issues. The other options are not valid commands.

@@ -1,0 +1,7 @@
+Within a Bash script, you need to run two commands but only run the second command ifthe first fails. Which of the following metacharacters can be used to accomplish this task?
+A)  <>
+B)  &
+C)  & &
+D)  ||
+D
+D. The double- pipe metacharacter executes the right- hand command only if the firstcommand fails. A single ampersand sends the command into the background, thus makingoption B incorrect. The double- ampersand metacharacter executes the second command,but only if the first command succeeds, thus making option C incorrect.

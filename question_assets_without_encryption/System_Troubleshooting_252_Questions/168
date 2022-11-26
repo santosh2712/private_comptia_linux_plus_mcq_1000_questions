@@ -1,0 +1,7 @@
+Due to inode exhaustion, you would like to change the size of inodes on a filesystem. Whichoption to tune2fs can be used for this purpose?
+A)  - I
+B)  - i
+C)  - s
+D)  - v
+A
+A. The - I option changes the inode size. The - i option changes the interval betweenchecks. The - s and - v options are not used.

@@ -1,0 +1,7 @@
+Which of the following real filesystems can be resized using resize2fs?
+A)  nfs
+B)  xfs
+C)  ext3
+D)  cifs
+C
+C. The ext2, ext3, and ext4 filesystems can be resized using resize2fs. Both NFS andCIFS are network filesystems and therefore are not relevant to this question.188Appendix  Answers to the Review Questions

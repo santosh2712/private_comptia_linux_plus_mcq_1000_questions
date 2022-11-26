@@ -1,0 +1,7 @@
+Which of the following commands displays the UID, primary group, and supplementalgroups for a given user?
+A)  id
+B)  getid
+C)  passwd
+D)  chage
+A
+A. The id command shows the username, UID, primary group, and GID along with supple-mental groups. The passwd and chage commands are not used for this purpose. There is nogetid command.

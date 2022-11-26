@@ -1,0 +1,7 @@
+When youre troubleshooting a possible issue with bad blocks on a disk, which option tofsck will report statistics such as CPU time used on completion of the fsck operation?
+A)  - s
+B)  - r
+C)  - l
+D)  - f
+B
+B. The - r option displays a report that includes CPU time and exit status about the just-completed fsck operation. The - f option forces whatever operation is being requested, - sserializes fsck operations, and - l creates an exclusive flock.232Appendix  Answers to the Review Questions

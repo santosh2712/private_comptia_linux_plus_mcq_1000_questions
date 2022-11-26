@@ -1,0 +1,7 @@
+Which option to useradd sets the number of days between password expiration and when theaccount is disabled?
+A)  - n
+B)  - f
+C)  - e
+D)  - g
+B
+B. The - f option sets the days between expiration and disabled for an account. The - goption is used to set the group ID, while - e is used to set the overall expiration date.

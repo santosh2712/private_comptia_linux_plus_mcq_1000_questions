@@ -1,0 +1,7 @@
+SSHFS is an example of which type of filesystem use?
+A)  Attachment
+B)  Disk
+C)  RAID
+D)  FUSE
+D
+D. SSHFS, or Secure Shell Filesystem, is an implementation of FUSE (Filesystem in User-space) because it allows non- privileged users to mount a remote filesystem without needingelevated privileges.

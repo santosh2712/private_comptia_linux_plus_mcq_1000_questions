@@ -1,0 +1,7 @@
+You need to write a script that gathers all the process IDs for all instances of Apacherunning on the system. Which of the following commands will accomplish this task?
+A)  ps auwx | grep apache
+B)  pgrep apache
+C)  processlist apache
+D)  ls - p apache
+B
+B. While the ps auwx command combined with grep will provide information on therunning Apache instances, it will provide much more information than is required or usefulfor this problem. The pgrep command provides only the process IDs and therefore meetsthe criteria presented in the question.

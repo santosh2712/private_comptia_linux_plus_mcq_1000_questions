@@ -1,0 +1,7 @@
+Which runlevel is typically used for single user mode, as indicated in /etc/inittab?
+A)  1
+B)  2
+C)  5
+D)  6
+A
+A. Single- user mode is typically runlevel 1. In runlevel 1, no network services are started, andit is known as rescue.target in systemd. Runlevel 2 has networking but typically not ser-vices. Runlevel 5 is full multiuser with networking, and runlevel 6 is reboot.

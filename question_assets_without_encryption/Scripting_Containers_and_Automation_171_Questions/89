@@ -1,0 +1,7 @@
+You need to create a new empty git repository called repo. Which of the following sequencesaccomplishes this task?
+A)  mkdir repo; cd repo; git init - - bare
+B)  mkdir repo; git init repo/
+C)  git init repo md
+D)  git create repo/
+A
+A. Creating a git repository requires creating the directory, changing the current workingdirectory to the new directory, and then running git init - - bare. The other commandswill not create an empty git repository.

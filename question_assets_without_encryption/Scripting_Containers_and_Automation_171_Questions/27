@@ -1,0 +1,7 @@
+Which option for the wc command prints the number of lines given as input?
+A)  - f
+B)  - a
+C)  - l
+D)  - o
+C
+C. The - l option provides the number of lines given as input. For example, wc - l /etc/passwd would print the number of lines in the /etc/passwd file. The other options givenin this question are not valid for the wc command.

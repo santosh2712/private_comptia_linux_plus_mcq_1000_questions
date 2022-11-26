@@ -1,0 +1,7 @@
+Which of the following options to modprobe will show the dependencies for a module?
+A)  - - show- deps
+B)  - - show- depends
+C)  - - deps
+D)  - - list- depends
+B
+B. The - - show- depends option displays the dependencies for a given module. The otheroptions are not valid for the modprobe command.

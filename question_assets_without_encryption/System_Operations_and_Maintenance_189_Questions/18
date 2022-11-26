@@ -1,0 +1,7 @@
+Which option to chown recursively changes the ownership?
+A)  - f
+B)  - R
+C)  - a
+D)  - m
+B
+B. The - R option will perform the change ownership in a recursive manner.

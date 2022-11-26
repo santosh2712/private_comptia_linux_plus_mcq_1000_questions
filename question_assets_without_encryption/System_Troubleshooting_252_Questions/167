@@ -1,0 +1,7 @@
+Which option for the ping command enables you to choose the interface from which theICMP packets will be generated?
+A)  - i
+B)  - I
+C)  - t
+D)  - a
+B
+B. The - I option enables the choice of interface. A lowercase - i option sets the interval,while - a indicates an audible ping. Finally, - t enables a TTL- based ping only.

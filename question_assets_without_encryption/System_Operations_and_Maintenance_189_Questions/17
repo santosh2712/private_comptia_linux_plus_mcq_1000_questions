@@ -1,0 +1,7 @@
+You are viewing the contents of a directory with the ls command but do not see files thatbegin with a single dot (.). Which option to ls shows those files?
+A)  - a
+B)  - b
+C)  - c
+D)  - d
+A
+A. The - a option shows files and directories that begin with a dot. The other optionsshown are not related to this scenario.

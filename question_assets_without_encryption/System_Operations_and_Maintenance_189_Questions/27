@@ -1,0 +1,7 @@
+You are using chmod in order to change several web- related files so that the web server/public can read them. Which option should you add to the chmod command in order forthe permissions to inherit to other files?
+A)  - R
+B)  - v
+C)  - i
+D)  - M
+A
+A. The - R option is used to indicate recursive behavior. Of the other options, only - v isvalid and provides verbose output.

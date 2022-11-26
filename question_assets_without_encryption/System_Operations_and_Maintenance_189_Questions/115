@@ -1,0 +1,7 @@
+When working with TCP wrappers, which line within the /etc/hosts.deny file will prevent anyhost within the 192.168.1.0/24 network from accessing services that operate from xinetd?
+A)  BLOCK: 168.1.0/24
+B)  REJECT: 168.1.0
+C)  ALL: 168.1.0/255.255.255.0
+D)  NONE: 168.1/255.255.255.0
+C
+C. The syntax to block access to every service uses the ALL keyword followed by the addressor network to which the policy will apply. This is important because you may notice attackscoming from certain IP blocks, and blocking with TCP wrappers provides a fast method foreffective blocking.

@@ -1,0 +1,7 @@
+Which command can be used to indicate a local variable within a Bash script?
+A)  localvar
+B)  ll
+C)  local
+D)  %local%
+C
+C. When executed as part of a function, the local command can be used to create a localvariable in a Bash script.

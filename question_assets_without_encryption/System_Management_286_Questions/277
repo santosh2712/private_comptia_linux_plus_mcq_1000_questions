@@ -1,0 +1,7 @@
+When running mdadm in monitor mode, which option within /etc/mdadm.conf sets thedestination for email if an issue is discovered?
+A)  MAILTO
+B)  MAILADDR
+C)  MAILFROM
+D)  MAILDEST
+B
+B. The MAILADDR option sets the destination address for mail about RAID events that arenoted by mdadm when in monitor mode.

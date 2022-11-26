@@ -1,0 +1,7 @@
+Within which file is the default umask set?
+A)  /etc/profile
+B)  /etc/umask
+C)  /defaults/umask
+D)  /etc/user.defs
+A
+A. The file /etc/profile is where the umask is typically set for most Linuxdistributions. The other files shown do not exist.

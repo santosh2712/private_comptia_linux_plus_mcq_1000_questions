@@ -1,0 +1,7 @@
+You suspect that there is high CPU utilization on the system and need to perform furthertroubleshooting. Which command can be used to determine the current load average alongwith information on the amount of time since the last boot of the system?
+A)  uptime
+B)  sysinfo
+C)  bash
+D)  ls - u
+A
+A. The uptime command shows basic information such as that described along with thenumber of users logged into the system and the current time. The bash command is a shellenvironment, and the ls command will not display the required information.

@@ -1,0 +1,7 @@
+On which port does LDAP over SSL operate?
+A)  Port 53
+B)  Port 389
+C)  Port 636
+D)  Port 443
+C
+C. LDAP over SSL (LDAPS) operates on port 636. Port 53 is used for DNS; port 389 is usedfor normal, non- SSL LDAP; and port 443 is used for HTTP over SSL.

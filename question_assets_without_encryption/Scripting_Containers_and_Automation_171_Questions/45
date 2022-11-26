@@ -1,0 +1,7 @@
+Determining the version of software installed on each client node is an example of collectinginformation for which collection in an automated infrastructure?
+A)  Inventory
+B)  Group
+C)  Procedure
+D)  Build
+A
+A. The inventory of an infrastructure contains things like the version of software installedon clients.

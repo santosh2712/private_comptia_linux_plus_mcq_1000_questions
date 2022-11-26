@@ -1,0 +1,7 @@
+Which of the following commands saves the current set of iptables rules into a file?
+A)  save- iptables
+B)  iptables- create
+C)  iptables- save
+D)  ipt- save
+C
+C. The iptables- save command sends the current iptables rules to STDOUT. Theoutput can be saved to a file and then applied the next time the server is restarted. The othercommands shown are not valid.

@@ -1,0 +1,7 @@
+You need to send output from a command to a log file. Overwriting the contents of the logfile is acceptable. Which of the following characters is used to redirect output in such a wayas to fulfill this scenario?
+A)  |
+B)  <
+C)  >
+D)  &
+C
+C. The greater- than sign is used to redirect output to a file and will overwrite the file if italready exists. The pipe character can be used to chain output but is not considered redirec-tion of output. The less- than sign will redirect input and the ampersand will send a processinto the background.10. A. Creating a git repository requires creating the directory, changing the current working

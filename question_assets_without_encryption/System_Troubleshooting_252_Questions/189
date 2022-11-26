@@ -1,0 +1,7 @@
+Which command is used to format a swap partition?
+A)  fdisk
+B)  mkswap
+C)  formatswap
+D)  format - s
+B
+B. The mkswap command formats a swap partition. The fdisk command is used to createthe partition but not format it. The other two options do not exist.

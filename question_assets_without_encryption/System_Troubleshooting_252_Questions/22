@@ -1,0 +1,7 @@
+Which of the following describes a primary difference between traceroute and tracepath?
+A)  The traceroute command requires root privileges.
+B)  The tracepath command provides the MTU for each hop, whereas traceroute does not.
+C)  The tracepath command cannot be used for tracing a path on an external network.
+D)  The traceroute command is not compatible with IPv
+B
+B. The tracepath command provides the Maximum Transmission Unit (MTU) of thehops, where possible. Both traceroute and tracepath can be used internally or exter-nally, and both provide IPv6 capabilities. Certain options with the traceroute commandcan require root privileges, but not enough information was given in the question for that tohave been the correct answer.

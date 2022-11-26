@@ -1,0 +1,7 @@
+Which of the following commands should be used to edit the /etc/sudoers file?
+A)  Any text editor such as Vi or emacs
+B)  editsudo
+C)  visudo
+D)  visudoers
+C
+C. While any text editor can be used, it is highly recommended to use the visudo commandto edit /etc/sudoers. Using visudo enables syntax checking, which will help preventissues with an invalid configuration causing problems for those who rely on sudo.

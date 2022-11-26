@@ -1,0 +1,7 @@
+Which option to SSH enables the use of a key for authentication?
+A)  - i
+B)  - k
+C)  - f
+D)  - - key
+A
+A. The - i option for SSH is followed by the private key to use for authentication. Doingso implies that the public key is in the authorized_keys file on the remote host. The - koption disables the sending of GSSAPI credentials, while - f is used to request backgroundingof SSH. There is no - - key option.

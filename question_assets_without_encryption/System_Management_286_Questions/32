@@ -1,0 +1,7 @@
+The current hierarchy on the server contains a directory called /usr/local. You need tocreate an additional directory below that called /usr/local/test/october. Whichcommand will accomplish this task?
+A)  mkdir - p /usr/local/test/october
+B)  mkdir /usr/local/test/october
+C)  mkdir - r /usr/local/test/october
+D)  mkdir - f /usr/local/test/october
+A
+A. The - p option will cause mkdir to create additional levels of directories without error.Running mkdir without options will not work in this case. The - r and - f options tomkdir do not exist.

@@ -1,0 +1,7 @@
+You are using a container image for a cloud deployment and are building a stateful applica-tion that must store data between deployments. Which type of storage should be used?
+A)  Ephemeral volume
+B)  Bridged volume
+C)  Container image
+D)  Persistent volume
+D
+D. A persistent volume, sometimes called persistent storage, keeps data between deploy-ments of the virtualized environment. A container image is used for the original boot.

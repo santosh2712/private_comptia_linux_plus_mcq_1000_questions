@@ -1,0 +1,7 @@
+When youre using systemctl to kill a process, what is the default signal sent to a process?
+A)  SIGKILL
+B)  SIGTERM
+C)  SIGINT
+D)  SIGCALL
+B
+B. The SIGTERM signal is the default signal sent with the systemctl kill command.

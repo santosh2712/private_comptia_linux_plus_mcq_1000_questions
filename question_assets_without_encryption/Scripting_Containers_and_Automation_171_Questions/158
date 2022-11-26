@@ -1,0 +1,7 @@
+Which of the following commands displays the status of a pod on a Kubernetes cluster?
+A)  kubectl status
+B)  kubectl pod status
+C)  kubectl status pods
+D)  kubectl get pod
+D
+D. The kubectl get pod command displays status of a given pod within a cluster. Theother answers shown are not valid.

@@ -1,0 +1,7 @@
+A newly added SATA disk is not showing up during the boot process. Where can you checkto begin troubleshooting this issue?
+A)  Using system logging
+B)  Using debugfs
+C)  Within the fdisk utility
+D)  Within the computer BIOS or firmware
+D
+D. A logical location to begin troubleshooting is within the system BIOS or firmware toensure that the drive is being detected by the computer.

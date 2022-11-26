@@ -1,0 +1,7 @@
+When youre working with the nftables command to build a web front end, whichoption to nftables prints output in JSON format?
+A)  - j
+B)  - i
+C)  - m
+D)  - s
+A
+A. The - j option returns output in JSON format. Of the other options, - i is used forinteractive command- line interface, - s shows statistics, and there is no - m option.

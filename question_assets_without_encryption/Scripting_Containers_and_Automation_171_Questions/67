@@ -1,0 +1,7 @@
+Which of the following commands can be used to print the contents of the current shellenvironment?
+A)  echoenv
+B)  printenv
+C)  showenv
+D)  envvar
+B
+B. The printenv command can be used to print the contents of the current shell environ-ment such as environment variables. Within the output youll find things like the $SHELLvariable, which specifies the current shell. The other options shown are not valid commands.

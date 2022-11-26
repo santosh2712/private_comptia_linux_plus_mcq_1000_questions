@@ -1,0 +1,7 @@
+When managing a service with a Type=exec setting in its unit file, what needs to happenin order for systemd to mark it as successfully started?
+A)  The process needs to return from its execve() call.
+B)  The process needs to return from its fork() call.
+C)  The process needs to send a signal to systemfork().
+D)  The process needs to send the running() signal to systemctl.
+A
+A. The process needs to return from execve(), meaning that the actual daemon hasstarted successfully. This is a primary difference from the Type=simple configurationwhere only the fork() needs to happen (option B). The other options are not valid.

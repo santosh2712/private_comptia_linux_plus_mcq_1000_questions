@@ -1,0 +1,7 @@
+Which option to the su command is used to obtain the normal login environment?
+A)  - u
+B)  - U
+C)  -
+D)  - login
+C
+C. The - option is the typical option passed to su for login. There is no - u or - U option,and the - login option does not exist. There is a - - login option with two dashes, but thatis not whats shown.

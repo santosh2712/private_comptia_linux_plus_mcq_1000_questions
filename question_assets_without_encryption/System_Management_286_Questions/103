@@ -1,0 +1,7 @@
+Within which directory will you find files related to the time zone for various regions?
+A)  /etc/timezoneinfo
+B)  /etc/zoneinfo
+C)  /var/zoneinfo
+D)  /usr/share/zoneinfo
+D
+D. Within the /usr/share/zoneinfo hierarchy, you will find information on the variousregions and time zones available. The files within this hierarchy can be symlinked to /etc/localtime.

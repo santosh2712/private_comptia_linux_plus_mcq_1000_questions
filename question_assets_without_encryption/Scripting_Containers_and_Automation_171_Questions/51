@@ -1,0 +1,7 @@
+Which option to declare displays output in a way that could then be used as input toanother command?
+A)  - o
+B)  - n
+C)  - p
+D)  - m
+C
+C. The - p option displays declare statements in a way that the commands are fully quali-fied and could then be used as input for another command, through either piping or redirec-tion to a script.

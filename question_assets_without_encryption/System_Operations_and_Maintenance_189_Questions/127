@@ -1,0 +1,7 @@
+When working with digital signatures, after specifying the key server, which option to gpg isused to specify the key to send to the key server?
+A)  key- name
+B)  keyname
+C)  send- key
+D)  sendkey
+C
+C. The send- key option followed by the name of the key sends the key to the key serverspecified by the keyserver option. This is a typical scenario for sending a locally generatedpublic key to a public server for others to use. The other options shown as potential answersdo not exist.

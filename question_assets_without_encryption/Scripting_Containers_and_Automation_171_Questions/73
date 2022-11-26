@@ -1,0 +1,7 @@
+Which of the following commands will obtain the date in seconds since the epoch and placeit into a variable called DATE within a shell script?
+A)  DATE="$(date +%s)"
+B)  DATE="date"
+C)  DATE="$(date)";
+D)  DATE="$date %s"
+A
+A. The provided answer performs command substitution and places the value from theresulting command into a variable. Note the use of +%s formatting on the date, which thenformats the output as seconds since the epoch, as specified in the question. Option C willprovide the date within the DATE variable but will not format it as specified.

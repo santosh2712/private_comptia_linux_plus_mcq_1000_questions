@@ -1,0 +1,7 @@
+Which command is used to automatically load a module and its dependencies?
+A)  modprobe
+B)  lsmod
+C)  insmod
+D)  rmmod
+A
+A. The modprobe command loads the module and its dependencies, if applicable. Thelsmod command is used to list currently loaded modules, making option B incorrect. Theinsmod command will load a given module but not its dependencies. Option D, rmmod, isused to remove a module from memory.4.

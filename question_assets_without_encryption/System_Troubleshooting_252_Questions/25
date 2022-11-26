@@ -1,0 +1,7 @@
+Which of the following commands should be executed after running ip route change?
+A)  ip route flush cache
+B)  ip route reload
+C)  ip route cache reload
+D)  ip route restart
+A
+A. The ip route flush cache command should be executed after changing the routes.The other commands shown for this question are not valid.

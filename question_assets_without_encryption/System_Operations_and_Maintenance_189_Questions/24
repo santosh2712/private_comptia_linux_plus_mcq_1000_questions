@@ -1,0 +1,7 @@
+Which software can be used in connection with iptables in order to more effectivelyblock traffic from entire network ranges?
+A)  ipblock
+B)  ipset
+C)  iplist
+D)  ipcoll
+B
+B. The ipset project and software facilitates more effective rule management by helpingto create sets of IP addresses to which common rules can be applied.

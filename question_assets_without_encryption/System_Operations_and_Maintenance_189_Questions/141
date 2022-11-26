@@ -1,0 +1,7 @@
+Which configuration option in /etc/logrotate.conf will cause the log to be emailed to admin@example.com when the log rotation process runs for the selected log?
+A)  mail admin@example.com
+B)  sendmail admin@example.com
+C)  maillog admin@example.com
+D)  logmail admin@example.com
+A
+A. The mail command will send the log to the specified email address on completionof the logrotate process. The other options shown do not exist as options in /etc/logrotate.conf.

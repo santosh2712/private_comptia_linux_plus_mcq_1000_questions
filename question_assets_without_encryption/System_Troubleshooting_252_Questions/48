@@ -1,0 +1,7 @@
+Which expression is used to define a timer that should be executed every minute with a sys-temd timer?
+A)  permin
+B)  per_min
+C)  minute
+D)  minutely
+D
+D. The minutely expression is used to signify a job that should run once per minute. Theother options are not valid.

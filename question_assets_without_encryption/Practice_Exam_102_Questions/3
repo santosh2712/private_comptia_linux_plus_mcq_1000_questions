@@ -1,0 +1,7 @@
+Which command is used to format a swap partition?
+A)  mkfs - swap
+B)  mkswap
+C)  format - swap
+D)  mksw
+B
+B. The mkswap command is used to format a swap partition. The other commands arenot valid.

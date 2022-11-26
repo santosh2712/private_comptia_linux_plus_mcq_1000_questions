@@ -1,0 +1,7 @@
+You have connected a USB disk to the system and need to find out its connection pointwithin the system. Which of the following is the best method for accomplishing this task?
+A)  Rebooting the system
+B)  Viewing the contents of /var/log/usb.log
+C)  Connecting the drive to a USB port that you know the number of
+D)  Running dmesg and looking for the disk
+D
+D. Of the options presented, running dmesg is a common way to find out the location towhich the kernel has assigned the drive. Rebooting the system is not a good option, althoughit would work. There is no such thing as /var/log/usb.log, and the location of the drivemay change regardless of port, depending on how the drive may be detected in the system.8.

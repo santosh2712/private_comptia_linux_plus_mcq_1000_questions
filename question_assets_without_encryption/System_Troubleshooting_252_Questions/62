@@ -1,0 +1,7 @@
+When youre using journalctl to investigate an issue, which entries are shown first?
+A)  Newest entries are shown first.
+B)  Oldest entries are shown first.
+C)  Failed entries are shown first.
+D)  Smallest entries are shown first.
+B
+B. The oldest entries are shown first when running journalctl, thus making the otheroptions incorrect.

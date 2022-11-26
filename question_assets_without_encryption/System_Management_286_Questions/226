@@ -1,0 +1,7 @@
+Which of the following commands will change the default gateway to 192.168.1.1using eth0?
+A)  ip route default gw 168.1.1
+B)  ip route change default via 168.1.1 dev eth0
+C)  ip route default gw update 168.1.1
+D)  ip route update default 168.1.1 eth0
+B
+B. The ip route command can be used for this purpose, and its syntax uses a changecommand and the via keyword. The same operation could be completed with the routecommand but would require deleting the existing gateway first and then re- adding a newdefault gateway.

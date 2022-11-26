@@ -1,0 +1,7 @@
+A piece of software on client machines that listens for connections and executes commandson behalf of the server in an orchestration is commonly known as which of the following?
+A)  Executor
+B)  Runner
+C)  Agent
+D)  Host
+C
+C. Orchestration software can use an agent, which is described as part of the question, or theorchestration software could also be agentless, not requiring special software to be installedon each client machine.

@@ -1,0 +1,7 @@
+Which of the following lines added to .profile in a users home directory will set theirtime zone to Central time?
+A)  TZ=/Central ; export TZ
+B)  TIMEZONE='America/Chicago' ; export TIMEZONE
+C)  set TZ=/Central
+D)  TZ='America/Chicago'; export TZ
+D
+D. The TZ environment variable is used for this purpose, and the general format is asshown, thus making option D the correct answer.

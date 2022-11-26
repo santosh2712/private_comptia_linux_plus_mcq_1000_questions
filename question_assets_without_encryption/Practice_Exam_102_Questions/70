@@ -1,0 +1,7 @@
+Which of the following syslog facilities captures messages from the lp printing facility?
+A)  auth
+B)  messages
+C)  lpr
+D)  root
+C
+C. The lpr syslog facility sends messages from the lp subsystem to syslog. The auth facilityis used for security- related messages. The other listed options are not syslog facilities.

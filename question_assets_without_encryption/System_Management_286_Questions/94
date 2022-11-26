@@ -1,0 +1,7 @@
+Which of the following commands prevents traffic from reaching the host 192.168.1.3?
+A)  route add - host 168.1.3 reject
+B)  route - nullroute 168.1.3
+C)  route add - null 168.1.3
+D)  route add - block 168.1.3
+A
+A. The route command can be used for this purpose, and in the scenario described, areject destination is used for the route. The other options shown are invalid because theyuse invalid options to the route command.

@@ -1,0 +1,7 @@
+Which command is used to determine the modules on which another module depends?
+A)  modinfo
+B)  modlist
+C)  modprobe
+D)  tracemod
+A
+A. The modinfo command provides information on a given kernel module. You can usemodinfo to find out the parameters needed for a given module and the modules on whichit depends, among other information. The modprobe command is used to load a module.There is no tracemod or modlist command.Chapter 1: System Management (Domain 1.0)183

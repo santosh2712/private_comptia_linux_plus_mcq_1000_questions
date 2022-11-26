@@ -1,0 +1,7 @@
+Which command is used to parse log- file entries on a systemd- based system?
+A)  logger
+B)  journalentry
+C)  jrnctl
+D)  journalctl
+D
+D. The journalctl command is used to view and parse log file entries on systemd- basedsystems that maintain logs in a special format. The logger command can be used to createlog entries, and the other commands shown do not exist.

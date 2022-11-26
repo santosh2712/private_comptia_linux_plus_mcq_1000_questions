@@ -1,0 +1,7 @@
+Which of the following files is used within a git repository in order to indicate files and filepatterns that should not be versioned?
+A)  novers
+B)  .gitignore
+C)  gitignore.txt
+D)  gitnover
+B
+B. The .gitignore file is used to store files that will not be versioned.

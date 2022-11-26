@@ -1,0 +1,7 @@
+You need to echo the name of the script back to the user for usage or help output. Whichpositional parameter can be used for this purpose?
+A)  $me
+B)  $1
+C)  $myname
+D)  $0
+D
+D. The $0 parameter contains the name of the script being called. The other answers do notfulfill the requirements of this scenario.

@@ -1,0 +1,7 @@
+Which type of logging driver is the default for Docker containers?
+A)  json- file
+B)  sql
+C)  normal
+D)  yaml- file
+A
+A. The json- file logging driver is the default logging mechanism for Docker. The otheroptions shown are not valid for Docker logging.

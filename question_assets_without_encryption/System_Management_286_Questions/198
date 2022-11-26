@@ -1,0 +1,7 @@
+Emptying or clearing a block device is sometimes accomplished by writing zeroes to thedevice. Which file is used for this purpose?
+A)  /dev/format
+B)  /dev/go
+C)  /dev/zero
+D)  /tmp
+C
+C. The /dev/zero special file is used as input to the dd command to write zeros or cleara block device. The other options either do not exist or are not used for this purpose.

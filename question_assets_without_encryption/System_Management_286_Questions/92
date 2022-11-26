@@ -1,0 +1,7 @@
+When running with a Unified Extensible Firmware Interface (UEFI) system, to which parti-tion will the EFI system partition typically be mounted?
+A)  /etc/efi
+B)  /efi
+C)  /sys/efi
+D)  /boot/efi
+D
+D. The ESP is typically mounted at /boot/efi.7.

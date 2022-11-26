@@ -1,0 +1,7 @@
+While troubleshooting high latency, you need to collect data on throughput. Which of thefollowing monitoring tools can use SNMP and scripts to collect data for performance- relatedgraphing such as throughput and bandwidth?
+A)  ptop
+B)  pstree
+C)  Cacti
+D)  Grafr
+C
+C. Cacti is a graphing tool that uses scripts for gathering performance data as well as SNMP.The graphs can help to visualize performance of networks and systems alike. The pstreecommand is used to show a tree- like structure of processes.

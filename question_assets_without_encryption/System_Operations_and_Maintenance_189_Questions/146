@@ -1,0 +1,7 @@
+You are attempting to remove a software package from a Debian system. Which commandremoves the package?
+A)  apt- cache remove- update
+B)  apt- cache remove
+C)  apt- get remove
+D)  apt- get delete
+C
+C. The apt- get remove command is used to remove packages from a Debian system.There is no remove- update option or remove option to apt- cache. Likewise, there isno delete option for apt- get.Chapter 2: System Operations and Maintenance (Domain 2.0)209

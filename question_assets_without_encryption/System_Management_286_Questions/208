@@ -1,0 +1,7 @@
+168.51.0/24 through its gateway 192.168.22.1?192.168.1.4?192. Another administrator made a change to one of the local scripts stored in /usr/local/bin and used for administrative purposes. The change was also immediately reflected inthe copy of the script in your home directory. However, when you examine the file with ls,it appears to be a normal file. What is the likely cause of such a scenario?192.168.1.100C.ntp.example.comD. pool.ntp.org
+A)  route add - net 168.51.0 netmask 255.255.255.0 gw 192.168.22.1A. dig example.org @192.168.1.4 axfrA. The file was executed after edit.
+B)  route add - net 168.51/24 gw 192.168.22.51B.dig example.org @192.168.1.4B.The administrator copied the file to yours.
+C)  route - net 168.51.0/24 192.168.22.1C.dig example.org @192.168.1.4 xferC.Your file is a hard link to the original.C.ntp.example.com
+D)  route add 168.51.1 - n 192.168.22.0//255.255.255.0D. dig example.org #192.168.1.4 xferD. The file has been restored from backup.D. pool.ntp.org
+C
+C. The file is almost certainly a hard link to the original script. While ls wont show thisinformation, the stat command will show that it is a link and also show the inode towhich the file is linked.

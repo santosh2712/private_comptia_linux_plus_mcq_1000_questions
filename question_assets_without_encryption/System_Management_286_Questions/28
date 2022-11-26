@@ -1,0 +1,7 @@
+One of your customers needs to transfer a large file and is asking for FTP to be enabled onthe server. Thinking of security, what options can you offer that are more secure?
+A)  USB
+B)  Email (SMTP)
+C)  SSL
+D)  SFTP
+D
+D. SFTP would be the preferred option because it provides additional security over legacyFTP. In general terms, FTP usually should be disabled because credentials and other trafficare not encrypted. Among the other options, email (SMTP) offers no encryption, and SSLby itself does not transfer files. Because the scenario did not include details of whether thetransfer was over a long distance, it is difficult to tell whether USB would be appropriate.However, the use of a USB device is frequently discouraged on servers because it can beanother attack vector.

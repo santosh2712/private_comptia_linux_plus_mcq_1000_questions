@@ -1,0 +1,7 @@
+Which signal number corresponds to SIGKILL?
+A)  1
+B)  5
+C)  9
+D)  12
+C
+C. SIGKILL corresponds with signal number 9. The other numbers shown are valid signalnumbers but are not SIGKILL.

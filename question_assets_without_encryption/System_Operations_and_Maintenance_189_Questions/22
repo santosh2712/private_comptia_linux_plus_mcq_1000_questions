@@ -1,0 +1,7 @@
+You need to provide a special username and other parameters related to a specific host towhich you connect using SSH. To which file should you add this information?
+A)  ~/.ssh/hosts
+B)  ~/.ssh/known_hosts
+C)  ~/.ssh/config
+D)  ~/.ssh/hostconfig
+C
+C. The file ~/.ssh/config is the appropriate location for this type of configurationinformation. Of the other answers, only ~/.ssh/known_hosts exists and containspublic key information for hosts to which you have connected.

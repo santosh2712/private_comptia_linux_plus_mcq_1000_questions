@@ -1,0 +1,7 @@
+Which flag should be found within /proc/cpuinfo in order to determine if a host can beconfigured with hypervisor support?
+A)  rob
+B)  vmx
+C)  run
+D)  dmc
+B
+B. The vmx flag is an indication that hypervisors will be supported on the host. The otheroptions shown are not relevant flags for this purpose.

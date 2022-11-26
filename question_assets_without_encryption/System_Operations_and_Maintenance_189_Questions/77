@@ -1,0 +1,7 @@
+Assuming that you own and operate the domain example.com, when viewing additionaldetails about an SSL certificate, the valid hosts are shown as *.example.com. Based onthis information, what can you tell about this certificate?
+A)  It is a wildcard certificate.
+B)  It is a self- signed certificate.
+C)  It is invalid for example.com.
+D)  It uses an invalid hostname.
+A
+A. The presence of an asterisk within the name *.example.com indicates that this isa wildcard certificate. While the certificate may be self- signed, there is not enough detailwithin the given information to determine the chain of trust. An asterisk is not a valid host-name for DNS but is valid to indicate a wildcard certificate.

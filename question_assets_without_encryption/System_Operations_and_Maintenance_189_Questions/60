@@ -1,0 +1,7 @@
+Which option to the firewall- cmd command sets the current runtime configuration tobe available on next reboot of the computer?
+A)  - - set- perm
+B)  - - make- perm
+C)  - - runtime- to- permanent
+D)  - - current- to- persistent
+C
+C. The - - runtime- to- permanent option sets the current runtime configuration tobecome permanent and available on next boot.

@@ -1,0 +1,7 @@
+Which service command is used to shut down a service?
+A)  shutdown
+B)  stop
+C)  norun
+D)  runstop
+B
+B. The stop command, when used with the service command, causes a given serviceto shut down. The service can be started again with the service start command. Theother options shown are not valid commands to use with the service command.

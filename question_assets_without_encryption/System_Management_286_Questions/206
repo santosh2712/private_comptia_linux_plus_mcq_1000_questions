@@ -1,0 +1,7 @@
+Which command can be used to view the available time zones on a system?
+A)  tzd
+B)  /etc/locale
+C)  timedatectl
+D)  tzsel
+C
+C. The timedatectl command includes a list- timezones subcommand to showknown time zones. The tzsel command does not exist, but there is a similar commandcalled tzselect that will, by default, display a step- by- step menu to select a time zone. Theeventual output will include a region/time- zone line, such as America/Chicago, as output.

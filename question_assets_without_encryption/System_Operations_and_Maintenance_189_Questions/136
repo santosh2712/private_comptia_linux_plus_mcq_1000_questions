@@ -1,0 +1,7 @@
+When using LDAP for authentication, what will be logged with the loglevel set to010 in a slapd.conf configuration file?
+A)  No debugging
+B)  Trace debugging
+C)  Stats logging
+D)  Packets sent and received
+D
+D. There are multiple ways to specify log levels and debugging for slapd, including bykeyword, by integer, or, as shown in the question, by hex. All the values shown are valid forloglevel. No debugging is 0, trace is 1, stats logging is 256 or 512 depending on type,and packets sent and received is integer 16 or hex 0x10.

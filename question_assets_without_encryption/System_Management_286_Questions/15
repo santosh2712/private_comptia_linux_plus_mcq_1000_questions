@@ -1,0 +1,7 @@
+Which file contains information about RAID arrays on a Linux system?
+A)  /proc/mdstat
+B)  /raidstat
+C)  /var/raidinfo
+D)  /etc/raid.txt
+A
+A. The file /proc/mdstat displays information regarding the RAID arrays found a system.

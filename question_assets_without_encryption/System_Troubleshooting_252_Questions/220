@@ -1,0 +1,7 @@
+What is the default request size for ioping?
+A)  4 bytes
+B)  4 KB
+C)  512 KB
+D)  1024 KB
+B
+B. The default size for ioping is 4 KB.

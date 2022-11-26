@@ -1,0 +1,7 @@
+Which of the following values for the LANG variable will configure the system to bypasslocale translations where possible?
+A)  LANG=COMPAT
+B)  LANG=NONE
+C)  LANG=C
+D)  LANG=END
+C
+C. Setting LANG=C is an alias for POSIX compatibility and will cause programs to bypasslocale translations. The other options shown for LANG are not valid.

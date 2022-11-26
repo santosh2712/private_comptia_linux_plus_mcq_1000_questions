@@ -1,0 +1,7 @@
+Which command and option are used to set the maximum number of times a filesystem canbe mounted between running fsck?
+A)  tune2fs - c
+B)  dumpe2fs
+C)  tune2fs - m
+D)  setmount
+A
+A. The tune2fs command is used for this purpose, and the - c option sets the mount countfor the specified partition. The dumpe2fs command is used to print the superblock andblock group information.6.

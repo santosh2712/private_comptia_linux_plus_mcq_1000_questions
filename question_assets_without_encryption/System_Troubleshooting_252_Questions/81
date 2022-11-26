@@ -1,0 +1,7 @@
+You have found that a SATA disk within a RAID array has gone bad. Which option tomdadm removes the disk from the RAID array, placing it into a degraded state?
+A)  rm
+B)  fail
+C)  rem
+D)  del
+B
+B. The fail option to mdadm indicates that the disk has failed. The other options shownare not valid.

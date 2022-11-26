@@ -1,0 +1,7 @@
+In order to see more verbose boot messages, which keywords should be removed from thekernel boot line?
+A)  verbose
+B)  quiet splash
+C)  silent
+D)  littleboot
+B
+B. Removing the combination of quiet splash results in additional verbosity beingdisplayed on the console, which is needed for many troubleshooting scenarios. The othertargets shown are not valid.

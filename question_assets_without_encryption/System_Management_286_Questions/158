@@ -1,0 +1,7 @@
+You are performing an xfsrestore. The xfsdump was executed with a block size of 4M.Which option do you need to invoke on xfsrestore in order for it to successfully usethis dump?
+A)  - b 4M
+B)  - g 1M
+C)  - i 1M
+D)  - k 1028K
+A
+A. The block size for import or restore must match the block size used on export or dump.Block size is specified with the - b option, thus making option A correct. The other optionsare not valid for xfsrestore.

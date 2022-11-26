@@ -1,0 +1,7 @@
+On which protocol and port are zone transfer requests sent?
+A)  UDP/53
+B)  ICMP/53
+C)  TCP/143
+D)  TCP/53
+D
+D. DNS typically uses UDP port 53 except for zone transfers, in which case TCP port 53 isused due to the size of the request for most zones.

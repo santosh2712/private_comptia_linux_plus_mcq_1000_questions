@@ -1,0 +1,7 @@
+Which of the following options to xfsdump sets the maximum size for files to be includedin the dump?
+A)  - p
+B)  - s
+C)  - z
+D)  - b
+C
+C. The - z option sets the maximum size for files to be included in the dump. The - boption sets the block size but is not related to what is being asked for in this scenario. The- s option sets the path for inclusion in the dump, and - p sets the interval for progressindicators.

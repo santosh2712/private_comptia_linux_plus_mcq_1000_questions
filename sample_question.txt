@@ -1,0 +1,7 @@
+What is the name of the systemd service that provides logging facilities?
+A)  systemd- journald
+B)  systemd- loggingd
+C)  systemd- syslog
+D)  systemd- logger
+A
+A. The service used for logging on a computer managed by systemd is called systemd-journald. You use journalctl to view logged entries rather than the standardLinux toolset.

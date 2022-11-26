@@ -1,0 +1,7 @@
+Which command can be used to obtain a list of currently loaded kernel modules?
+A)  insmod
+B)  modlist
+C)  ls modules
+D)  lsmod
+D
+D. The lsmod command is used to list currently loaded kernel modules, thereby makingoption D correct for this question. The insmod command (option A) is used to loadmodules. Option C is a valid command but not a valid option for that command, and optionB does not exist.6.

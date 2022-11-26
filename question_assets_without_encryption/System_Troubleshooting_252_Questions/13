@@ -1,0 +1,7 @@
+Which systemctl command needs to be executed after making a change to a systemd-related configuration file?
+A)  systemctl daemon- reload
+B)  systemctl reconfig
+C)  systemctl regen
+D)  systemctl setup
+A
+A. The systemctl daemon- reload command executes the generators that re- createlinks and other systemd- related items. Even after running daemon- reload, you still typi-cally need to restart the service too. The other options are not valid.

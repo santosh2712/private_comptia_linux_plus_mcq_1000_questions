@@ -1,0 +1,7 @@
+When youre working to design a Kubernetes- based application, what is the name for acontainer that acts as a proxy to connect to services outside of the pod?
+A)  ProxyCloud
+B)  Ambassador
+C)  Sideload
+D)  Integration Container
+B
+B. An Ambassador container is a container that acts as a proxy to connect to and provide asingle point of connection through which other containers in the pod communicate. Amongthe other answers, sideload refers to a means to install an application onto a device outsideof the normal app store process.

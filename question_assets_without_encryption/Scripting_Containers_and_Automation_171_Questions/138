@@ -1,0 +1,7 @@
+Assuming that a file has been previously added to a repository with git add, which optionto the git commit command can be used to automatically add and commit the file?
+A)  - a
+B)  - b
+C)  - c
+D)  - d
+A
+A. The - a option, when added to git commit, automatically commits previously knownfiles. The - c option invokes the editor for the commit, and the other options do not exist.

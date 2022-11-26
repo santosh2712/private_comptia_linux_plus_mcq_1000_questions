@@ -1,0 +1,7 @@
+Which of the following commands displays blocks in and blocks out as related to I/O?
+A)  iorpt
+B)  iptraf
+C)  vmswap
+D)  vmstat
+D
+D. The vmstat command is used to display extended information about performance,including blocks in and out. The iptraf command is used to provide network- level moni-toring, and the other two commands listed are not valid.

@@ -1,0 +1,7 @@
+You are watching another administrator perform some work on a server. As part of thatwork, the admin uses the following command:. variables.shWhich of the following is the equivalent of . variables.sh?
+A)  let variables.sh
+B)  set variables.sh
+C)  source variables.sh
+D)  var variables.sh
+C
+C. The source command is the functional equivalent of a single dot (.). The set commandexists but is not used for this purpose. The other commands are not valid.

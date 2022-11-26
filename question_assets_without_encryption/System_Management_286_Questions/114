@@ -1,0 +1,7 @@
+Which of the following commands should you execute after making changes to systemdservice configurations in order for those changes to take effect?
+A)  systemd reload
+B)  reboot
+C)  systemctl daemon- reload
+D)  systemctl reboot
+C
+C. The systemctl command will be used for this purpose, with the daemon- reloadsubcommand. The reboot option would work to reload the systemd configuration but isnot correct because it requires the entire server to reboot, which is not what was asked forin this question.

@@ -1,0 +1,7 @@
+Which target in iptables can be used to log packets that are dropped and can be helpful indetermining the cause of packets being lost or blocked?
+A)  INV
+B)  DEBUG
+C)  LOG
+D)  CHAIN
+C
+C. The LOG target is used to log packets within iptables. The other targets presented asoptions are not valid in iptables.Chapter 4: Troubleshooting (Domain 4.0)239

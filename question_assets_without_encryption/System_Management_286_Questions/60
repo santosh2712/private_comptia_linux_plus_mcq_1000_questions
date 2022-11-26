@@ -1,0 +1,7 @@
+According to the Filesystem Hierarchy Standard (FHS), what is the correct location for add-on application software packages?
+A)  /etc
+B)  /var
+C)  /tmp
+D)  /opt
+D
+D. The /opt hierarchy is used for add- on application software packages. The /etc hier-archy is configuration information, while /var is also data files but variable files such asmail files. The /tmp directory is for temporary files. Because each path begins with a /, it isconsidered an absolute path.

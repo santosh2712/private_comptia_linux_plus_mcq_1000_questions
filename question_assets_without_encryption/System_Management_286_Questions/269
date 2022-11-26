@@ -1,0 +1,7 @@
+Which of the following commands is used to change the keyboard layout settings?
+A)  keybrdctl
+B)  keyctl
+C)  localectl
+D)  localemap
+C
+C. The localectl command is used to view and configure settings such as the keyboardlayout for a given locale. The other commands listed do not exist.

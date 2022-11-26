@@ -1,0 +1,7 @@
+What is the logical order for creation of an LVM logical volume?
+A)  Physical volume creation, volume group creation, logical volume creation
+B)  Physical volume creation, logical volume creation, volume group creation
+C)  Logical volume creation, physical volume creation, volume group creation
+D)  LVM creation, format, partition
+A
+A. Physical volumes are initialized first, followed by volume group creation, and then logicalvolume creation.

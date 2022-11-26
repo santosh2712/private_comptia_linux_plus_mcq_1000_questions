@@ -1,0 +1,7 @@
+A legacy PATA disk is used to boot the system. You recently added an internal DVD driveto the computer, and now the system will no longer boot. What is the most likely cause?
+A)  The BIOS has identified the DVD drive as the first disk, and therefore the system canno longer find the Linux partition(s).
+B)  The hard drive became corrupt when the DVD drive was installed.
+C)  The hot swap option has not been enabled in the BIOS.
+D)  The DVD drive is not detected by the computer and needs to be enabled first in the
+A
+A. With cable select, ATA drives will be detected in the order in which they are plugged inon the cable from the motherboard. Its likely that the drives need to be swapped physicallyon the cable.

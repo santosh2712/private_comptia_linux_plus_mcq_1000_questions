@@ -1,0 +1,7 @@
+Which command is used to remove unused filesystem blocks from thinly provi-sioned storage?
+A)  thintrim
+B)  thtrim
+C)  fstrim
+D)  fsclean
+C
+C. The fstrim command is used to remove blocks that are not in use. The fstrimcommand is frequently used in a SAN configuration to give back unused storage to theSAN. The fstrim command can also be used with solid- state drives for the same purpose.The other commands shown are not valid.

@@ -1,0 +1,7 @@
+Which option for the grub2- mkconfig command sends output to a file instead of STDOUT?
+A)  - stdout
+B)  - - fileout
+C)  - o
+D)  - f
+C
+C. The - o option can be used to specify a destination file to which output will be sentinstead of to STDOUT. The other options listed in this question do not exist.

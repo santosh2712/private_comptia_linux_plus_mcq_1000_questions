@@ -1,0 +1,7 @@
+When using the test built- in with one argument, what will be the return if its argumentis not null?
+A)  false
+B)  true
+C)  unknown
+D)  - 1
+B
+B. The test built- in will return true and can be used to test for the value existence of a var-iable not being null. Note that the behavior of the test built- in differs depending on thenumber of arguments.

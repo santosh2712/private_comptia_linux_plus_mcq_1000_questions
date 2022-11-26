@@ -1,0 +1,7 @@
+Which option to git merge can be used to attempt to roll back a merge that has conflicts?
+A)  - - rollback
+B)  - - abort
+C)  - - rewind
+D)  - - restart
+B
+B. The - - abort option attempts to roll back a problematic merge. The other optionsshown do not exist as options to the git merge command.

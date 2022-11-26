@@ -1,0 +1,7 @@
+Which of the following is the correct syntax to remove the group ID (SGID) bit on adirectory using the chmod command?
+A)  chmod group- sgid directory
+B)  chmod g- s directory
+C)  chmod sgid - r directory
+D)  chmdo - r gs directory
+B
+B. The g- s syntax removes the SGID bit from a directory. The other syntax is incorrectand invalid for chmod.

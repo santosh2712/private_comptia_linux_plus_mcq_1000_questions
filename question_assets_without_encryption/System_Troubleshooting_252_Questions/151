@@ -1,0 +1,7 @@
+You are using a local RAID array and investigating a performance issue. When usingmdadm in monitor mode, which option sets the polling interval?
+A)  - - delay
+B)  - - internal
+C)  - - interval
+D)  - - poll
+A
+A. The - - delay option sets the interval between checks of array health. The argumentvalue is in seconds. The other options shown are not valid.

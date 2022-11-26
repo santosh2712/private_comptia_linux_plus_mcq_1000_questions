@@ -1,0 +1,7 @@
+Which option to useradd will add groups for a user?
+A)  - g
+B)  - x
+C)  - l
+D)  - G
+D
+D. The - G option is a list of supplemental groups to which the user will be added. Alowercase - g option provides the primary GID. The - l option causes the user to not beadded to the lastlog and faillog databases. There is no - x option.

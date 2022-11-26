@@ -1,0 +1,7 @@
+Which subcommand to the virsh command is used to connect to the hypervisor?
+A)  plug
+B)  hypervisorconnect
+C)  conhyper
+D)  connect
+D
+D. The connect subcommand connects to the hypervisor. The other options are not validsubcommands for virsh.

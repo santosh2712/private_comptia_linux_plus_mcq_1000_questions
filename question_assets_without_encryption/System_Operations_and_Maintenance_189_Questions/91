@@ -1,0 +1,7 @@
+Which file is used as the default storage for public keyrings for gpg?
+A)  publickeys.gpg
+B)  pubring.gpg
+C)  public.gpg
+D)  pubkeys.gpg
+B
+B. The file pubring.gpg, found in ~/.gnupg, contains the public keyring.Chapter 2: System Operations and Maintenance (Domain 2.0)203

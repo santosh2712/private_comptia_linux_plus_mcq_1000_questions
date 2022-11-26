@@ -1,0 +1,7 @@
+Which option to the traceroute command will use TCP SYN packets for the path trace?
+A)  - T
+B)  - t
+C)  - s
+D)  - i
+A
+A. The - T option causes traceroute to use TCP packets. This option, whichrequires root privileges, can be helpful for situations where a firewall may be blockingtraceroute traffic. The - i option chooses the interface, while - s chooses the sourceaddress. A lowercase - t option sets the Type of Service (ToS) flag.

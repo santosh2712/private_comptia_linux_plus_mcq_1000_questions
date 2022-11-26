@@ -1,0 +1,7 @@
+Which command within a shell script awaits user input and places that input into a variable?
+A)  exec
+B)  get
+C)  read
+D)  prompt
+C
+C. The read command awaits user input and places that input into the specified variable.The exec command is used to execute commands, and the other options are not valid forthe purpose described.

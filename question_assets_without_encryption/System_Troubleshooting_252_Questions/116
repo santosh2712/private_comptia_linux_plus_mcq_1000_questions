@@ -1,0 +1,7 @@
+Which option changes the amount of time that grub waits before booting into the defaultoperating system?
+A)  wait
+B)  timeout
+C)  waiter
+D)  hold
+B
+B. The timeout setting is used to configure the length of the pause before grub boots intothe default operating system. The other answers are not valid for this purpose.

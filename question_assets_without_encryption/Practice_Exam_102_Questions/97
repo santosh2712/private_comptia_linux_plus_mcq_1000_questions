@@ -1,0 +1,7 @@
+When performing an rsync across devices, you receive errors that file ownership cannotbe preserved, likely due to missing users or groups on the destination system. Whichoption should be removed from the rsync options in order to not preserve user and groupownership?
+A)  - go
+B)  - o
+C)  - no- ownership
+D)  - remove- owners
+A
+A. As specified in the question, you need to remove both group and user ownership, there-fore both - g and - o are needed. The other options are not valid, although you can removeindividual options from an archive process with - - no- g and - - no- o, which would beequivalent to removing the - g and - o options from the command.

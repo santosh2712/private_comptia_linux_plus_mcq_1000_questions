@@ -1,0 +1,7 @@
+You need a command to be executed on logout for all users. Within which file should this beplaced (assume all users are using Bash)?
+A)  ~/.bash_logout
+B)  /etc/bash.bash_logout
+C)  /home/.bash_logout
+D)  /etc/bash_logout
+B
+B. While its true that every user has a .bash_logout, the file exists in their home directoryand therefore can be edited by the user. Therefore, to ensure that the required command isexecuted at logout, the file /etc/bash.bash_logout must be used.

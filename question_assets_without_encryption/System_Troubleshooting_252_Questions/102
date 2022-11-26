@@ -1,0 +1,7 @@
+When troubleshooting potential collisions for a network interface, which option to the ipcommand displays additional information that includes a count of collisions?
+A)  - s
+B)  - c
+C)  - o
+D)  - f
+A
+A. Using the - s option displays statistics including a count of collisions that have occurredfor the interface. Of the other options, - c changes output colors, - o prints all informationon one line, and - f changes the family.

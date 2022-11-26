@@ -1,0 +1,7 @@
+Which command can be run to determine the default priority for processes spawned by thecurrent user?
+A)  prio
+B)  nice
+C)  renice
+D)  defpriority
+B
+B. The nice command, when run without arguments, will output the priority for the cur-rently logged-in user, which is normally 0. The renice command can be used to changethe priority of running processes. The other two commands shown as options for thisquestion do not exist.192Appendix  Answers to the Review Questions

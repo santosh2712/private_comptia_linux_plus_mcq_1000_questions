@@ -1,0 +1,7 @@
+Which of the following can be identified as an initial sector on a disk that storesinformation about the disk partitioning and operating system location?
+A)  Minimal boot record (MBR)
+B)  Master boot record (MBR)
+C)  Init sector
+D)  Master partition table (MPT)
+B
+B. The master boot record, or MBR, is the first sector on a disk and contains informationabout the structure of the disk. If the MBR becomes corrupt, all data on the disk may belost. The other options shown for this question are not valid.

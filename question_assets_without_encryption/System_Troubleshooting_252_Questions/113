@@ -1,0 +1,7 @@
+A local user is having password issues. When local authentication is performed, which fileprovides encrypted password information?
+A)  /etc/passwd
+B)  /etc/shadow
+C)  /etc/encrpass
+D)  /etc/passen
+B
+B. The /etc/shadow file stores encrypted passwords. The /etc/passwd file does notstore encrypted passwords, and the other options are not valid.

@@ -1,0 +1,7 @@
+Which of the following commands displays the contents of the PATH variable in Bash?
+A)  echo PATH
+B)  echo $PATH
+C)  echo $CURPATH
+D)  ext $PATH
+B
+B. The current contents of the PATH variable, or any other shell environment variable, can bedisplayed using the echo command. Variables in Bash use a $ as part of the identifier. There-fore, any option without the $ would not work.

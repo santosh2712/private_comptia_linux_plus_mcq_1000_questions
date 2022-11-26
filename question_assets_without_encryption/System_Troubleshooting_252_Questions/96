@@ -1,0 +1,7 @@
+Which of the following commands provides a command- line interface into NetworkManager?
+A)  nmc
+B)  dmc
+C)  nmcli
+D)  netman
+C
+C. The nmcli command provides a command- line interface into Network Manager. Theother options shown are not valid commands.

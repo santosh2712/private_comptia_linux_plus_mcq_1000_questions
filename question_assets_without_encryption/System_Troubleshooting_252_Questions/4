@@ -1,0 +1,7 @@
+Which option is used to configure how to reload a service using a systemd unit file?
+A)  ExecReload=
+B)  Reload=
+C)  ConfRel=
+D)  ExecRes=
+A
+A. The ExecReload= option is used to configure the command that will be executedwhen the service is reloaded. The other options are not valid.

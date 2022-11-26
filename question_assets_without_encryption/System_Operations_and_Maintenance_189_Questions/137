@@ -1,0 +1,7 @@
+Which of the following commands locks out password- based login for a user but does notprevent other forms of login?
+A)  usermod - L
+B)  userdel - r
+C)  useradd - h
+D)  userlock
+A
+A. The usermod - L command locks an account by placing an ! in the encrypted password.If the user has another means to log in, such as with an SSH key, using usermod - L will notprevent their login. Among the other answers, userdel - r deletes a user and useradd - hdisplays help related to adding a user to the system. There is no userlock command.

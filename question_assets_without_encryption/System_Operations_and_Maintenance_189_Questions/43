@@ -1,0 +1,7 @@
+You are configuring a database service and need to open the default port for MySQL on thefirewall. Which port is the default for MySQL?
+A)  6592
+B)  25
+C)  389
+D)  3306
+D
+D. Port 3306 is the default port for MySQL. Of the other options, 25 is SMTP, and 389 istypically used with LDAP.

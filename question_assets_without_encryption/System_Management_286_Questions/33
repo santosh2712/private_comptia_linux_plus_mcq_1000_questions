@@ -1,0 +1,7 @@
+You need to temporarily prevent users from logging in to the system using SSH or othermeans. Which of the following describes one method for accomplishing this task?
+A)  Run touch /etc/nologin.
+B)  Disable sshd.
+C)  Remove /etc/login.
+D)  Add a shadow file.
+A
+A. If /etc/nologin exists, users will be prevented from logging in to the system. Theroot user can still log in, assuming that root logins are enabled within the SSHconfiguration.Chapter 1: System Management (Domain 1.0)193

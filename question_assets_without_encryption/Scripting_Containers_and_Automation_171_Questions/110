@@ -1,0 +1,7 @@
+You are committing code to a git repository and need to include a message on the commandline. Which option enables this behavior?
+A)  - m
+B)  - h
+C)  - f
+D)  - l
+A
+A. The - m option enables a message to be included in the commit, thereby alleviating theneed to go into an editor to create the commit message. The other options shown do notaccomplish the required task.

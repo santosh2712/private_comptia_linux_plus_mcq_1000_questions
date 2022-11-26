@@ -1,0 +1,7 @@
+On a Debian system, within which directory hierarchy will you find configurationinformation and directories to hold scripts to be run when an interface is brought up ortaken down?
+A)  /etc/netconf
+B)  /etc/netconfig
+C)  /etc/net.conf.d
+D)  /etc/network
+D
+D. The /etc/network directory contains information on network interfaces and containsdirectories that then further contain scripts to be executed when interfaces are brought upor down. The other directories listed do not exist.

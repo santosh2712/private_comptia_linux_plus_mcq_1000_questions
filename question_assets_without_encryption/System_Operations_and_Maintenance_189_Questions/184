@@ -1,0 +1,7 @@
+Which command sends a copy of the public key identity to another server for use with SSH?
+A)  ssh- key
+B)  ssh- copy- key
+C)  ssh- sendkey
+D)  ssh- copy- id
+D
+D. The ssh- copy- id command sends an identity to a remote server that can then be usedfor key- based authentication. The other commands shown are not valid.Chapter 2: System Operations and Maintenance (Domain 2.0)205

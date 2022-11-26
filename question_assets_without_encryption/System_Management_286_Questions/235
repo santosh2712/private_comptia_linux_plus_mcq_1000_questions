@@ -1,0 +1,7 @@
+You are troubleshooting a daemon process and have started the daemon manually from thecommand line so that it does not fork into the background. Which key combination can beused to terminate the daemon?
+A)  Ctrl+A
+B)  Ctrl+B
+C)  Ctrl+C
+D)  Ctrl+D
+C
+C. The Ctrl+C key combination terminates, or kills, a process in a scenario such as theone described here. The Ctrl+D option is a valid key combination but is used to delete thecharacter underneath the cursor.

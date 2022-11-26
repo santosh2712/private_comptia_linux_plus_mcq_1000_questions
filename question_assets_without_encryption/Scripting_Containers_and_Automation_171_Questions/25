@@ -1,0 +1,7 @@
+Which character sequence displays the number of command- line arguments that were passedto a Bash script?
+A)  $NUM
+B)  $CLA
+C)  $+
+D)  $#
+D
+D. The $# character sequence contains the number of command- line arguments that werepassed to a shell script. The other options shown are not predefined by Bash.

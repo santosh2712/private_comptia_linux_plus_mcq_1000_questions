@@ -1,0 +1,7 @@
+Which of the following conditionals in a Bash script will test if the variable DAY is equalto SUNDAY?
+A)  if ($DAY == "SUNDAY")
+B)  if ($DAY - eq "SUNDAY")
+C)  if [ $DAY == "SUNDAY" ]
+D)  if [ DAY = "SUNDAY" ]
+C
+C. Shell scripting syntax uses the format shown, with square brackets around the conditionto be tested and double equal signs for a string test. Variables are preceded by a dollarsign as shown.218Appendix  Answers to the Review Questions

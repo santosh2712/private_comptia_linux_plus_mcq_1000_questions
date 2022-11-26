@@ -1,0 +1,7 @@
+You need to test SSL connectivity to a web server at www.example.com. Which of the follow-ing commands accomplishes this task?
+A)  rd www.example.com - L
+B)  curSSH https://www.example.com
+C)  openssl https://www.example.com:443
+D)  openssl s_client - connect www.example.com:443
+D
+D. The openssl s_client - connect www.example.com:443 commandaccomplishes the task described. The other commands shown are not valid.

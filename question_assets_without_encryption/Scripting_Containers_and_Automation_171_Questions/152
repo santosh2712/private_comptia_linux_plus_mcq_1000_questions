@@ -1,0 +1,7 @@
+You need to create a Bash script that will loop continually and perform some commandswithin the loop. Which of the following lines will accomplish this task?
+A)  if [ $exit - eq "exit" ]
+B)  while true; do
+C)  for ($i = 0, $i++)
+D)  continue until ($exit)
+B
+B. A while loop that evaluates boolean true will accomplish the task described. The otheroptions given are syntactically incorrect in various ways.

@@ -1,0 +1,7 @@
+Within the SELinux configuration, which option controls whether the policy will be tar-geted or strict?
+A)  SEPOLICY
+B)  SELINUXTYPE
+C)  SETARGET
+D)  SELINUXPOLICY
+B
+B. The SELINUXTYPE option can be set to targeted or strict. With targeted, only specificnetwork daemons are protected.

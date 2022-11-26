@@ -1,0 +1,7 @@
+Which file contains information about the filesystems to mount, their partitions, and theoptions that should be used to mount them?
+A)  /etc/filesystems
+B)  /etc/mounts
+C)  /etc/fstab
+D)  systemd.mount
+C
+C. The /etc/fstab file is used to store information about the filesystems to mount withinthe system. The systemd.mount option refers to the configuration files used by systemdrelated to filesystems.

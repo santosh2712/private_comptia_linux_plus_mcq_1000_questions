@@ -1,0 +1,7 @@
+Which setting should be changed in journald.conf in order to ensure that journal log files arewritten to disk?
+A)  Location=
+B)  Persistence=
+C)  Storage=
+D)  WriteTo=
+C
+C. The Storage= option controls whether journal logs are written to disk, kept in memory,or not kept at all. The other options shown are not valid for journald.conf.

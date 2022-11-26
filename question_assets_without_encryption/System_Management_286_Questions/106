@@ -1,0 +1,7 @@
+Which bootloader can be used to boot from ISO with ISO9660 CD- ROMs?
+A)  ISOLINUX
+B)  EFIBOOT
+C)  ISOFS
+D)  BOOTISO
+A
+A. ISOLINUX provides a means by which CD- ROMs formatted as ISO 9660 can bebooted. Its very common to have live CDs or rescue/recovery CDs that use ISOLINUX forboot. The other bootloaders are not valid for this purpose or dont exist.

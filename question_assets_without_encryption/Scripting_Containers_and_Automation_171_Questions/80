@@ -1,0 +1,7 @@
+You are running a shell script from within your SSH session. Which key combination can beused to terminate the script?
+A)  Ctrl+X
+B)  Ctrl+-
+C)  Ctrl+C
+D)  Ctrl+Esc
+C
+C. The Ctr\l+C key combination kills a shell script that you are running interactively. The otherkey combinations may have an effect but not within this context or for the desired behavior.

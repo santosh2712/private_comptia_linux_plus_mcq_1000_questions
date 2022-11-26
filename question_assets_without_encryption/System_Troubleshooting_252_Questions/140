@@ -1,0 +1,7 @@
+You need to change the startup arguments for a service managed by systemd. Which linewithin the unit file is used for this purpose?
+A)  Command
+B)  ExecStart
+C)  Startup
+D)  StartCmd
+B
+B. The ExecStart configuration option is used to provide the command line of the ser-vice that should be started. The other options shown are not valid.

@@ -1,0 +1,7 @@
+Which PAM module is responsible for enforcing limits such as the maximum number oflogins and CPU time used?
+A)  pam_enforce.so
+B)  pam_limittest.so
+C)  pam_max.so
+D)  pam_limits.so
+D
+D. The pam_limits.so module is responsible for enforcement of limits such as thosementioned in the question as well as several others like the maximum size of files, memoryusage, and so on. The other modules listed are not valid.

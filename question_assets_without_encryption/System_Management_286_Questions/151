@@ -1,0 +1,7 @@
+Which option to the ss command shows the process IDs associated with the socket?
+A)  - l
+B)  - a
+C)  - p
+D)  - f
+C
+C. The - p option shows the process IDs associated with a given socket within the ssoutput. The - a option is all sockets, while - l is listening sockets. The - f option is used tospecify the protocol family.186Appendix  Answers to the Review Questions

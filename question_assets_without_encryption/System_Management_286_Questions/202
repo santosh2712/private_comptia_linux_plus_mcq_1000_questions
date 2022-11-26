@@ -1,0 +1,7 @@
+When working with a Microsoft Windowsbased filesystem, you see that it is mounted as aCIFS mount. What does CIFS stand for?
+A)  Common Information File Sharing
+B)  Common Internet File System
+C)  Cloned Internet File Sharing
+D)  Created In Five Seconds
+B
+B. CIFS is the Common Internet File System and is now considered a legacy filesystem,having been superseded by SMB3. CIFS is an implementation of SMB typically used byolder versions of Microsoft Windows.

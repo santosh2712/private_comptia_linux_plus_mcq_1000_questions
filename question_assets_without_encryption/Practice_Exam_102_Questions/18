@@ -1,0 +1,7 @@
+Which compression method is used for creation of a bzImage?
+A)  zip
+B)  bzip3
+C)  gzip
+D)  Cannot be determined
+D
+D. A bzImage can mean that bzip was used to compress the image but can also meansimply Big zImage and compressed with gzip. bzImage is typically used for kernel imagesthat can go above the 512 K limit that normally applies to a zImage.

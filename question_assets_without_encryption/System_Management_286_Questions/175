@@ -1,0 +1,7 @@
+Which option to both mv and cp will cause the command to prompt before overwritingfiles that already exist?
+A)  - f
+B)  - Z
+C)  - r
+D)  - i
+D
+D. The - i option will cause both cp and mv to be interactive, that is, prompt before over-writing. The - f option will force the command to run, while - r is recursive.Chapter 1: System Management (Domain 1.0)189

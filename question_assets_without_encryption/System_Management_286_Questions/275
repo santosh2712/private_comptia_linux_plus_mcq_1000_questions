@@ -1,0 +1,7 @@
+Which of the following commands will set the systemwide time zone to 'America/Los_Angeles'?
+A)  ln - sf /usr/share/zoneinfo/America/Los_Angeles /etc/localtime
+B)  ln - sf America/Los_Angeles ; /etc/localtime
+C)  ln - sd /etc/localtime /usr/share/timezone/America/Los_Angeles
+D)  ln - sf /etc/localtime /usr/share/zoneinfo/America/Los_Angeles
+A
+A. The ln command is used for this purpose, and the - s option creates a symbolic or softlink, while - f forces or overwrites the destination. The other options and order of commandsare not valid.180Appendix  Answers to the Review Questions

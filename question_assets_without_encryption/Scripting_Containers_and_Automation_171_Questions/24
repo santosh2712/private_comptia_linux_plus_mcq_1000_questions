@@ -1,0 +1,7 @@
+Which of the following character sequences expands or interpolates a variable called VARwithin a Bash script?
+A)  VAR
+B)  $(VAR}
+C)  ${VAR}
+D)  *VAR*
+C
+C. Variable or parameter expansion is accomplished using ${ } wrapped around theparameter name.

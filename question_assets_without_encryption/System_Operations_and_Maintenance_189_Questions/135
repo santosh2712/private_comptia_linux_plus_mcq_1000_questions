@@ -1,0 +1,7 @@
+Which file contains a list of usernames, UIDs, and encrypted passwords?
+A)  /etc/passwd
+B)  /etc/shadow
+C)  /etc/encpass
+D)  /etc/grouppass
+B
+B. The /etc/shadow file contains usernames, UIDs, and encrypted passwords and is notreadable by any non- root user on the system due to the sensitive nature of the encryptedpasswords. The /etc/passwd file contains usernames and UIDs but not encrypted pass-words. The other two files listed for this question do not exist.

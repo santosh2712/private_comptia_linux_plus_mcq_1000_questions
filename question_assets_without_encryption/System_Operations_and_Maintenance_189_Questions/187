@@ -1,0 +1,7 @@
+On which port does the slapd LDAP daemon listen for connections?
+A)  389
+B)  3389
+C)  3306
+D)  110
+A
+A. The standard port for LDAP is 389, and that is the port on which slapd listens for con-nections. Port 3389 is RDP, while 3306 is MySQL. Finally, 110 is POP3.

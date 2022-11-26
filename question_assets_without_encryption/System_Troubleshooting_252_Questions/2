@@ -1,0 +1,7 @@
+You need to examine which services are started at a given <target>. Which command willaccomplish this task?
+A)  systemctl show <target>
+B)  systemctl serdep <target>
+C)  systemctl <target> list- dep
+D)  systemctl list- dep <target>
+A
+A. The systemctl show command is used for this purpose. The output can be furtherrefined through the use of the - p option. The other options shown are not valid forthis purpose.

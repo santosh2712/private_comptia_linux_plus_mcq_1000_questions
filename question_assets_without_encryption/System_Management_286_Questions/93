@@ -1,0 +1,7 @@
+Which network- related tool combines elements of both ping and traceroute?
+A)  tcpdump
+B)  wireshark
+C)  mtr
+D)  nmcli
+C
+C. The mtr command combines elements of both ping and traceroute. Among the othercommands, nmcli is the NetworkManagement manage tool for network. Both tcpdumpand wireshark/tshark are used for monitoring the network.

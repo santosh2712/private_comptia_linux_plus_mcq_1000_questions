@@ -1,0 +1,7 @@
+Which option to umask will display the permissions to be used in a POSIX format?
+A)  - P
+B)  - p
+C)  - S
+D)  - v
+C
+C. The - S option displays output in a format such as u=rwx,g=rx,o=rx. The otheroptions listed do not exist.

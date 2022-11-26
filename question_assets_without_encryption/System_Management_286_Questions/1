@@ -1,0 +1,7 @@
+When configuring a local NTP server role, to what server address can you set the serversNTP client?
+A)  0.0.1
+B)  168.1.100
+C)  ntp.example.com
+D)  pool.ntp.org
+A
+A. Setting your address to 127.0.0.1 will use the localhost interface. Other local NTPclients would contact this server by its normal IP address.

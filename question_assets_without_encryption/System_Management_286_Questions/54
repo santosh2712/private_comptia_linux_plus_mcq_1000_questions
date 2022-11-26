@@ -1,0 +1,7 @@
+You need to extract files from a backup created with an older version of HPUX. The tarcommand does not seem to work for these files. Which of the following may be able toextract from this backup?
+A)  gzip
+B)  bzip2
+C)  cpio
+D)  hpb
+C
+C. The cpio utility can work with various archive formats, one of which is HPUX- createdarchives. The gzip or bzip2 command likely would not be able to open or extract fromthe file; those are typically used for compression and not archival purposes.

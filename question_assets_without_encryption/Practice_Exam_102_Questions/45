@@ -1,0 +1,7 @@
+You are troubleshooting an authentication issue for a user. You believe the system uses localfiles and LDAP for authentication. Which of the following lines in /etc/nsswitch.conf showsthose authentication mechanisms?
+A)  passwd: files ldap
+B)  passwd [files ldap]
+C)  auth: local ldap
+D)  auth: localfiles ldap
+A
+A. Within nsswitch.conf, the passwd line contains information about authentication.The format is as shown in the correct answer. Local authentication is accomplished usingthe files keyword for the normal passwd file. There is typically a similar line calledshadow, assuming that the server is using shadow passwords. The shadow line follows asimilar format.

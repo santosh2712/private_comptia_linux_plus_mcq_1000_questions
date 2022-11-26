@@ -1,0 +1,7 @@
+Which command is used to configure kernel parameters for a new GPU driver added tothe system?
+A)  gpuctl
+B)  gpuload
+C)  sysconfig
+D)  sysctl
+D
+D. The sysctl command can be used for changing parameters within the running kernel.The changes are not saved between reboots, though, and need to be reapplied if the systemis restarted. The other commands shown are not valid.

@@ -1,0 +1,7 @@
+Which command will search for a package named zsh on a Debian system?
+A)  apt- cache search zsh
+B)  apt- get search zsh
+C)  apt- cache locate zsh
+D)  apt- search zsh
+A
+A. The apt- cache command is used to work with the package cache, and the searchoption is used to search the cache for the supplied argument, in this case zsh. Theapt- get command is used to work with packages themselves, while the apt- searchcommand does not exist. The apt.conf file, found either in /etc/apt/ or /etc/,contains several options for how apt behaves.

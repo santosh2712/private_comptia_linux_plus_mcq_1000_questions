@@ -1,0 +1,7 @@
+Which command can be used within the nslookup CLI to change the server to which thequery will be sent?
+A)  dest
+B)  server
+C)  srv
+D)  auth
+B
+B. The server command, when run within the nslookup interface, will set the server towhich the query will be sent. The other options shown are not valid for this purpose.

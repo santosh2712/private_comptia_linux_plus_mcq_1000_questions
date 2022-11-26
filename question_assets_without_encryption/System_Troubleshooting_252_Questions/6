@@ -1,0 +1,7 @@
+Which of the following abbreviations is used to signify system time CPU percentage in theoutput of the top command?
+A)  sys
+B)  us
+C)  sy
+D)  system%
+C
+C. The sy abbreviation in the output of top represents the percentage of CPU time used bythe system. Of the other options, us represents user CPU time. Options A and D are not validfor this scenario.

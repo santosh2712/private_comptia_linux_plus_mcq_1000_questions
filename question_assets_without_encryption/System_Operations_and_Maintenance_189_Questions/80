@@ -1,0 +1,7 @@
+Which of the following configuration options sets a hard limit of 25 processes for a usercalled suehring in /etc/security/limits.conf?
+A)  suehring hard proc 25
+B)  suehring hard nproc 25
+C)  suehring proc 25 hard- limit
+D)  proc 25 suehring hard
+B
+B. The format is username (or other specifier) followed by hard or soft, depending onthe limit type, and then the keyword followed by the value for that given keyword.

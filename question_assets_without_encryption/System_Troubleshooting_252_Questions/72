@@ -1,0 +1,7 @@
+You have backgrounded several tasks using &. Which command can be used to view thecurrent list of running tasks that have been backgrounded?
+A)  procs
+B)  plist
+C)  jobs
+D)  free
+C
+C. The jobs built- in command shows the list of jobs running in the background. Its outputincludes both a job number and the status of the job.

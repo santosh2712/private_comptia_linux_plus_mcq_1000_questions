@@ -1,0 +1,7 @@
+You are using the Vi editor to change a file, and you need to exit. You receive a notice indi-cating No write since last change. Assuming you want to save your work, which of thefollowing commands will save your work and exit Vi?
+A)  :wq
+B)  :q!
+C)  dd
+D)  x
+A
+A. You need to write the changes to the file, so youll need :w. The addition of q will alsoquit. Note that you could use ZZ to write and quit as well. The dd command in Vi deletes aline, while x deletes a single character.

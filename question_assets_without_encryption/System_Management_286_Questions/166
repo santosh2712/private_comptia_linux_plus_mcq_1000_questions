@@ -1,0 +1,7 @@
+Which subcommand with hostnamectl can be used to set the type of machine on whichit is running?
+A)  set- machine
+B)  machine- type
+C)  set- type
+D)  chassis
+D
+D. The chassis subcommand configures the type of machine on which thehostnamectl command is running. This can be useful for certain types of applications.Of the other options, the hostname command can be used to set the hostname. The othercommands shown are not valid.

@@ -1,0 +1,7 @@
+Which configuration option within /etc/login.defs sets the minimum value for auser ID (UID)?
+A)  UID_MIN
+B)  MIN_UID
+C)  USERID_MIN
+D)  UID_MINIMUM
+A
+A. The UID_MIN configuration option defines the lowest value that will be used when cre-ating users. The other configuration options shown are not valid.

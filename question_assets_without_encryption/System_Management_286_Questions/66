@@ -1,0 +1,7 @@
+Which option best describes the following, gathered with the ls - la command?lrwxrwxrwx. 1 root root 35 Jul 8 2014.fetchmailrc - > .configs/fetchmail/.fetchmailrc
+A)  It is a file called .fetchmailrc that is linked using a symbolic link.
+B)  It is a file called .configs/fetchmail/.fetchmailrc that is owned by lrwxrwxrwx.
+C)  It is a directory called .fetchmailrc that is owned by user Jul.
+D)  It is a local directory called .configs/fetchmail/.fetchmailrc.
+A
+A. The listing shows a symbolic linked file created with the ln command located in thecurrent directory, linked to .configs/fetchmail/.fetchmailrc. The file is owned bythe root user and root group and was created on July 8, 2014.

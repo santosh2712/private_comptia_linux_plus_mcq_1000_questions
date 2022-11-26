@@ -1,0 +1,7 @@
+Which command can be used to change the size of a logical volume when using LogicalVolume Manager?
+A)  vgs
+B)  lvresize
+C)  vgcreate
+D)  lvs
+B
+B. The lvresize command changes the size of a logical volume. The other commandsshown are valid Logical Volume Manager commands but do not solve the problem presented.

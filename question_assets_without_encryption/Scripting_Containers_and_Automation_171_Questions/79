@@ -1,0 +1,7 @@
+When using sed for a search and replace operation, which option must be included so thatthe substitution applies to the entire line rather than just the first instance?
+A)  g
+B)  a
+C)  r
+D)  y
+A
+A. The g option, also known as global or greedy, will apply the matched operation tothe entire line rather than just the first instance of the match. The other options apply asthey would for a Perl- Compatible Regular Expression.

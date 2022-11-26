@@ -1,0 +1,7 @@
+Which of the following describes the difference between NAT and bridging in a virtualiza-tion environment?
+A)  NAT uses the host adapter IP address for all network activity, while bridging enablesthe virtual machine to get its own IP.
+B)  NAT enables the virtual machine to get its own IP, while bridging uses the host adapterIP address for all network activity.
+C)  NAT is used to enable external clients to access the virtual machine, and bridging joinstwo virtual machines together.
+D)  NAT and bridging refer to the same thing in virtualization.
+A
+A. Network Address Translation (NAT) effectively hides the virtual machine behind thehost IP address. Bridging enables the virtual machine to get its own IP and thus haveexternal clients access it as well.

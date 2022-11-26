@@ -1,0 +1,7 @@
+You suspect there is a runaway process on the server. Which command can be used to kill anyprocess by using its name?
+A)  killproc
+B)  killname
+C)  killall
+D)  kill - f
+C
+C. The killall command is used to terminate processes using their name.

@@ -1,0 +1,7 @@
+Which option to lscpu produces output in JSON format?
+A)  - J
+B)  - o
+C)  - - output
+D)  - s
+A
+A. The - J option produces output in JSON format. Of the other options, - s is used tochange the sysroot directory. The other options are not valid.

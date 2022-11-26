@@ -1,0 +1,7 @@
+Which of the following commands can be used to connect to a Docker container?
+A)  docker telnet
+B)  docker open
+C)  docker go
+D)  docker attach
+D
+D. The docker attach command can be used to connect to a running container. Noneof the other commands shown are valid for this purpose.

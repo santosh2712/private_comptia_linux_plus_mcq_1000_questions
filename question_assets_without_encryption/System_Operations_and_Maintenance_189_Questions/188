@@ -1,0 +1,7 @@
+Your organization uses ssh- agent for authentication assistance with SSH. Whichcommand can be used to add a private key to ssh- agent?
+A)  ssh- privkey
+B)  ssh- agent- key
+C)  ssh- add
+D)  ssh- addkey
+C
+C. The ssh- add command is used for this purpose. The other commands shown donot exist.206Appendix  Answers to the Review Questions

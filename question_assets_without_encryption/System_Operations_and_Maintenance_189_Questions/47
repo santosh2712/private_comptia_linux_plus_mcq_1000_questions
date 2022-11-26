@@ -1,0 +1,7 @@
+Within which directory are the predefined zones for firewalld?
+A)  /etc/firewalld/
+B)  /usr/lib/firewalld/zones/
+C)  /usr/firewalld/zones/
+D)  /etc/firewall/zones
+B
+B. The directory /usr/lib/firewalld/zones/ contains predefined zones for use withfirewalld. The files are copied to /etc/firewalld/zones/ when modified.

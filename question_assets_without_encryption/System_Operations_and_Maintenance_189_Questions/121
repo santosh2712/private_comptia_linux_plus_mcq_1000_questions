@@ -1,0 +1,7 @@
+After recovering from kernel panic, you would like to look at what might have happened.Which of the following files contains the kernel ring buffer messages?
+A)  /var/log/dmesglog
+B)  /var/log/start.log
+C)  /var/log/kern.log
+D)  /var/log/bootlog.txt
+C
+C. The file /var/log/kern.log contains kernel messages and can be used to trouble-shoot a kernel panic.

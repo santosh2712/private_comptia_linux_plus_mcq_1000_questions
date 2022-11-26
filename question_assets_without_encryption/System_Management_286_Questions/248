@@ -1,0 +1,7 @@
+Which of the following commands can be used to stop a given service, such as httpd.service, from starting on boot with a systemd- based system?
+A)  systemctl disable httpd.service
+B)  systemctl stop httpd.service
+C)  systemd disable httpd.service
+D)  systemd enable httpd.service boot=no
+A
+A. The systemctl command will be used for this purpose, and the subcommand isdisable. There is a stop subcommand, but it will only stop the given service ratherthan prevent it from starting on boot. The other options are invalid for various reasons,including that they use systemd as the command name rather than systemctl.

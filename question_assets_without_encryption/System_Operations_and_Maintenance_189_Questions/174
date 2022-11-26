@@ -1,0 +1,7 @@
+Which of the following commands is used to examine the systemd journal or log file?
+A)  journallist
+B)  ctlj
+C)  journalctl
+D)  jctl
+C
+C. The journalctl command is used to work with the systemd journal. On systemd-based systems, journalctl is a central command for debugging and troubleshooting.

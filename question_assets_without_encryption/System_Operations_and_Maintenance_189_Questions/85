@@ -1,0 +1,7 @@
+When using the net command in an Active Directory single sign- on (SSO) environment,which option enables authentication using Kerberos?
+A)  - b
+B)  - k
+C)  - l
+D)  - a
+B
+B. The - k option enables Kerberos authentication for the net command. The - a optionindicates that non- interactive mode should be used, and - l sets the log directory. There is no- b option.

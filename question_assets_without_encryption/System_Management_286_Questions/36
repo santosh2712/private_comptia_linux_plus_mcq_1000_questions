@@ -1,0 +1,7 @@
+Which file should you edit when using GRUB2 in order to define or set options likethe timeout?
+A)  /etc/default/grub
+B)  /etc/grub/boot
+C)  /etc/boot/grub.d
+D)  /grub.d/boot
+A
+A. The /etc/default/grub file can be used for this purpose. You may also edit /boot/grub/grub.cfg, but this was not an option given for this question.

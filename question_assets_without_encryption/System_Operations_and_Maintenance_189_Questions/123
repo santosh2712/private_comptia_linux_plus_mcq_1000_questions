@@ -1,0 +1,7 @@
+Which of the following PAM modules can be used for authorization and authenticationscenarios using external files?
+A)  pam_fileauth.so
+B)  pam_listfiles.so
+C)  pam_filesauth.so
+D)  pam_fileauth.so
+B
+B. The pam_listfiles.so module is used to create scenarios whereby you can createfiles that control authentication and authorization through the PAM system. The other filesare not valid for the scenario described.

@@ -1,0 +1,7 @@
+You need to change directory one level up from the current directory. Which commandaccomplishes this task?
+A)  cd .
+B)  cd ~
+C)  mv ~
+D)  cd ..
+D
+D. Using cd with .. changes up one level. Using cd with . does not change directory.Using cd with ~ changes to the home directory, and the mv ~ command is incomplete anddoes not work for the scenario provided.

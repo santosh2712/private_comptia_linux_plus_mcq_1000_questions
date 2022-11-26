@@ -1,0 +1,7 @@
+You need to make a change to the configuration of the SSH daemon across your infrastruc-ture. Being able to do so from a central server is an example of which type of automation?
+A)  Security
+B)  Automated configuration management
+C)  Development configuration management
+D)  Usability management
+B
+B. Managing configuration with orchestration is described in this scenario, so option B is theclosest response.

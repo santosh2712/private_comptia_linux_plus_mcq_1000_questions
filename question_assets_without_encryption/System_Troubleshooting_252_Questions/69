@@ -1,0 +1,7 @@
+Which option to sysctl displays all of the available parameters?
+A)  - a
+B)  - b
+C)  - c
+D)  - d
+A
+A. The - a option shows all available parameters. The other options shown are not validwith sysctl.

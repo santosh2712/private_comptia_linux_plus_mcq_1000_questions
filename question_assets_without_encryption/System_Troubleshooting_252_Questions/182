@@ -1,0 +1,7 @@
+You need to send a command- line argument into the command started with ExecStart=within a systemd service file. Which character is used to indicate that a command- lineargument will be passed?
+A)  @
+B)  ^
+C)  >
+D)  $
+A
+A. The @ character prefixed to the command indicates that the first argument after thecommand will be sent as argv[0]. The other options are not valid.

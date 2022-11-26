@@ -1,0 +1,7 @@
+Which git command displays a short history of commits along with the commit ID?
+A)  showhist
+B)  list
+C)  log
+D)  hist
+C
+C. The git log command is used to show a commit history. The other commands shownare not valid with git.

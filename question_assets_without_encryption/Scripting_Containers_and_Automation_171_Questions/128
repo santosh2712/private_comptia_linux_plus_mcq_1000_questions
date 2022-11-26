@@ -1,0 +1,7 @@
+Which of the following is the correct method for invoking the Bash shell for a script, typi-cally found as the first line of the script?
+A)  #!/BASH
+B)  #!bash
+C)  #!/bash
+D)  #!/bin/bash
+D
+D. The character sequence #!/bin/bash invokes the commands that follow as aBash script.9.

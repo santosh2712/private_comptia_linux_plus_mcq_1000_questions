@@ -1,0 +1,7 @@
+Assuming that /var/log/journal exists, which type of storage is used when theStorage= option is set to auto within journald.conf?
+A)  none
+B)  journal
+C)  persistent
+D)  volatile
+C
+C. The persistent option is the default when auto is configured and /var/log/journal exists. Of the other options, none is valid and will not log but will forwardto other targets and volatile will use memory. There is no journal setting for theStorage= option in journald.conf.

@@ -1,0 +1,7 @@
+You need to find available packages on a Fedora system managed by the dnf packagesystem. Which option to the dnf command looks for a given package?
+A)  search
+B)  info
+C)  find
+D)  locate
+A
+A. The search option looks for packages by the name given on the command line. Thepath that is searched can be controlled by the configuration file at /etc/dnf/dnf.conf.The other options are not valid for the dnf command.

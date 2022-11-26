@@ -1,0 +1,7 @@
+Which operator should be used when comparing integers to determine if one is equal toanother in a Bash script?
+A)  - ro
+B)  ===
+C)  - eq
+D)  - fe
+C
+C. The integer comparison - eq is used for comparing integers within Bash scripts. The otheranswers are not valid for Bash script comparison.

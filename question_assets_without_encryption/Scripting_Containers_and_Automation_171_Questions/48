@@ -1,0 +1,7 @@
+Which character sequence is used to add a horizontal tab using echo with a Bash script?
+A)  \h
+B)  \t
+C)  \a
+D)  \f
+B
+B. The \t escape sequence adds a horizontal tab. The other characters may have differentmeaning and so are not valid for this question. For example, \a is alert or bell.

@@ -1,0 +1,7 @@
+Which option is used to display information about current file attributes?
+A)  lsfile
+B)  lsattr
+C)  showfile
+D)  exattr
+B
+B. The lsattr command can be used to show extended attribute information about a file,such as whether the file is immutable. The other options shown are not valid.

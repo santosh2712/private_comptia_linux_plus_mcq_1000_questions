@@ -1,0 +1,7 @@
+When working with an rpm package file and using rpm2cpio, by default the output is sent towhich location?
+A)  STDOUT
+B)  The file cpio.out
+C)  The file a.out
+D)  The file /tmp/cpi.out
+A
+A. rpm2cpio sends its output to STDOUT by default, and therefore that output needs to beredirected to a file in most cases.

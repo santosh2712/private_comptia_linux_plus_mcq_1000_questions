@@ -1,0 +1,7 @@
+Which option enables SSL configuration for a given website or server?
+A)  SSLEngine
+B)  SSLDirect
+C)  SSLEnable
+D)  SSLConnect
+C
+C. The SSLEngine option needs to be set to On for SSL to be enabled for a given site orserver. The other options are not valid. Enabling SSL is important in order to provide a levelof security such that the actual data within an HTTP transaction cannot be viewed.

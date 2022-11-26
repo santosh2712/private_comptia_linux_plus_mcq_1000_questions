@@ -1,0 +1,7 @@
+Which of the following passwords can be used to secure a system such that it will not boot,even if the attacker has physical access to place a USB boot disk in the computer?
+A)  GRUB password
+B)  UEFI/BIOS password
+C)  Root password
+D)  SHA1 password
+B
+B. A password set in the BIOS can be used to prevent the system from booting or handingoff the boot process to a bootloader. Neither GRUB nor a root password will help with thisscenario because physical access is available.

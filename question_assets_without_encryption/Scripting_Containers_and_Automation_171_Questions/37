@@ -1,0 +1,7 @@
+Which of the following is valid syntax for creating a pull request with the git command?
+A)  pull- req
+B)  pull
+C)  request
+D)  request- pull
+D
+D. A git pull request is created with the request- pull subcommand. Of the otheroptions shown, there is a pull subcommand but that is used to fetch and merge code. Theother options shown do not exist.

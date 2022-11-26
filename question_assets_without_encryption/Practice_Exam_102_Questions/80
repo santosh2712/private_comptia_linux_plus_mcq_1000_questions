@@ -1,0 +1,7 @@
+The SAN has crashed again, and one of the filesystems in a Linux server has become signifi-cantly corrupt as a result. Which command and option can be used to attempt to examine thecontents of the drive without causing more damage?
+A)  fdisk - f
+B)  mke2fs - c
+C)  debugfs - c
+D)  ls - a
+C
+C. The debugfs command can be used for this purpose. When the filesystem is opened withc, it opens in catastrophic mode, meaning that it will be read- only and will not read inodeswhen opening.

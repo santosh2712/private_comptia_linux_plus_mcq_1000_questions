@@ -1,0 +1,7 @@
+Assuming that a space- separated list of values has been defined as LIST="one twothree four", which of the following for loop constructs will iterate through the ele-ments in the list?
+A)  for LIST
+B)  for VAR in LIST
+C)  for VAR in $LIST
+D)  for $LIST - > $VAR
+C
+C. The for loop construct in this case will require the variable name LIST to be precededwith a dollar sign ($), thus making option C correct. The other options will not work forthe purpose described.

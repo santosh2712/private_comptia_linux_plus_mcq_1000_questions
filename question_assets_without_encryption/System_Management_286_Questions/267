@@ -1,0 +1,7 @@
+Which of the following describes a difference between vmlinuz and vmlinux?
+A)  vmlinuz is used for zOS systems, and vmlinux is used for x86 architecture.
+B)  vmlinuz is used for 64- bit systems, and vmlinux is used for 32- bit systems.
+C)  vmlinuz is compressed, whereas vmlinux is not.
+D)  vmlinuz contains additional binary code for certain systems.
+C
+C. The vmlinuz file has been compressed and therefore consumes less disk space thanvmlinux. Both contain the Linux kernel in binary format.

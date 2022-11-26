@@ -1,0 +1,7 @@
+When running the df command, you need to change the scale such that the report showsterabytes instead of bytes. Which option will accomplish this task?
+A)  - ST
+B)  - BT
+C)  - j
+D)  - T
+B
+B. The - B option changes the format, and T sets the scale to terabytes. The other optionsdo not exist.

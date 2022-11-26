@@ -1,0 +1,7 @@
+Which of the following commands will provide the usernames in a sorted list gathered fromthe /etc/passwd file?
+A)  cat /etc/passwd | awk - F : '{print $1}' | sort
+B)  sort /etc/passwd | cut
+C)  echo /etc/passwd
+D)  cat /etc/passwd | awk '{print $1}' | sort
+A
+A. The cat command will display the contents of the file /etc/passwd and then pipethat output to the awk command. The awk command then parses its input, splitting alongthe specified separator for /etc/passwd, which is a colon (:). The output is then printedand piped to the sort command. The sort command in option B will not work becausethe cut command requires an argument. Likewise, the echo command in option C willonly echo /etc/passwd to STDOUT.

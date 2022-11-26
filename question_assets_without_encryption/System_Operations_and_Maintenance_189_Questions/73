@@ -1,0 +1,7 @@
+Which bash parameter or option will cause the shell to be executed without reading the ini-tialization files?
+A)  - - no- rc
+B)  - - no- init
+C)  - - norc
+D)  - - rc- none
+C
+C. The - - norc option causes bash to execute without reading the /etc/bash.bashrc(Debian derivatives) or /etc/bashrc (Red Hat derivatives) file or the local ~/.bashrcfile. The other options listed do not exist as options for bash, which is the default shell onmost popular Linux distributions.7.

@@ -1,0 +1,7 @@
+Which type of storage would be the most appropriate format to store a large object as asingle file in a cloud environment?
+A)  File
+B)  ext2
+C)  cifs
+D)  Blob
+D
+D. Blob, or Binary Large Object, is a storage format frequently associated with cloud envi-ronments. Blob storage enables a single object to be stored as an individual object. Theother formats are valid, but none of the other options is the most appropriate mechanismfor this scenario. File storage refers to the hierarchy of folders and files that you would seewhen using a command like ls.

@@ -1,0 +1,7 @@
+Which option to fdisk provides a list of partitions on a given device?
+A)  - s
+B)  - l
+C)  - e
+D)  - d
+B
+B. The - l option lists partitions available on a given device. The - s option prints the sizein 512- byte block sectors. The other options do not exist.

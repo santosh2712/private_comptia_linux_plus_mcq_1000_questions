@@ -1,0 +1,7 @@
+While recovering from a kernel panic and using the console, you are having difficultyworking with the console due to continual messages being displayed on the console itself.Which option to dmesg can be used to disable logging to the console?
+A)  - o "no logging console"
+B)  - D
+C)  - Q
+D)  - F
+B
+B. The - D option tells dmesg to stop displaying messages to the console. The - F option isvalid but is used to read from a file, so it is not relevant for this question. There are no - oor - Q options.

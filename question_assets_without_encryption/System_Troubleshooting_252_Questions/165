@@ -1,0 +1,7 @@
+Which of the following protocols provides a means for authentication to occur external tothe Linux system?
+A)  SSL
+B)  SSH
+C)  LDAP
+D)  AD
+C
+C. LDAP can be used for external authentication scenarios with Linux and is frequentlyused to provide authentication in an integrated environment with Microsoft Windows andActive Directory. Of the other options, neither SSL nor SSH provides the external authen-tication, although SSH may be able to integrate with other authentication means. AD isfrequently used as an abbreviation for Active Directory. While Active Directory has LDAPcapabilities, it is different and separate from LDAP.

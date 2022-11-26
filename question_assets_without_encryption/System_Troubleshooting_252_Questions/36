@@ -1,0 +1,7 @@
+168.40.3C.10.74.5.244D. 143.236.32.231192.168.51.0/24 through its gateway of 192.168.51.1?192.168.1.4?192. When troubleshooting certificate issues you need to view the entire certificate chain. Whichoption to openssl s_client displays the certificate chain?192.168.1.1C.192.168.1.100D. 192.168.1.200
+A)  route add - net 168.51.0 netmask 255.255.255.0 gw 192.168.51.1A. dig example.org @192.168.1.4 axfrA. - chain
+B)  route add - net 168.51/24 gw 192.168.1.51B.dig example.org @192.168.1.4B.- certchain
+C)  74.5.244C.route - net 192.168.51.0/24 192.168.51.1C.dig example.org @192.168.1.4 xferC.- showchainC.192.168.1.100
+D)  236.32.231D. route add 192.168.51.1 - n 192.168.51.0//255.255.255.0D. dig example.org #192.168.1.4 xferD. - showcertsD. 192.168.1.200
+D
+D. The - showcerts option displays the certificate chain for the connection. The otheroptions are not valid.

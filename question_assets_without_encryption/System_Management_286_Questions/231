@@ -1,0 +1,7 @@
+The file /etc/grub2.cfg is typically a symbolic link to which file?
+A)  /boot/grub.conf
+B)  /boot/grub2/grub.cfg
+C)  /boot/grubconf
+D)  /etc/sysconfig/grubcfg
+B
+B. The file /etc/grub2.cfg is usually a symbolic link to /boot/grub2/grub.cfg.

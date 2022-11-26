@@ -1,0 +1,7 @@
+Which git command is used to retrieve a repository from a remote server?
+A)  clone
+B)  checkout
+C)  co
+D)  retr
+A
+A. The clone command retrieves a copy of the repository for local use. The checkout andco commands are used with Subversion and not with git.

@@ -1,0 +1,7 @@
+Which option to the chmod command performs a recursive change?
+A)  - re
+B)  - R
+C)  - c
+D)  - v
+B
+B. The - R option performs a recursive change to the targets identified by the chmodcommand. The other options do not perform recursive changes for chmod.

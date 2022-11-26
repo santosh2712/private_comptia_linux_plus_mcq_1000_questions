@@ -1,0 +1,7 @@
+Which of the following commands changes the location to which HEAD is pointing with git?
+A)  git point
+B)  git checkout
+C)  git change
+D)  git load
+B
+B. The git checkout command switches the working copy to the specified branch and pointsthe HEAD toward that branch. The other commands shown as options are not valid with git.

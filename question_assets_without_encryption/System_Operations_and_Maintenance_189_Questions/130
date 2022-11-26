@@ -1,0 +1,7 @@
+Which option in journald.conf controls the maximum file size for individualjournal logs?
+A)  SystemMaxFileSize
+B)  MaxFile
+C)  LogFileSize
+D)  LogSize
+A
+A. The SystemMaxFileSize option controls the size of the journal log file to ensure thata log does not cause problems related to disk usage. The SystemMaxUse option controlsoverall size of journal files, and the default for SystemMaxFileSize is one- eighth of theSystemMaxUse setting to allow for rotation of files.210Appendix  Answers to the Review Questions

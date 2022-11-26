@@ -1,0 +1,7 @@
+Which of the following directories contains configuration for UFW?
+A)  /etc/ufwd
+B)  /etc/ufw.d
+C)  /etc/ufw
+D)  /etc/ufirewall
+C
+C. The directory /etc/ufw typically contains configuration information for UFW. Onmany systems, /etc/default/ufw will also contain commonly changed default configu-ration items.208Appendix  Answers to the Review Questions

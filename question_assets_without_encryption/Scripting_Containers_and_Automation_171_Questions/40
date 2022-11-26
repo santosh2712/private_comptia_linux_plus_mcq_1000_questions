@@ -1,0 +1,7 @@
+Which, if any, file extension is required in order for a Bash script to execute?
+A)  .sh
+B)  .bash
+C)  .bat
+D)  No special extension is necessary.
+D
+D. No special extension is necessary for a Bash script to be executed. The extension .shshown as an option is a common extension that you will see for shell scripts of any variety,but the extension isnt required.

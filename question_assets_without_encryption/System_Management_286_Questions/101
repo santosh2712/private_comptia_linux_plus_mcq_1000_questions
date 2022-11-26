@@ -1,0 +1,7 @@
+You are attempting to use rmdir to remove a directory, but there are still multiple files andother directories contained within it. Assuming that youre sure you want to remove thedirectory and all of its contents, what are the command and arguments to do so?
+A)  rm - f
+B)  rm - rf
+C)  rmdir - a
+D)  rmdir - m
+B
+B. The - rf options to rm will recursively remove contents of a directory, including otherdirectories. The - f option alone will not work in this case because of the additional direc-tories. The options given for rmdir do not exist.

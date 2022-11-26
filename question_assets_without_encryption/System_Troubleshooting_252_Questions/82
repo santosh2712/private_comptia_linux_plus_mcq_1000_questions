@@ -1,0 +1,7 @@
+You are using nmap to scan a host for open ports. However, the server is blocking ICMPecho requests. Which option to nmap can you set in order to continue the scan?
+A)  - P0
+B)  - no- ping
+C)  - s0
+D)  - ping- 0
+A
+A. Setting - P0 will cause no ping requests to precede the scan and is useful for the scenariodescribed. There is a - s option, but it is not used for this purpose. The other options are not valid.

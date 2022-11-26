@@ -1,0 +1,7 @@
+You are troubleshooting a system startup problem that prevents the system from fully boot-ing into a graphical user interface (GUI). Which systemd target could be used to furthertroubleshoot the issue?
+A)  Poweroff
+B)  Multiuser
+C)  Reboot
+D)  SafeMode
+B
+B. The multiuser target is below (before) the graphical target and therefore could be usedfor further troubleshooting. The rescue target, not listed as an option, could also be used.The poweroff and reboot targets are valid systemd targets but will not help with trouble-shooting. There is no SafeMode target.

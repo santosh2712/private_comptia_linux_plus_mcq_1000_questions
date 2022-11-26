@@ -1,0 +1,7 @@
+Which of the following commands sets the default policy for the INPUT chain to discardpackets that dont have a specific rule allowing them?
+A)  iptables INPUT DROP
+B)  iptables chain INPUT policy DROP
+C)  iptables - P INPUT DROP
+D)  iptables POLICY=DROP CHAIN=INPUT
+C
+C. The - P option sets the policy for a given chain in iptables. In this case, the chain isINPUT and the policy necessary is DROP.

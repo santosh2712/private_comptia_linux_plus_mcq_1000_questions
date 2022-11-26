@@ -1,0 +1,7 @@
+You need to update the configuration files for package repositories. Within which directoryare details of the current package repositories stored on a Debian system?
+A)  /etc/apt.list
+B)  /etc/sources.list
+C)  /etc/apt/sources.list.d/
+D)  /etc/apt.d/sources.list
+C
+C. The /etc/apt/sources.list.d/ directory contains repositories for Debian pack-ages. The other file and directory locations do not exist by default.

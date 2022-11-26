@@ -1,0 +1,7 @@
+Which PAM module can be used to lock accounts after failed login attempts?
+A)  pam_lock
+B)  pam_tally2
+C)  pam_loginlock
+D)  pam_watchlog
+B
+B. The pam_tally2 module keeps track of failed logins and can be used to lock out anaccount after a certain number of failed attempts. Note that pam_faillock provides sim-ilar functionality now that pam_tally2 has been deprecated.

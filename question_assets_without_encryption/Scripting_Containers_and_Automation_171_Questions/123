@@ -1,0 +1,7 @@
+Which character sequence is used to indicate the end of an individual clause within a casestatement in a Bash script?
+A)  //
+B)  'eol
+C)  ;;
+D)  <
+C
+C. Double semicolons are used to indicate the end of an individual clause within a Bashscript. The other sequences shown do not accomplish the task described.Chapter 3: Scripting, Containers, and Automation (Domain 3.0)219

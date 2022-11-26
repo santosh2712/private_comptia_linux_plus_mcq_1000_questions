@@ -1,0 +1,7 @@
+Which character, when prefixed within an ExecStart= option, causes a failure exit statusto be recorded but otherwise ignored?
+A)  I
+B)  %
+C)  #
+D)  -
+D
+D. A - prefixed to a filename causes failure status codes to be effectively ignored andinstead just recorded or logged. The other characters have no effect and would likely causeerrors themselves.

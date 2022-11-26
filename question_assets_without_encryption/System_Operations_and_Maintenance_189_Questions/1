@@ -1,0 +1,7 @@
+When using pkexec with PolicyKit, which option specifies the user under which theprogram will be executed?
+A)  - - username
+B)  - - account
+C)  - - user
+D)  - - login
+C
+C. The - - user option specifies the user under which the program will be executed. Theother options are not valid for this purpose.

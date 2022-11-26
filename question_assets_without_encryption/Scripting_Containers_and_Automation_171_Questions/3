@@ -1,0 +1,7 @@
+Which of the following commands removes an environment variable that has been set?
+A)  profile - - unset
+B)  env - u
+C)  set - u
+D)  import
+B
+B. The env - u command will unset an environment variable for the current session. Theunset command can also be used for this purpose.

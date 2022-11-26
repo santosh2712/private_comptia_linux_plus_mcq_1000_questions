@@ -1,0 +1,7 @@
+You are troubleshooting a service that does not stop correctly. During troubleshooting, youfind that the command to stop the service needs to be changed. Which configuration optionspecifies the command to execute for stopping a service?
+A)  StopCmd
+B)  ExecStop
+C)  StopScript
+D)  StopSvc
+B
+B. The ExecStop configuration option specifies the command that should be executed tostop the service. The other options shown are not valid for this purpose.

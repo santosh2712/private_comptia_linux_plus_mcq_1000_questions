@@ -1,0 +1,7 @@
+Which file is used to indicate the local time zone on a Linux server?
+A)  /etc/timez
+B)  /etc/timezoneconfig
+C)  /etc/localtime
+D)  /etc/localtz
+C
+C. The file /etc/localtime, which can be an actual file or a symbolic link, is used to indi-cate the local time zone. The other files listed as options do not exist.

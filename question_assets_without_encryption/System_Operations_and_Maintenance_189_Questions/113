@@ -1,0 +1,7 @@
+Which option within the sshd_config file sets per- user configuration?
+A)  UserConf
+B)  Match User
+C)  Per- User
+D)  Conf User
+B
+B. The Match User option is used to change the configuration for a specific user. Theother options shown are not valid.

@@ -1,0 +1,7 @@
+Which option to repquota does not resolve UIDs and GIDs to their names?
+A)  - n
+B)  - b
+C)  - d
+D)  - m
+A
+A. The - n option will not resolve UIDs and GIDs to their names and can be used to speedup the report. The other options are not valid.

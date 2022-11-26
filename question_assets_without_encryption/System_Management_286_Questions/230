@@ -1,0 +1,7 @@
+Which command should be run after making a change to the /etc/default/grub file?
+A)  grub
+B)  grub- mkconfig
+C)  grub- inst
+D)  reboot
+B
+B. The grub- mkconfig command should be run after making a change to the /etc/default/grub file so that a new configuration file can be created with the changedoption(s).

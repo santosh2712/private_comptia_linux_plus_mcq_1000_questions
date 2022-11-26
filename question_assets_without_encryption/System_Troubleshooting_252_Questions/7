@@ -1,0 +1,7 @@
+Which start- up type is the default for systemd services if no Type= or BusName= options arespecified?
+A)  oneshot
+B)  exec
+C)  simple
+D)  none
+C
+C. The default type is simple if no other Type= or BusName= specification is found withinthe unit file. Of the other options, both exec and oneshot are valid but not for the scenariodescribed.

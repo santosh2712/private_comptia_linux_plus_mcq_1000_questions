@@ -1,0 +1,7 @@
+You need to start a long- running process that requires a terminal and foreground processing.However, you cannot leave your terminal window open due to security restrictions.Which command will enable you to start the process and return at a later time to continuethe session?
+A)  fg
+B)  bg
+C)  kill
+D)  screen
+D
+D. The screen command starts a new terminal that can be disconnected and reconnected asneeded. Processes running from within the screen session do not know that they are runningin a screen session and therefore meet the criteria needed to satisfy this question. The fgand bg commands will not meet the criteria, and the kill command will stop a process.

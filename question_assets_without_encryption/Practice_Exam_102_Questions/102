@@ -1,0 +1,7 @@
+Which of the following commands can be used to display the current disk utilization,including free space?
+A)  df
+B)  du
+C)  diskutil
+D)  diskuse
+A
+A. The df command displays information on disk usage and can help with planning disk uti-lization over time. For example, if you note that the disk utilization is increasing significantly,preparations can be made to bring more disks online or even to change the log- rotationschedule such that logs are rotated faster, thereby freeing up space.

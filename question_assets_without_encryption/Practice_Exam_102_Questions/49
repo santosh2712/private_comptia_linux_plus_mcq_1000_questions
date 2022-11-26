@@ -1,0 +1,7 @@
+What time intervals are represented by the three numbers in the load- average outputobtained with the uptime command?
+A)  1, 5, and 15 minutes
+B)  5, 10, and 15 minutes
+C)  10, 30, and 60 seconds
+D)  1, 3, and 5 minutes
+A
+A. Load average with the uptime command is displayed in 1- , 5- , and 15- minuteincrements.

@@ -1,0 +1,7 @@
+When troubleshooting a connectivity issue, you have found that you can reach a server viathe Web but cannot ping it and suspect that there are dropped packets. Which of the follow-ing best describes a possible cause for this scenario?
+A)  TCP traffic has been blocked at the firewall.
+B)  The DNS lookup is failing.
+C)  ICMP traffic has been blocked.
+D)  There is a reject route in place.
+C
+C. The only viable possibility of those listed is that ICMP traffic is blocked. TCP trafficis obviously passing because of the ability to get there using HTTP, and DNS must alsobe working.

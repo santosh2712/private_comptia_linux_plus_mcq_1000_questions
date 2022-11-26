@@ -1,0 +1,7 @@
+When looking to parse the output of the ip command, which option can be set to removenewlines such that the output could be piped to the grep command?
+A)  - n
+B)  - o
+C)  - l
+D)  - f
+B
+B. The - o option removes newlines from the output, thereby making the output more suit-able for the grep command. The - l option specifies the number of loops for the ip addrflush command. The - f option specifies the protocol family. There is no - n option.

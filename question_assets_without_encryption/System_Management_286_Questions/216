@@ -1,0 +1,7 @@
+Which option in /etc/yum.conf is used to ensure that the kernel is not updated whenthe system is updated?
+A)  exclude=kernel*
+B)  exclude- kernel
+C)  updatekernel=false
+D)  include- except=kernel
+A
+A. The exclude option can be used to exclude certain packages. The argument acceptswildcards, and therefore excluding all kernel* updates will create the desired behavior.

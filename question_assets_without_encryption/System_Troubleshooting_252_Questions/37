@@ -1,0 +1,7 @@
+Which option to renice will increase the priority for all processes by the apache user?
+A)  renice - 1 - A apache
+B)  renice - 1 - u apache
+C)  renice - 1 - UA apache
+D)  renice apache - a - 1
+B
+B. The - u option to renice completes the task successfully. The other options arenot valid.

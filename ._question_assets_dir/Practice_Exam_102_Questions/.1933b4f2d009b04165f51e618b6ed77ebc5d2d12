@@ -1,0 +1,7 @@
+Configuration of udev devices is done by working with files in which directory?
+A)  /udev/devices
+B)  /devices/
+C)  /udev/config
+D)  /etc/udev
+D
+D. Configuration files for udev are found in /etc/udev, which makes option D correct.The other options do not exist.

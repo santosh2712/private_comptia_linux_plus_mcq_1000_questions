@@ -1,0 +1,7 @@
+Which option to systemctl can be used to help find stuck jobs?
+A)  - stuck
+B)  list- jobs
+C)  stuck- jobs
+D)  - - hung- jobs
+B
+B. Using list- jobs shows the state of jobs in progress. The other options shown are notvalid for this purpose.

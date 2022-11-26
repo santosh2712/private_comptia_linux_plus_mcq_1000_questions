@@ -1,0 +1,7 @@
+You are troubleshooting an NFS filesystem that will not mount. Which option within themount points systemd mount file is used to specify the type of filesystem being mounted?
+A)  FSType=
+B)  Type=
+C)  App=
+D)  MountType=
+B
+B. The Type= option is used to specify the type of filesystem that will be mounted. It is sim-ilar to the types used with the mount command itself. The other options shown are not valid.230Appendix  Answers to the Review Questions

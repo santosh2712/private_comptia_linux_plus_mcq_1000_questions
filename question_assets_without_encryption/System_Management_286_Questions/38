@@ -1,0 +1,7 @@
+You have downloaded a source file with the extension .gz. Which of the following com-mands will uncompress the file?
+A)  unzip
+B)  gunzip
+C)  dezip
+D)  uncomp
+B
+B. The gunzip command is used to uncompress files that have been compressed usinggzip compression.

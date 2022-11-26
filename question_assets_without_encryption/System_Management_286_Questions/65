@@ -1,0 +1,7 @@
+Which option for yum performs a search of the package cache?
+A)  seek
+B)  query
+C)  search
+D)  search
+D
+D. The search option performs a search of various fields such as the package name anddescription.

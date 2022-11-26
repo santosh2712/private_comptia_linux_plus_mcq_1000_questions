@@ -1,0 +1,7 @@
+When troubleshooting a potential hardware problem, you need to determine which physicalinterface is being used for a certain address. One way to accomplish this is with the pingcommand in order to monitor the activity lights on the device. Which of the followingoptions to ping will flood the interface with ECHO_REQUEST packets?
+A)  - e
+B)  - a
+C)  - c
+D)  - f
+D
+D. The - f option is a flood ping. This will effectively cause the interface to send and receivelarge amounts of traffic, usually making it easier to find on a switch. The - a option is anaudible ping, emitting a sound on ping. The - c option sends a certain count of pings, andthere is no - e option.

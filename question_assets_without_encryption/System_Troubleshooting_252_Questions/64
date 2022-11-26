@@ -1,0 +1,7 @@
+Which option within /etc/security/limits.conf is used to control the number oftimes a given account can log in simultaneously?
+A)  nlogins
+B)  loginmax
+C)  maxlogins
+D)  loginlimit
+C
+C. The maxlogins parameter is used to control the number of simultaneous logins for agiven account.

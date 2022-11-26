@@ -1,0 +1,7 @@
+Which option to the blkid command purges the cache to remove devices that donot exist?
+A)  - p
+B)  - a
+C)  - g
+D)  - m
+C
+C. The - g option clears the cache to remove devices that do not exist. The - p optionbypasses the cache. There are no - a or - m options for blkid.

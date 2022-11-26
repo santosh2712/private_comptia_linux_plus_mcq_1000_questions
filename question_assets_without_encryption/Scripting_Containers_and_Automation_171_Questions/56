@@ -1,0 +1,7 @@
+Which of the following commands will send the contents of /etc/passwd to bothSTDOUT and a file called passwordfile?
+A)  cat /etc/passwd > passwordfile
+B)  var /etc/passwd | passwordfile
+C)  cat /etc/passwd | tee passwordfile
+D)  echo /etc/passwd | stdout > passwordfile
+C
+C. The tee command will send output to both STDOUT and the specified file, thus makingoption C correct. Option A will redirect output to the correct file but not to STDOUT simul-taneously. The other answers will not work for this question.

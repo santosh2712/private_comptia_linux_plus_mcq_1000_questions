@@ -1,0 +1,7 @@
+Which of the following commands will print a list of six numbers beginning at 0?
+A)  list 0- 5
+B)  seq 0 1 5
+C)  echo 0- 5
+D)  seq 0 1 6
+B
+B. The seq command is used to print a sequence of numbers in a variety of formats. Theanswer for this question provides a starting point (0), an increment (1), and the final number(5), thus resulting in six numbers being displayed as output.

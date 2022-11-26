@@ -1,0 +1,7 @@
+Which of the following egrep commands will examine /etc/passwd to find users thatare using either /bin/bash or /usr/bin/zsh for their shell environment?
+A)  grep sh /etc/passwd
+B)  egrep '/*/.sh$' /etc/passwd
+C)  grep '/*/.=sh$' /etc/passwd
+D)  egrep '/*/..?sh$' /etc/passwd
+D
+D. Within a regular expression, * represents 0 or more characters, and in this case theproblem doesnt care whether a person is using /bin/bash or /usr/bin/zsh. Likewise,. matches a single character. But in the case of Bash and zsh, you need to look at the firstand optionally a second character: thus the ?, which makes the second . optional. Finally,$ anchors the pattern at the end of the string and is key for this regular expression.222Appendix  Answers to the Review Questions

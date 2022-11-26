@@ -1,0 +1,7 @@
+You are troubleshooting a service not starting on time. Which network unit target waits untilthe network is up, such as with a routable IP address?10.74.5.244D. 143.236.32.231
+A)  network.target
+B)  network- online.target
+C)  network- up.target
+D)  network- on.targetD. 236.32.231
+B
+B. The network- online.target is used to signify that the network is online and oper-ational for services that depend on the network. Of the other options, network.target isa legitimate target but is typically used to help with an orderly shutdown to ensure that ser-vices are stopped prior to the network. The other options shown are not valid.

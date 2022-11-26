@@ -1,0 +1,7 @@
+Which of the following is the correct syntax to connect to host.example.com using SSH onport 2200?
+A)  ssh - l 2200 host.example.com
+B)  ssh host;example.com
+C)  ssh host.example.com:2200
+D)  ssh host:2200 - d example.com
+C
+C. When connecting to an alternate port, you can use the - p option to set the port or use acolon to separate the host from the port.

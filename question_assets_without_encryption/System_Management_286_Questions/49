@@ -1,0 +1,7 @@
+You are working on a Debian system and need to set ownership on a file such that the userused to execute Apache can write to the file. What command can you use to determinewhich user Apache is running as?
+A)  ps auwx | grep apache
+B)  ls - a
+C)  free | grep httpd
+D)  monapache
+A
+A. The ps command, when given with arguments such as auwx, will show all processesand the owner of those processes. Combining with the grep command reveals theprocesses with the word apache in them. On other systems, this might be called httpdinstead of apache, but the question specified a Debian system.

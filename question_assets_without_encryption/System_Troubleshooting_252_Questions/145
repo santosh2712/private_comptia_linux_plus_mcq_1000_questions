@@ -1,0 +1,7 @@
+You need to determine the owner of an IP address. You have attempted to use nslookupto determine the hostname, but there was no PTR record for the IP. Which command can beused to determine who owns the IP address?
+A)  iplookup
+B)  ipowner
+C)  whois
+D)  bg
+C
+C. The whois command is used for lookups of domains and IP addresses, amongother things, and would be used for this purpose. The other commands are not valid forthis purpose.

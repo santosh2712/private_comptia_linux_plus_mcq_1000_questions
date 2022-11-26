@@ -1,0 +1,7 @@
+Which of the following commands, executed from within the UEFI shell, controls the bootconfiguration?
+A)  bootcfg
+B)  bcfg
+C)  grub- install
+D)  grcfg
+B
+B. The bcfg command within the UEFI shell is used to configure bootloaders on a UEFI-based system. The command can accept various parameters to configure how the boot-loader and kernel will load on boot. Of the other commands shown, grub- install isvalid but not within the UEFI shell.

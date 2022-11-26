@@ -1,0 +1,7 @@
+You are upgrading the kernel that has been previously compiled on the same server. Whichof the following commands incorporates the contents of the existing kernel configurationinto the new kernel?
+A)  config - - merge
+B)  make oldconfig
+C)  merge config
+D)  int configs
+B
+B. The make oldconfig command will integrate the existing configuration file into thenew configuration for the kernel. Care still needs to be taken for items that have moved orchanged within the new kernel, to ensure that the configuration is correct.

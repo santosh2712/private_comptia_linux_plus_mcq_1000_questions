@@ -1,0 +1,7 @@
+Which option to systemctl shows the current target to which the system will boot?
+A)  show
+B)  get- default
+C)  show- target
+D)  get- target
+B
+B. The get- default option shows the current target runlevel to which the system willboot. Of the other options, show displays information about configuration but not thetarget runlevel.

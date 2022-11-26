@@ -1,0 +1,7 @@
+Which of the following commands displays Media Access Control (MAC) to IP addressassociation?
+A)  arp
+B)  - x
+C)  - p
+D)  - m
+A
+A. The arp command, part of the net- tools package, displays the known MACaddresses and IP addresses on a given machine.

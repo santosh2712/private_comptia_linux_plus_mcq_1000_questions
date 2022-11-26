@@ -1,0 +1,7 @@
+Which of the following is not typically used to store shared libraries?
+A)  /lib
+B)  /etc/lib
+C)  /usr/lib
+D)  /usr/local/lib
+B
+B. The /etc/lib directory is not typically associated with library files and does not typ-ically exist on a Linux system unless manually created. The other options either containsystem libraries or can be used for that purpose.

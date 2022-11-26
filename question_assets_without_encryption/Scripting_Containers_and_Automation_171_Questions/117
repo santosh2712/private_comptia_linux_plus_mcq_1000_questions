@@ -1,0 +1,7 @@
+Which docker command sends an image to the Docker Hub registry or to a local registry?
+A)  go
+B)  send
+C)  push
+D)  upload
+C
+C. The push command sends an image to be shared at the configured location. None ofthe other commands shown are valid for use with Docker.

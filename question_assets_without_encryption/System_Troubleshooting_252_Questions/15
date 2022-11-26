@@ -1,0 +1,7 @@
+Which kill signal sends a hangup to a given process?
+A)  1
+B)  5
+C)  24
+D)  30
+A
+A. The number 1, or SIGHUP, is the signal that sends a hangup to the process. The otheroptions shown are valid signals but not for the purpose described.

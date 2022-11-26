@@ -1,0 +1,7 @@
+Which systemd target can be used to boot into a minimal system that contains a shell andbasic services?
+A)  comp.target
+B)  emergency.target
+C)  init.target
+D)  small.target
+B
+B. The emergency.target provides minimal boot with the service manager and facili-tates starting individual unit files for further troubleshooting. The other targets shown arenot valid.

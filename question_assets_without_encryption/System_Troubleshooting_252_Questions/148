@@ -1,0 +1,7 @@
+Which command can be used to capture network traffic in pcap format for later analysisby a tool like Wireshark?
+A)  tcpcap
+B)  pdump
+C)  tshark
+D)  pcapr
+C
+C. The tshark command enables capture of network traffic into a file. The other com-mands shown are not valid.234Appendix  Answers to the Review Questions

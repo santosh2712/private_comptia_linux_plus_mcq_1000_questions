@@ -1,0 +1,7 @@
+Which option within a LOG target for iptables sets a string that will be prepended tolog entries?
+A)  - - log- prefix
+B)  - - prepend
+C)  - - log- prepend
+D)  - - log- str
+A
+A. The - - log- prefix option specifies the string that will be prepended when a log entryis created by iptables. The other options shown are not valid for use with iptables.

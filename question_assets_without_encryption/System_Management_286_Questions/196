@@ -1,0 +1,7 @@
+If youd like a value set with the sysctl command to take effect on boot, within whichfile should you place the variable and its value?
+A)  /etc/sysctl.cfg
+B)  /etc/sysctl.conf
+C)  /lib/sysctl
+D)  /var/sysctl.conf
+B
+B. Variables and values placed in /etc/sysctl.conf will take effect on boot. The otherfiles listed are not valid.

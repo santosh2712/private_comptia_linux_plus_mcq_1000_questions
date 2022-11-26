@@ -1,0 +1,7 @@
+A user is using sudo to run a command and typed their password in wrong. They reportedreceiving a rude message from the system as a result. Which option has likely been enabledwithin /etc/sudoers?
+A)  fixusers
+B)  insults
+C)  failme
+D)  rude
+B
+B. The insults option, disabled by default, has been enabled in sudoers, thus causing themessage when a user types their password in wrong. The other options shown are not validwithin sudoers.

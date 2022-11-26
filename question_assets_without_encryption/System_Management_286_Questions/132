@@ -1,0 +1,7 @@
+When running the lsblk command, there is no separate partition listed for /boot. Fromwhich partition is the system likely booted?
+A)  There is a /boot partition under the / partition.
+B)  The /boot partition is hidden.
+C)  The system has not yet built the /boot partition.
+D)  The /boot partition does not show up with lsblk.
+A
+A. The /boot partition almost certainly exists but has not been partitioned into its ownspace. The /boot partition would not be hidden from lsblk if it was indeed a separatepartition.194Appendix  Answers to the Review Questions

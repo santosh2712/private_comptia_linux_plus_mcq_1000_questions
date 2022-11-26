@@ -1,0 +1,7 @@
+On a system using SysVinit as part of the basic boot process, in which directory are startupand shutdown scripts for services stored?
+A)  /etc/init- d
+B)  /etc/init
+C)  /etc/sysV
+D)  /etc/init.d
+D
+D. Scripts are stored in /etc/init.d on a system using SysVinit. You may sometimesfind these linked from /etc/rc.d/init.d as well. The other options are not valid forthis question.

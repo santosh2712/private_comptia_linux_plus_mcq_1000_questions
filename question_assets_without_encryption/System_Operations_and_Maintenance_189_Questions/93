@@ -1,0 +1,7 @@
+On which port does LDAP over SSL listen for connections?
+A)  389
+B)  443
+C)  636
+D)  3128
+C
+C. LDAP over SSL uses port 636 by default. Of the other options, port 389 is LDAPbut without SSL, port 443 is used for HTTPS communication, and 3128 is used forSquid proxy.

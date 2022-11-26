@@ -1,0 +1,7 @@
+What is the order in which user configuration files are located on login to a Bash shell?
+A)  .bash_login, .profile, /etc/profile
+B)  .bash_profile, .bash_login, .profile
+C)  .profile, .bash_login, .bash_profile
+D)  .bash_login, .bash_profile, .profile
+B
+B. User- based configuration files are located in the order .bash_profile, .bash_login,and .profile. Only the first file found is executed; the others are ignored. The file /etc/profile is a system- wide bash profile.5.

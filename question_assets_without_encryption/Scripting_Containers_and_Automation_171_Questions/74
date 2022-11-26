@@ -1,0 +1,7 @@
+Which exit code indicates success for a Bash script?
+A)  0
+B)  1
+C)  2
+D)  EOF
+A
+A. An exit code of 0 indicates that the script did not encounter an error. This exit code isgenerally associated with a successful execution of a program in Linux.

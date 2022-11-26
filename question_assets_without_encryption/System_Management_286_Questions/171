@@ -1,0 +1,7 @@
+Assume that you want to enable local client services to go to hosts on the network withoutneeding to fully qualify the name by adding the domain for either example.com or example.org. Which option in /etc/resolv.conf will provide this functionality?
+A)  search
+B)  domain
+C)  local- domain
+D)  local- order
+A
+A. The search option is used for this purpose and can be provided with multiple domainnames, each separated by a space or tab. The domain option is valid within /etc/resolv.conf but does not allow for multiple domain names.

@@ -1,0 +1,7 @@
+Which of the following best describes the concept of infrastructure as code?
+A)  The management of switches and routers using compiled programs
+B)  The management of servers and other systems using scripting, source code management,and automation
+C)  The deployment of hardware using Agile methodologies
+D)  Planning for bugs in infrastructure code and allowing time to fix them
+B
+B. Infrastructure as code typically means managing infrastructure components using some ofthe same tools that developers would use, such as source code management along with pro-grams or scripts and automation for deployments and configuration changes. These practiceshelp to facilitate continuous integration/continuous deployment (CI/CD) scenarios by auto-mating many processes.6.

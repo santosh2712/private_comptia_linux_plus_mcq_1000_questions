@@ -1,0 +1,7 @@
+Which of the following commands will display the last 50 lines of your command historywhen using Bash, including commands from the current session?
+A)  bashhist 50
+B)  history 50
+C)  cat .bash_history
+D)  tail - f .bash_history
+B
+B. The history command will display your command history, including commandsfrom the current session. You can specify how many lines of history to display, as shownin the answer for this question. Note that .bash_history will not show the current ses-sions history.

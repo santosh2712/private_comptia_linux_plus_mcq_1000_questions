@@ -1,0 +1,7 @@
+When youre viewing statistics with vmstat, which statistic represents the time that the CPUspent waiting for I/O?
+A)  sy
+B)  us
+C)  wa
+D)  io
+C
+C. The wa statistic shows time spent waiting for I/O and can be used to measure or find abottleneck related to disk. The us statistic is time spent on userspace processes, while sy istime spent on kernel processes. There is no statistic called io within vmstat.

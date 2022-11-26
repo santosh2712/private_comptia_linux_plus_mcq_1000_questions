@@ -1,0 +1,7 @@
+Which port needs to be allowed through the firewall for standard LDAP traffic to be receivedby the server?
+A)  TCP port 25
+B)  TCP port 443
+C)  TCP port 143
+D)  TCP port 389
+D
+D. Standard LDAP traffic is TCP port 389 on the server. TCP port 25 is SMTP, 443 isHTTPS, and 143 is IMAP.

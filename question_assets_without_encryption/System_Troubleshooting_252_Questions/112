@@ -1,0 +1,7 @@
+Which of the following configuration lines will set the DNS server to 192.168.1.4 using/etc/resolv.conf?
+A)  dns 168.1.4
+B)  dns- server 168.1.4
+C)  nameserver 168.1.4
+D)  name- server 168.1.4
+C
+C. The configuration option is called nameserver, and the value for the option is the IPaddress of the desired nameserver. There are several options that affect how name resolutionis performed, such as the number of attempts and timeout. See resolv.conf(5) for moreinformation.

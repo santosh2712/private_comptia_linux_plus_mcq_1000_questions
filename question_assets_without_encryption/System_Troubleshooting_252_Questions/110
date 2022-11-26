@@ -1,0 +1,7 @@
+Which of the following commands is used to display a list of physical volumesinvolved in LVM?
+A)  pvdisp
+B)  pvlist
+C)  pvscan
+D)  pvmm
+C
+C. The pvscan command displays a list of physical volumes on a given server. The PVsdisplayed are those that have been initialized with pvcreate for use with LVM.
